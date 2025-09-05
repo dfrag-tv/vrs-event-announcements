@@ -51,7 +51,7 @@ At minimum, a team qualifying to Stage 2 will play at least **4 VRS-ranked match
 - **VRS Publication Date:** 5th Sept 2025  
 - **Visa Region:** Australia (Oceania)  
 - **Compensation Beyond Prize Pool:** None  
-- **Official Ruleset:** Published on [https://docs.google.com/document/d/e/2PACX-1vQh9cmHSB9iXaQLLBXZZ_zkMjsYJhEGHbjhPR-wFUfTAt-cCofUbEIVz_4kOHomgXIFUHEjnOaUi-e2/pub](here)
+- **Official Ruleset:** Published on [here](https://docs.google.com/document/d/e/2PACX-1vQh9cmHSB9iXaQLLBXZZ_zkMjsYJhEGHbjhPR-wFUfTAt-cCofUbEIVz_4kOHomgXIFUHEjnOaUi-e2/pub)
 
 ---
 
