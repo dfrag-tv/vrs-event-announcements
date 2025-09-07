@@ -21,8 +21,8 @@ Each Open Series will be split into **three stages**, with matches played on the
 - **Stage 3** – Double-elimination playoff bracket.  
 
 **Prize Pool:** $7,500 AUD per series  
-- 1st: $4,000 AUD  
-- 2nd: $2,000 AUD  
+- 1st: $4,000 AUD  (+invite to Wildcard)
+- 2nd: $2,000 AUD  (+invite to Wildcard)
 - 3rd: $1,000 AUD  
 - 4th: $500 AUD  
 
@@ -32,7 +32,7 @@ At minimum, a team qualifying to Stage 2 will play at least **4 VRS-ranked match
 
 ## Broadcasting
 
-- **Stages 1 & 2:** open for community broadcast (anyone can stream).  
+- **Stages 1 & 2:** open for community broadcast (anyone can stream). CSTV links will must be requested by authorized broadcasters.
 - **Stage 3:** official broadcast via [twitch.tv/dfragtv](https://twitch.tv/dfragtv) and [twitch.tv/dfragtv_cs2](https://twitch.tv/dfragtv_cs2).  
 
 ---
@@ -41,17 +41,27 @@ At minimum, a team qualifying to Stage 2 will play at least **4 VRS-ranked match
 
 - **Season 2 (2026):** prize pool increases to **$10,000 AUD**.  
 - **Winners of future Open Series** will qualify for the **DFRAG Wildcard LAN**, held live at the DFRAG Studio in Brisbane.  
-- **DFRAG Invitational** (March 2026): details to be revealed later this year.  
+- **DFRAG Invitational** (Oct 2026): details to be revealed early 2026.
 
 ---
 
-## Additional Information for VRS
+## Additional Information for Open Series VRS
 
 - **Direct VRS Invites:** None (Open Qualifiers only)  
 - **VRS Publication Date:** 5th Sept 2025  
 - **Visa Region:** Australia (Oceania)  
 - **Compensation Beyond Prize Pool:** None  
 - **Official Ruleset:** Published on [here](https://docs.google.com/document/d/e/2PACX-1vQh9cmHSB9iXaQLLBXZZ_zkMjsYJhEGHbjhPR-wFUfTAt-cCofUbEIVz_4kOHomgXIFUHEjnOaUi-e2/pub)
+
+## Wilcard VRS information
+- **VRS list used**: Oceania subdivision of Asia VRS.
+- **VRS publication date**: Feb 2026
+- **VRS Tier**: 2
+- **Visa region:** Australia (Oceania)
+- **Invite method**: “Top 2 from each Open Series (6 Wildcards) + 2 supplementary Direct VRS Invites (from Oceania list, ranks - outside global top 12).”
+- **Compensation beyond prize pool**: None
+- **Tournament stages**: online → LAN.
+- **Invitation date**: Feb 8th 2026
 
 ---
 
@@ -68,16 +78,15 @@ At minimum, a team qualifying to Stage 2 will play at least **4 VRS-ranked match
 - Stage 3: **Dec 13-14, 2025**  
 
 ### DFRAG Open Series 3
-- Stage 1, 2, 3: **TBD (ETA Jan/Feb 2026)**  
+- Stage 1: January 24-25
+- Stage 2: January 31-Feb 1
+- Stage 3: February 7-8
+
+### DFRAG Wildcard LAN Season 1
+- LAN Finals: March 12-15, 2026
 
 ### DFRAG Invitational 2026
-- LAN Finals: **TBD (ETA March 2026)**  
-
-### DFRAG Open Series – Season 2 (2026)
-- Stage 1: **ETA May 2026**  
-- Stage 2: **ETA June 2026**  
-- Stage 3: **ETA August 2026**  
-- Wildcard LAN: **ETA Sept 2026**  
+- LAN finals TBD (ETA October 2026)
 
 ---
 
