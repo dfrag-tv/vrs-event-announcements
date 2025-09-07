@@ -26,7 +26,7 @@ Each Open Series will be split into **three stages**, with matches played on the
 - 3rd: $1,000 AUD  
 - 4th: $500 AUD  
 
-At minimum, a team qualifying to Stage 2 will play at least **4 VRS-ranked matches**, and at maximum **10 VRS-ranked matches**.  
+At minimum, a team qualifying to Stage 2 will play at least **4 VRS-ranked matches**, and at maximum **9 VRS-ranked matches**.  
 
 ---
 
