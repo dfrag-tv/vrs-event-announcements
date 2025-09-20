@@ -264,6 +264,45 @@ Prohibited software includes:
 
 ---
 
+## Fair Play & Active Participation
+
+- Teams must field **five (5) active, non-AFK players** in the server at all times during official matches.  
+- Intentionally playing with fewer than five active players, or deliberately idling/AFK’ing to manipulate match conditions, is strictly prohibited.  
+- Abuse of this rule (e.g., intentionally stalling, refusing to play, or otherwise undermining the competitive integrity of a match) will be considered a violation of the **spirit of fair competition**.  
+- At the organiser’s discretion, violations may result in **round forfeits, map forfeits, disqualification, or additional penalties** as outlined in the [Penalties](#penalties) section.  
+
+---
+
+## Match Forfeiture
+
+- Teams are expected to complete all scheduled matches in good faith.  
+- **Deliberate forfeits** (intentionally abandoning or surrendering entire matches without valid reason) are strictly prohibited.  
+- Acceptable reasons for forfeiting (e.g., verified technical failure, medical emergency) must be communicated to the organiser immediately and approved at their discretion.  
+- Abuse of forfeiture (e.g., skipping matches to influence seeding, avoid opponents, or manipulate standings) will be treated as a violation of the **spirit of fair competition**.  
+- Penalties for deliberate forfeits may include:  
+  - **Loss of seeding or ranking points**  
+  - **Disqualification from the current tournament**  
+  - **Suspension from future events**  
+  - **Prize forfeiture** as outlined in the [Penalties](#penalties) section
+
+---
+
+## Sportsmanship
+
+### Respectful Conduct
+All participants must treat teammates, opponents, officials, and staff with respect at all times. Abusive language, harassment, threats, or discriminatory remarks of any kind will not be tolerated.  
+
+### Competitive Integrity
+Participants must always play to the best of their ability. Intentionally losing, trolling, or griefing undermines the competition and may result in penalties.  
+
+### Professionalism
+Participants are representatives of the community. Any conduct bringing the tournament, organiser, or sponsors into disrepute (in-game or publicly on social media) may result in disciplinary action.  
+
+### Enforcement
+Breaches of sportsmanship are subject to immediate review by tournament officials. Penalties range from warnings and round losses to match forfeits, prize forfeiture, suspensions, or permanent bans, as deemed appropriate under [Penalties](#penalties).  
+
+---
+
 ## Penalties
 
 ### Disqualification
