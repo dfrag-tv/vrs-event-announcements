@@ -1,10 +1,10 @@
 # D.M.G. CS2 Ruleset
 
-**Version:** 1.3.2  
-**Date:** 07/09/25  
+- **Version:** 1.3.3  
+- **Date created:** 05/09/2025 (dd/mm/yyyy)
+- **Date updated:** 20/09/2025 (dd/mm/yyyy)
 
-**DFRAG MEDIA GROUP**
-CS2 Ruleset – 2025
+**DFRAG MEDIA GROUP** CS2 Ruleset – 2025
 
 ---
 
