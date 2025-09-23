@@ -122,8 +122,8 @@ All members must be eligible under **Rule 2 – Eligibility**.
 In extraordinary circumstances (medical issue, power outage, etc.), an unlisted substitute may be allowed at the organiser’s discretion.
 
 ### Coaches
-- Coaches are not permitted in the server.  
-- May only be used as substitutes in emergencies.  
+- Coaches are not permitted in the server during open qualifiers
+- May only be used as substitutes in emergencies.
 
 ### Extrajudicial Agreements
 “Gentlemen’s Agreements” are not sanctioned or enforceable by the organiser.
