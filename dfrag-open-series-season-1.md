@@ -73,7 +73,7 @@ At minimum, a team qualifying to Stage 2 will play at least **4 VRS-ranked match
 - Stage 3: **Oct 4-5, 2025**  
 
 ### DFRAG Open Series 2
-- Stage 1: **Nov 29-30, 2025**  
+- Stage 1: **Nov 22-23, 2025** (updated)
 - Stage 2: **Dec 6-7, 2025**  
 - Stage 3: **Dec 13-14, 2025**  
 
