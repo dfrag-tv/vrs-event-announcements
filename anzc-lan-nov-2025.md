@@ -12,6 +12,7 @@ In accordance with **Valve’s Tier 2 VRS ruleset**, this event will operate as 
 - **Region:** Oceania (sub-region of Asia for VRS purposes)  
 - **Tier:** 2 (Open LAN Qualifier – No Direct Invites)  
 - **Visa Region:** Australia  
+- **VRS Invite Date:** Nov 2025
 - **VRS Filter:** Oceania (sub-region of Asia VRS list)  
   - Rosters must include a majority of players residing in Oceania (Australia, New Zealand, or Pacific territories)
 
