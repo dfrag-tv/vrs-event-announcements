@@ -302,6 +302,10 @@ Organiser may request changes if needed.
 DFRAG Media Group maintains a commercial engagement with **OPUSV Tech Group**.  
 CEO Michael Carmody also owns **Mindfreak**.
 
+One participating player, Elijah "Coach" Parnell, performs casual social media and community management services for the Tournament Operator (DFRAG Media Group) on a contractor basis. This arrangement involves occasional paid work and does not include employment, management responsibilities, competitive decision-making authority, or influence over tournament operations.
+
+This relationship is disclosed in accordance with Section 5.3 (Potential Conflicts of Interest) of the Counter-Strike Tournament Operation Requirements. It has been reported to Valve and will be publicly available for transparency.
+
 ---
 
 ## Admin Discretion
