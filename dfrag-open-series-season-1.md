@@ -53,9 +53,9 @@ At minimum, a team qualifying to Stage 2 will play at least **4 VRS-ranked match
 - **Compensation Beyond Prize Pool:** None  
 - **Official Ruleset:** Published on [here](https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-open-series-1.md)
 
-**Stage 1 VRS publication date**: Sept 2025
-**Stage 2 VRS publication date**: Nov 2025
-**Stage 3 VRS publication date**: Jan 2026
+- **Stage 1 VRS publication date**: Sept 2025
+- **Stage 2 VRS publication date**: Nov 2025
+- **Stage 3 VRS publication date**: Jan 2026
 
 ## Wilcard VRS information
 - **VRS list used**: Oceania subdivision of Asia VRS.
