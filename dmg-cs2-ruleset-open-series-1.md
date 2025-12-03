@@ -1,4 +1,4 @@
-# D.M.G. CS2 Ruleset
+# D.M.G. CS2 Ruleset - OPEN Series - Season 1
 
 - **Version:** 1.3.3  
 - **Date created:** 05/09/2025 (dd/mm/yyyy)
