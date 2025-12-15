@@ -5,6 +5,9 @@ Following a review by Tournament Operations, a competitive ruling has been issue
 ### Summary
 **Ground Zero Gaming** forfeited scheduled matches in a DFRAG-operated VRS event while participating in another tournament, without providing sufficient notice to Tournament Operations.
 
+- Start: 16/12/2025 (dd/mm/yyyy)
+- End: 16/02/2026 (dd/mm/yyyy)
+
 ### Decision
 Effective immediately, **Ground Zero Gaming** is disqualified from all VRS-eligible events hosted by DFRAG for a period of **two (2) months**.
 
