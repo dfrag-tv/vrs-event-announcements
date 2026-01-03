@@ -1,6 +1,7 @@
 # DFRAG Open Series 3 – Additional Information
 
 ## Tournament Dates
+- **Open Regisitration:** January 10th, 2026
 - **Stage 1 (Open Qualifier):** January 24–25, 2026  
 - **Stage 2:** January 31–February 1, 2026  
 - **Stage 3:** February 7–8, 2026  
