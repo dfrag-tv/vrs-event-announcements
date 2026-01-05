@@ -125,7 +125,7 @@ The following tournaments are associated with this Wildcard Tournament for quali
 
 ## Official Ruleset
 
-- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-open-series-1.md
+- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-wildcard-s1.md
 
 (Applies where relevant; LAN-specific rules published separately if required)
 
