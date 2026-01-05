@@ -28,7 +28,11 @@
 
 ## Open Qualifiers
 
-- No Open Qualifiers are associated with this tournament.
+- No Open Qualifiers are currently associated with this tournament.
+- If all Direct VRS and Wildcard invite slots are exhausted or declined and vacancies remain, the Tournament Operator may conduct an online Open Qualifier to fill the remaining slot(s).
+- Any such Open Qualifier will be operated in accordance with Valve Tournament Operation Requirements and will be announced no fewer than **14 days** prior to its start.
+- The Open Qualifier will not be VRS-ranked unless explicitly stated in a published update to this Additional Information.
+- Rosters qualifying via an Open Qualifier must comply with all roster eligibility and continuity requirements applicable to invited rosters.
 
 ---
 
@@ -77,7 +81,11 @@ The following tournaments are associated with this Wildcard Tournament for quali
 - **Supplementary Invites:**  
   Any vacated qualification slots resulting from duplicate Open Series qualifications will be filled by issuing **Direct VRS Invites**, selected sequentially from the declared VRS list in accordance with Valve Tournament Operation Requirements.
 
-- All Wildcard and supplementary invite rosters will enter the tournament at the earliest stage and will not be seeded above higher-ranked VRS rosters.
+- **VRS Priority:**  
+  All Wildcard and supplementary invite rosters will enter the tournament at the earliest stage and will not be seeded above higher-ranked VRS rosters.
+
+- **Fallback Qualification:**  
+  If all eligible invites are exhausted or invited rosters decline and slots remain unfilled, an online Open Qualifier will be conducted to fill the remaining slot(s).
 
 ---
 
