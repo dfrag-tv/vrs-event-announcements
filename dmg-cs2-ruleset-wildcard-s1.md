@@ -281,7 +281,10 @@ Organiser may pause at any time.
 - All participants will be subject to on-site anti-cheat verification and monitoring at The DFRAG Studio.
 - Tournament officials may conduct hardware checks, software scans, and other security measures as deemed necessary.
 - **Match-fixing & Collusion:** Zero tolerance. Any attempt to manipulate match results through collusion, bribery, or external influence will result in immediate disqualification and a permanent ban from future events. Reports may be filed through the official Discord or tournament support email.
-- **Betting Restrictions:** Participants may not wager on matches they are involved in. All conflicts of interest (e.g., team sponsors connected to betting operators) must be disclosed to the Tournament Organiser.
+- **Betting Restrictions:**
+  - Participants may not wager on matches they are involved in.
+  - Tournament employees, contractors, and staff are prohibited from betting on any aspect of the Tournament.
+  - All conflicts of interest (e.g., team sponsors connected to betting operators) must be disclosed to the Tournament Organiser.
 
 ---
 
@@ -427,8 +430,15 @@ Breaches of sportsmanship are subject to immediate review by tournament official
   - Minors may opt-out of PR activity with parental/guardian consent.
 
 - **Branding:**
+
   - Team names and logos must not contain offensive, discriminatory, or infringing content.
   - The Tournament Organiser reserves the right to reject or request changes to team branding.
+
+- **Intellectual Property Protection:**
+  - In accordance with Valve's Limited Game Tournament License, teams and participants must not display on team jerseys, equipment, or any content visible during broadcasts any material that violates Valve Intellectual Property or the Steam Subscriber Agreement.
+  - Prohibited content includes, but is not limited to: game case opening sites, skin trading sites, key resellers, or companies that interact with players' Valve game inventories.
+  - Teams may not accept sponsorships from sponsors that generate revenue through activities that violate applicable Valve agreements, violate local law, or rely on Valve's game economies.
+  - Any violation of these restrictions may result in immediate disqualification and removal from broadcasts.
 
 ---
 
