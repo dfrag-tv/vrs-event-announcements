@@ -76,6 +76,7 @@
 - [Disclosures](#disclosures)
 - [Non-Exclusivity](#non-exclusivity)
 - [Non-Discriminatory Treatment](#non-discriminatory-treatment)
+- [Spectators](#spectators)
 - [Media & Rights](#media--rights)
 - [Admin Discretion](#admin-discretion)
 
@@ -385,6 +386,16 @@ Breaches of sportsmanship are subject to immediate review by tournament official
 
 ---
 
+## Spectators
+
+- All spectators must be **pre-approved** by the Tournament Organiser before attending the event.
+- All spectators must complete a **media waiver** to enter The DFRAG Studio.
+- **No participant, team member, or staff member is permitted to invite family, friends, or any other guests without express written permission from the Tournament Organiser.**
+- Unauthorized spectators will be denied entry to the venue.
+- The Tournament Organiser reserves the right to remove any spectator from the venue at any time.
+
+---
+
 ## Non-Exclusivity
 
 - The Tournament Operator undertakes not to engage in direct or indirect agreements with Teams, Rosters, or Athletes that would artificially restrict their ability to take part in other Tournaments.
@@ -405,8 +416,9 @@ Breaches of sportsmanship are subject to immediate review by tournament official
 
 - **Broadcast Rights:**
 
-  - Stages 1–2 may be community cast with a minimum 120-second delay.
-  - Co-streams must include DFRAG branding and approved sponsor slates.
+  - Broadcasting rights are solely owned by DFRAG Media Group.
+  - DFRAG will broadcast all coverage of the WILDCARD LAN from The DFRAG Studio.
+  - Anyone wishing to stream in a language other than English must contact DFRAG directly to purchase the rights.
   - Official broadcast VODs remain property of DFRAG Media Group.
 
 - **Likeness & PR:**
