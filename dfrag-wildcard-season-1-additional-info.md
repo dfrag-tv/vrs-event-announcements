@@ -18,8 +18,7 @@
 
   - 2 groups of 4 teams
   - GSL format
-  - Opening matches: Best-of-1
-  - Elimination and decider matches: Best-of-3
+  - All matches Best-of-3
   - Top 2 teams from each group advance to Stage 2
 
 - **Stage 2 – Finals (LAN):**
