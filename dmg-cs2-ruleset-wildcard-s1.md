@@ -12,6 +12,9 @@
 - **Event Dates:** March 12-16, 2026
 - **Venue:** The DFRAG Studio
 - **Location:** Brisbane, Australia
+- **Tournament Operator:** DFRAG Media Group Pty Ltd
+- **License Compliance:** This tournament operates in compliance with Valve's Limited Game Tournament License and Tournament Operation Requirements.
+- **Additional Information:** For complete VRS invitation details, seeding information, tournament format, and prize pool distribution, see the [Additional Information document](dfrag-wildcard-season-1-additional-info.md).
 
 ---
 
@@ -375,6 +378,22 @@ Breaches of sportsmanship are subject to immediate review by tournament official
 ### Prize Forfeiture
 
 - Teams may forfeit prizes if rules are breached.
+
+---
+
+## Non-Exclusivity
+
+- The Tournament Operator undertakes not to engage in direct or indirect agreements with Teams, Rosters, or Athletes that would artificially restrict their ability to take part in other Tournaments.
+- The Tournament Operator is free to restrict a Participant's participation in other Tournaments while the affected Participant is on location at this Tournament's LAN event and within the published date boundaries of the Tournament (March 12-16, 2026).
+
+---
+
+## Non-Discriminatory Treatment
+
+- All Participants of the same stage of the Tournament shall receive equal treatment in all aspects of the event, regardless of how they qualified (Direct VRS Invite, Wildcard Invite, or Open Qualifier).
+- This includes but is not limited to: accommodations, allowances, venue access, privileges, practice facilities, preparation time, and technical support.
+- Provisions for Participants must be identical in quality, duration, and availability.
+- Any compensation agreements (beyond prize pool) must be non-discriminatory and based on objective KPIs applied equally to all Participants.
 
 ---
 
