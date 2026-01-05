@@ -74,6 +74,8 @@
   - [Bans](#bans)
   - [Prize Forfeiture](#prize-forfeiture)
 - [Disclosures](#disclosures)
+- [Non-Exclusivity](#non-exclusivity)
+- [Non-Discriminatory Treatment](#non-discriminatory-treatment)
 - [Media & Rights](#media--rights)
 - [Admin Discretion](#admin-discretion)
 
@@ -96,6 +98,8 @@ All participants must reside in:
 ### Existing Ban
 
 Any participant with an active ban from FACEIT, ESL or Valve is prohibited from participating in the tournament. In addition, the Tournament Organiser can prohibit participants at their sole discretion.
+
+**Disqualification Rules:** All disqualification rules are published in the [Additional Information document](dfrag-wildcard-season-1-additional-info.md) as required by Valve Tournament Operation Requirements. Any disqualification decisions will be published at the time of enforcement. Rules are objective, transparent, and applied equally to all participants.
 
 ---
 
@@ -129,9 +133,9 @@ All members must be eligible under **Rule 2 – Eligibility**.
 
 ### Team Continuity
 
-- Teams must play with at least 3 Core Members in every match.
-- **Invited Teams:** Core Members are the 5 players initially offered the invite.
-- **Open Stage Teams:** Core Members are the 5 players initially signed up.
+- **Invited Roster Requirement:** In accordance with Valve Tournament Operation Requirements 3.10.1, a forfeit will be declared in any match where a roster does not field at least three (3) of the originally Invited Roster Athletes for the entirety of the match.
+- **Invited Teams:** Core Members are the 5 players initially offered the invite (Invited Roster Athletes).
+- **Open Qualifier Teams:** Core Members are the 5 players initially signed up.
 - **Qualified Stage Teams:** Core Members are the 5 players who played the most maps in the previous stage/tournament.
 
 ### Substitutes
