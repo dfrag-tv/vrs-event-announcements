@@ -66,7 +66,7 @@ The following tournaments are associated with this Wildcard Tournament for quali
 
 - **Invitation Date:** February 8, 2026
 - **VRS publication date used for invites:** February 2026
-- **VRS publication date used for seeding:** February 2026
+- **VRS publication date used for seeding:** March 2026
 
 ---
 
