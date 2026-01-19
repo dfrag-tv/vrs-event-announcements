@@ -157,7 +157,7 @@ Participants will be informed of roster lock dates by the organiser.
 - de_inferno
 - de_mirage
 - de_nuke
-- de_train
+- de_anubis
 
 ### Veto
 
