@@ -91,12 +91,16 @@ The following tournaments are associated with this Wildcard Tournament for quali
 
 ## Prize Pool and Compensation
 
-**Total Prize Pool:** $20,000 AUD
+**Total Prize Pool:** $25,000 AUD
 
-- **1st:** $11,000 AUD
-- **2nd:** $5,000 AUD
+- **1st:** $12,000 AUD
+- **2nd:** $6,000 AUD
 - **3rd:** $3,000 AUD
-- **4th:** $1,000 AUD
+- **4th:** $1,500 AUD
+- **5th:** $750 AUD
+- **6th:** $750 AUD
+- **7th:** $500 AUD
+- **8th:** $500 AUD
 
 - **Compensation beyond prize pool:** None
 
