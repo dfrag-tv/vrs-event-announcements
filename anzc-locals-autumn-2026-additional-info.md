@@ -21,14 +21,16 @@
 - **Stage 1 – Group Stage:**
   - 2 groups of 4 teams
   - GSL format
-  - All matches Best-of-3
+  - Opening matches Best-of-1 (BO1)
+  - All following matches Best-of-3 (BO3)
   - Top 2 teams from each group advance to Stage 2
   - March 16th
 
 - **Stage 2 – Finals (LAN):**
   - 4 teams
   - Double-elimination bracket
-  - All matches Best-of-3
+  - Opening matches Best-of-1 (BO1)
+  - All following matches Best-of-3 (BO3)
   - March 17th
 
 ## Open Qualifiers
