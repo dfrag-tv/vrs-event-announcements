@@ -1,4 +1,4 @@
-# DFRAG AFTER PARTY LAN – Additional Information
+# ANZC LOCALS AUTUMN 2026 – Additional Information
 
 ## Tournament Operator
 
@@ -12,23 +12,27 @@
 
 ## Tournament Format
 
+- **Registration** 21st Feb
+
 - **Tournament stages:** Group Stage (LAN), Finals (LAN)
 
 - **Stage 1 – Group Stage:**
-
   - 2 groups of 4 teams
   - GSL format
   - All matches Best-of-3
   - Top 2 teams from each group advance to Stage 2
+  - March 16th
 
 - **Stage 2 – Finals (LAN):**
   - 4 teams
   - Double-elimination bracket
   - All matches Best-of-3
+  - March 17th
 
 ## Open Qualifiers
 
 - This tournament is **Open Qualifier only**.
+- Hosted online - FACEIT March 9th - 10th
 - All participating rosters must qualify via an online Open Qualifier.
 - No Direct VRS Invites or Wildcard Invites will be issued for this tournament.
 - The Open Qualifier will be operated in accordance with the Valve Tournament Operation Requirements.
@@ -36,7 +40,6 @@
 - The Open Qualifier schedule will be announced in a published update to this Additional Information in compliance with Valve Tournament Operation Requirements
 - The Open Qualifier will not be VRS-ranked unless explicitly stated in a published update to this Additional Information.
 - Rosters qualifying via the Open Qualifier must comply with all roster eligibility, continuity, and integrity requirements applicable to the tournament.
-
 
 ---
 
@@ -58,7 +61,7 @@ None
 ### Invite Method
 
 - **Qualification Method:** Open Qualifier
-- **Invitation Date:** March, 2026
+- **Invitation Date:** March 2026
 - **VRS publication date used for invites:** March 2026
 - **VRS publication date used for seeding:** March 2026
 
@@ -66,8 +69,8 @@ None
 
 ## Seeding and Invite Resolution
 
-- **Seeding:**  
-  
+- **Seeding:**
+
   All tournament slots are allocated exclusively via the Open Qualifier.
   Seeding for all tournament stages will be determined using the applicable VRS publication specified above.
 
@@ -77,14 +80,10 @@ None
 
 **Total Prize Pool:** $12,500 AUD
 
-- **1st:** $4,500 AUD
+- **1st:** $6,500 AUD
 - **2nd:** $3,000 AUD
 - **3rd:** $2,000 AUD
 - **4th:** $1,000 AUD
-- **5th:** $500 AUD
-- **6th:** $500 AUD
-- **7th:** $500 AUD
-- **8th:** $500 AUD
 
 - **Compensation beyond prize pool:** MVP Hardware
 
@@ -112,7 +111,7 @@ None
 ## Registration Fee
 
 - A registration fee may apply to teams entering the Open Qualifier.
-Any applicable fee, payment method, and refund policy (if any) will be clearly stated at the time of registration.
+  Any applicable fee, payment method, and refund policy (if any) will be clearly stated at the time of registration.
 
 ---
 
