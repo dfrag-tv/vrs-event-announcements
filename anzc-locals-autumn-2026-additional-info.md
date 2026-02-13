@@ -6,13 +6,15 @@
 
 ## Tournament Dates
 
-- **LAN Event:** March 16–17, 2026
+- **LAN Event:** March 16th–17th, 2026
 
 ---
 
 ## Tournament Format
 
 - **Registration** 21st Feb
+
+- **Open Quals** 9th-10th March
 
 - **Tournament stages:** Group Stage (LAN), Finals (LAN)
 
