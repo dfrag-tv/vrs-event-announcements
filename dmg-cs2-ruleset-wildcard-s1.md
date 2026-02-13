@@ -73,6 +73,14 @@
   - [Disqualification](#disqualification)
   - [Bans](#bans)
   - [Prize Forfeiture](#prize-forfeiture)
+- [Integrity, Betting & Conduct Regulations](#integrity-betting--conduct-regulations)
+  - [12.1 Anti-Match-Fixing Policy](#121-anti-match-fixing-policy)
+  - [12.2 Reporting & Cooperation](#122-reporting--cooperation)
+  - [12.3 Code of Conduct](#123-code-of-conduct)
+  - [12.4 Integrity Officer](#124-integrity-officer)
+  - [12.5 Disciplinary Process](#125-disciplinary-process)
+  - [12.6 Sanctions](#126-sanctions)
+  - [12.7 Appeals](#127-appeals)
 - [Disclosures](#disclosures)
 - [Non-Exclusivity](#non-exclusivity)
 - [Non-Discriminatory Treatment](#non-discriminatory-treatment)
@@ -389,6 +397,108 @@ Breaches of sportsmanship are subject to immediate review by tournament official
 
 ---
 
+## Integrity, Betting & Conduct Regulations
+
+All participants in the Tournament are bound by the following integrity and conduct requirements.
+
+---
+
+### 12.1 Anti-Match-Fixing Policy
+
+Participants are strictly prohibited from:
+
+a) manipulating any match, map, round, or in-game event  
+b) betting on any Tournament Organiser-run event  
+c) sharing inside information  
+d) accepting inducements  
+e) failing to report suspicious approaches
+
+Breaches may result in immediate suspension and disciplinary action.
+
+---
+
+### 12.2 Reporting & Cooperation
+
+Participants must:
+
+a) report integrity concerns immediately  
+b) cooperate with investigations  
+c) attend integrity briefings  
+d) provide requested evidence
+
+Failure to cooperate constitutes a separate offence.
+
+---
+
+### 12.3 Code of Conduct
+
+Participants must:
+
+a) behave professionally  
+b) respect officials and opponents  
+c) comply with equipment rules  
+d) avoid abusive or discriminatory conduct  
+e) avoid public misconduct damaging the Tournament
+
+---
+
+### 12.4 Integrity Officer
+
+The Tournament Organiser appoints an Integrity Officer empowered to:
+
+- receive reports
+- conduct investigations
+- impose provisional suspensions
+- liaise with regulators and wagering operators
+- recommend sanctions
+
+Contact:
+
+Email: integrity@dfrag.tv
+Hotline: +61-412-914-628
+
+---
+
+### 12.5 Disciplinary Process
+
+1. allegation received
+2. evidence preserved
+3. participant notified
+4. provisional suspension if required
+5. investigation conducted
+6. decision issued
+7. sanction imposed
+8. appeal window opened
+
+---
+
+### 12.6 Sanctions
+
+#### Minor Breaches
+
+- warnings
+- fines
+- map penalties
+
+#### Serious Breaches
+
+- disqualification
+- prize forfeiture
+- suspensions
+
+#### Critical Breaches
+
+- lifetime bans
+- referral to authorities
+
+---
+
+### 12.7 Appeals
+
+Appeals must be lodged in writing within seventy-two (72) hours of sanction notification.
+
+---
+
 ## Spectators
 
 - All spectators must be **pre-approved** by the Tournament Organiser before attending the event.
@@ -418,19 +528,16 @@ Breaches of sportsmanship are subject to immediate review by tournament official
 ## Media & Rights
 
 - **Broadcast Rights:**
-
   - Broadcasting rights are solely owned by DFRAG Media Group.
   - DFRAG will broadcast all coverage of the WILDCARD LAN from The DFRAG Studio.
   - Anyone wishing to stream in a language other than English must contact DFRAG directly to purchase the rights.
   - Official broadcast VODs remain property of DFRAG Media Group.
 
 - **Likeness & PR:**
-
   - By competing, participants consent to interviews, photos, and the use of their name/likeness on DFRAG channels.
   - Minors may opt-out of PR activity with parental/guardian consent.
 
 - **Branding:**
-
   - Team names and logos must not contain offensive, discriminatory, or infringing content.
   - The Tournament Organiser reserves the right to reject or request changes to team branding.
 
