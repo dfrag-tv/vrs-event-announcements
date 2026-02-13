@@ -114,8 +114,8 @@ None
 
 ## Registration Fee
 
-- A registration fee may apply to teams entering the Open Qualifier.
-  Any applicable fee, payment method, and refund policy (if any) will be clearly stated at the time of registration.
+- A registration fee per team applies to the top 8 teams that qualify for the LAN. Fee amount, payment method, and refund policy (if any) will be clearly stated at the time of qualification or in a published update to this Additional Information.
+- A registration fee may apply to teams entering the Open Qualifier. Any applicable fee, payment method, and refund policy (if any) will be clearly stated at the time of registration.
 
 ---
 
