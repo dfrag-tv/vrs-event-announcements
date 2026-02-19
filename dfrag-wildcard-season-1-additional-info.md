@@ -123,6 +123,23 @@ The following tournaments are associated with this Wildcard Tournament for quali
 
 ---
 
+## Conflict of Interest Disclosure
+
+Christopher “dexter” Nong is an active player competing for Thunder Downunder and is also employed by HP Inc.
+
+HP Inc. is the parent company of OMEN and HyperX, both of which are sponsors of the DFRAG Wildcard LAN S1 event.
+
+To mitigate any real or perceived conflict of interest:
+
+- Christopher “dexter” Nong holds no decision-making authority over tournament operations, invitations, seeding, match administration, rule enforcement, or disciplinary actions.
+- All competitive, administrative, and integrity-related decisions are made independently by the Tournament Operator, DFRAG Media Group Pty Ltd, in accordance with Valve Tournament Operation Requirements.
+- Sponsorship relationships do not influence competitive outcomes, invitations, seeding, or rulings.
+- Any future conflicts identified will be disclosed publicly and managed in line with the official ruleset and Valve requirements.
+
+This disclosure is provided in the interest of transparency and competitive integrity.
+
+---
+
 ## Official Ruleset
 
 - https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-wildcard-s1.md
