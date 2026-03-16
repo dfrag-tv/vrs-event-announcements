@@ -2,8 +2,8 @@
 
 ## Tournament Dates
 
-- **Open Regisitration:** March 14th, 2026
-- **Stage 1 (Open Qualifier):** March 28-29, 2026
+- **Open Regisitration:** March 16th, 2026
+- **Stage 1 (Open Qualifier):** March 30-31, 2026
 - **Stage 2:** April 11-12, 2026
 - **Stage 3:** April 18–19, 2026
 
@@ -25,7 +25,8 @@
 - **Tournament Tier:** Tier 2
 - **Ranked Stages:** Stage 2 and Stage 3
 - **Direct VRS Invites:** None (Open Qualifiers only)
-- **VRS publication date used for ranking:** April 2026
+- **Invitation Date:** Not applicable
+- **VRS publication date used for seeding:** April 2026
 
 ---
 
@@ -58,7 +59,8 @@
 
 ## Integrity and Disqualification
 
-- Integrity, eligibility, and conduct rules are defined in the official ruleset
+- Integrity, eligibility, and conduct rules are defined in the official ruleset.
+  Disqualification decisions will be based solely on objective criteria defined in the ruleset and will be published at the time of enforcement.
 - Any disqualification decisions will be published at the time of enforcement
 
 ---
