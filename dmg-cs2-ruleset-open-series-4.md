@@ -1,8 +1,8 @@
 # D.M.G. CS2 Ruleset - OPEN Series 4
 
-- **Version:** 1.3.3
+- **Version:** 1.3.4
 - **Date created:** 05/09/2025 (dd/mm/yyyy)
-- **Date updated:** 03/03/2026 (dd/mm/yyyy)
+- **Date updated:** 07/04/2026 (dd/mm/yyyy)
 
 **DFRAG MEDIA GROUP** CS2 Ruleset – 2026
 
@@ -28,6 +28,7 @@
   - [Roster Lock](#roster-lock)
 - [Tournament Structure](#tournament-structure)
   - [Open Qualifier](#open-qualifier)
+  - [Vacancies & Replacements](#vacancies--replacements)
   - [Closed Qualifier](#closed-qualifier)
   - [Main Event](#main-event)
 - [Prize Pool](#prize-pool)
@@ -57,6 +58,7 @@
   - [Positions](#positions)
   - [Other Software](#other-software)
 - [Fair Play & Active Participation](#fair-play--active-participation)
+- [Scheduling Commitment & Conflict Policy](#scheduling-commitment--conflict-policy)
 - [Match Forfeiture](#match-forfeiture)
 - [Sportsmanship](#sportsmanship)
 - [Penalties](#penalties)
@@ -150,6 +152,32 @@ Participants may transfer teams after the tournament starts only with organiser 
 ### Roster Lock
 
 Participants will be informed of roster lock dates by the organiser.
+
+---
+
+## Tournament Structure
+
+### Open Qualifier
+
+Full tournament dates, stage names, format, and qualification details for this event are published in the [Additional Information document](dfrag-open-series-4-additional-info.md).
+
+### Vacancies & Replacements
+
+The same vacancy rules apply if a roster is **removed** by the Tournament Organiser under other rules (including the [Scheduling Commitment & Conflict Policy](#scheduling-commitment--conflict-policy)) **before** the start of the relevant stage, not only when a roster withdraws voluntarily.
+
+1. **Withdrawal or removal before stage start:** If a roster qualified for any stage **withdraws or is removed prior to the start of that stage**, the vacant slot is filled by the **next-highest-placing** eligible roster from the **most recent relevant qualifier**, as determined by **final standings** and **predefined tiebreakers** published with the official qualifier results or in the [Additional Information document](dfrag-open-series-4-additional-info.md).
+
+2. **Cross-qualifier fallback:** If no eligible roster is available from that qualifier, the Tournament Organiser selects a replacement based on the **highest-performing non-qualified** roster **across all qualifiers** for this tournament, using **objective performance metrics** defined in the same published materials (e.g. map differential, round differential).
+
+3. **Transparency:** All replacement selections follow **transparent, pre-defined criteria** published with or before the relevant qualifier outcomes. **No discretionary invites** are issued; each selection must be traceable to published standings, tiebreakers, or published metric ordering.
+
+### Closed Qualifier
+
+Where applicable, closed qualifier stages for this event are described in the [Additional Information document](dfrag-open-series-4-additional-info.md).
+
+### Main Event
+
+Main-event stages for this event are described in the [Additional Information document](dfrag-open-series-4-additional-info.md).
 
 ---
 
@@ -320,6 +348,44 @@ Prohibited software includes:
 - Intentionally playing with fewer than five active players, or deliberately idling/AFK’ing to manipulate match conditions, is strictly prohibited.
 - Abuse of this rule (e.g., intentionally stalling, refusing to play, or otherwise undermining the competitive integrity of a match) will be considered a violation of the **spirit of fair competition**.
 - At the organiser’s discretion, violations may result in **round forfeits, map forfeits, disqualification, or additional penalties** as outlined in the [Penalties](#penalties) section.
+
+---
+
+## Scheduling Commitment & Conflict Policy
+
+To preserve competitive integrity, broadcast quality, and operational fairness, all participating rosters must ensure **full availability** across the published tournament dates (as set out in the [Additional Information document](dfrag-open-series-4-additional-info.md) and related announcements).
+
+### Commitment Requirement
+
+Participating rosters must not accept or remain committed to any other tournament that **materially overlaps** with those dates where such participation would reasonably risk:
+
+- Delayed arrival or early departure
+- Missed or rescheduled matches
+- Reduced competitive performance
+- Disruption to the tournament schedule or broadcast
+
+### Declaration of Conflicts
+
+Rosters must disclose any known or potential scheduling conflicts **at registration or when accepting an invitation**. Failure to disclose may result in penalties under the [Penalties](#penalties) section.
+
+### Priority Obligation
+
+Upon accepting participation in this tournament, rosters are expected to treat this event as a **primary competitive commitment** across the published tournament dates.
+
+### Failure to Fulfil Participation
+
+If a roster is unable to meet its obligations due to participation in another tournament, the Tournament Organiser may:
+
+- Declare a forfeit for affected matches
+- Remove the roster from the tournament
+- Disqualify the roster from prize eligibility
+- Restrict eligibility for future events
+
+Further match-level expectations and penalties are set out in [Match Forfeiture](#match-forfeiture).
+
+### Replacement Rights
+
+The Tournament Organiser may replace any roster that cannot guarantee full availability. Procedure, ordering, and transparency requirements are defined under [Vacancies & Replacements](#vacancies--replacements) in **Tournament Structure**.
 
 ---
 

@@ -38,6 +38,18 @@
 
 ---
 
+## Vacancies & Replacements
+
+If a roster qualified for any stage withdraws prior to the start of that stage, the vacant slot will be filled by the next highest-placing roster from the most recent relevant qualifier, as determined by final standings and predefined tiebreakers.
+
+If no eligible roster is available from that qualifier, the Tournament Organiser will select a replacement based on the highest-performing non-qualified roster across all qualifiers using objective performance metrics (e.g. map differential, round differential).
+
+All replacement decisions will be made using transparent and pre-defined criteria. No discretionary invites will be issued.
+
+The same replacement ordering applies if a roster is removed by the Tournament Organiser before the start of the relevant stage; full procedure is set out in **Vacancies & Replacements** in the [official ruleset](https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-open-series-4.md).
+
+---
+
 ## Prize Pool and Compensation
 
 **Total Prize Pool:** $7,500 AUD
