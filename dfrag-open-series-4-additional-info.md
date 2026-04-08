@@ -32,7 +32,7 @@
 
 ## Open Qualifier
 
-- Open to eligible rosters from **Australia and New Zealand**
+- Open to eligible rosters physically present in **Australia and New Zealand**
 - Registration via FACEIT
 - No roster-specific or discretionary selection criteria
 

@@ -370,7 +370,7 @@ Rosters must disclose any known or potential scheduling conflicts **at registrat
 
 ### Priority Obligation
 
-Upon accepting participation in this tournament, rosters are expected to treat this event as a **primary competitive commitment** across the published tournament dates.
+Upon accepting participation in this tournament, rosters are expected to treat this event as a **primary competitive commitment** across the published tournament dates of LAN tournaments.
 
 ### Failure to Fulfil Participation
 
