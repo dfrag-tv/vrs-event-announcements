@@ -5,7 +5,7 @@ Published: **June 06, 2026**
 ## Tournament Dates
 
 - **Open Registration Opens:** June 13, 2026
-- **Registration / Roster Lock:** June 18, 2026, 23:59 AEST
+- **Registration Close:** June 18, 2026, 23:59 AEST
 - **VRS Seed Lock / LAN Slot Allocation:** June 19, 2026
 - **Stage 1 - Online Open Qualifier:** June 20, 2026
 - **Online Open Qualifier Overflow Date:** June 21, 2026, if required

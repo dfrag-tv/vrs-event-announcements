@@ -17,7 +17,7 @@
 - **Additional Information:** For complete VRS invitation details, seeding information, tournament format, and prize pool distribution, see the [Additional Information document](dfrag-hyperx-nats-additional-info.md).
 - **Additional Information Published:** June 06, 2026
 - **Open Registration Opens:** June 13, 2026
-- **Registration / Roster Lock:** June 18, 2026, 23:59 AEST
+- **Registration Close:** June 18, 2026, 23:59 AEST
 - **VRS Seed Lock / LAN Slot Allocation:** June 19, 2026
 - **Online Open Qualifier:** June 20, 2026
 - **Online Open Qualifier Overflow Date:** June 21, 2026, if required
@@ -162,9 +162,9 @@ All members must be eligible under **Rule 2 – Eligibility**.
 
 - HYPERX NATIONALS 2026 will not issue Direct VRS Invites.
 - All teams must enter through open registration.
-- A team's **Core Members** are the five (5) players submitted and confirmed at Registration / Roster Lock.
-- For teams directly seeded into the Offline LAN Main Event through open registration and VRS seeding, Core Members are the five (5) players confirmed at Registration / Roster Lock and used for VRS seeding validation.
-- For teams entering through the Online Open Qualifier, Core Members are the five (5) players confirmed at Registration / Roster Lock and used in the Online Open Qualifier.
+- A team's **Core Members** are the five (5) players submitted and confirmed during open registration.
+- For teams directly seeded into the Offline LAN Main Event through open registration and VRS seeding, Core Members are the five (5) players confirmed during open registration and used for VRS seeding validation.
+- For teams entering through the Online Open Qualifier, Core Members are the five (5) players confirmed during open registration and used in the Online Open Qualifier.
 - Teams must field at least three (3) Core Members for the entirety of each official match.
 - Failure to field at least three (3) Core Members may result in a match forfeit.
 - Substitutions must not be used to misrepresent roster identity, bypass eligibility requirements, or manipulate VRS seeding.
