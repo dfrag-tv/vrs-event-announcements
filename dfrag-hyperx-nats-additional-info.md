@@ -70,8 +70,13 @@ All teams must enter through open registration. No team will receive a Direct VR
 - The Online Open Qualifier will be played on **FACEIT** using **FACEIT Anti-Cheat**, on servers in **Sydney, Australia**.
 - Online Open Qualifier matches are hosted via **FACEIT**. Online Open Qualifier registration on FACEIT is qualifier platform entry only and requires confirmed Open Registration.
 - Entry into the Online Open Qualifier is free.
-- The Online Open Qualifier is open only to confirmed registered rosters based in, or able to compete from, **Australia and New Zealand**, that are not directly seeded into the Offline LAN Main Event through open registration and VRS seeding.
-- For that reason, the Online Open Qualifier is limited to Oceania-eligible rosters because matches are hosted on Sydney-based FACEIT servers.
+- The Online Open Qualifier is open only to confirmed registered rosters based in **Australia and New Zealand**, or whose participating players are physically able to compete from **Australia and New Zealand** for all Online Open Qualifier matches, that are not directly seeded into the Offline LAN Main Event through open registration and VRS seeding.
+- For that reason, the Online Open Qualifier is limited to Oceania-eligible rosters because matches are hosted on Sydney-based FACEIT servers and the qualifier uses an Oceania regional filter.
+- A roster that does not satisfy the Online Open Qualifier regional eligibility requirements is not eligible to enter, be seeded into, advance from, or receive a LAN slot through the Online Open Qualifier pathway.
+- Roster eligibility for the Online Open Qualifier may be checked before seeding, during the qualifier, after the qualifier, and before final LAN slot confirmation.
+- If an ineligible roster is mistakenly entered into the Online Open Qualifier bracket, that roster will be removed from LAN slot contention once identified.
+- If an ineligible roster finishes in a LAN qualification position, the LAN slot will pass to the next highest-placing eligible Oceania roster from the Online Open Qualifier according to the published standings and tiebreaker procedure.
+- This is an objective eligibility procedure and is not a Direct VRS Invite, discretionary invite, wildcard invite, or roster-specific selection.
 - The Online Open Qualifier will be double-elimination.
 - Matches will be **Best-of-1** until qualification matches.
 - Qualification matches will be **Best-of-3**.
@@ -101,6 +106,9 @@ All teams must enter through open registration. No team will receive a Direct VR
 - **Ranked Stages:** Stage 1 Online Open Qualifier and Stage 2 Offline LAN Main Event
 - **Direct VRS Invites:** None
 - **Invitation Date:** Not applicable
+- **VRS parent list:** Asia
+- **Online Open Qualifier regional filter:** Oceania
+- **Online Open Qualifier eligible location filter:** Australia and New Zealand
 - **VRS publication date used for seeding:** June 2026
 
 No VRS invitations will be issued.
@@ -113,6 +121,16 @@ Instead, after open registration closes, the **top 4 confirmed registered roster
 
 No regional filter will be applied to the VRS-seeded LAN allocation pathway.
 
+For the Online Open Qualifier pathway only, the Tournament Organiser applies an Oceania regional filter within the Asia VRS region / Oceania subdivision framework.
+
+The Online Open Qualifier is not a global qualifier.
+
+The Online Open Qualifier is restricted to confirmed registered rosters that satisfy the published Oceania eligibility requirements for that pathway.
+
+For this event, Oceania eligibility for the Online Open Qualifier requires the roster to be based in Australia or New Zealand, or for its participating players to be physically able to compete from Australia or New Zealand for all Online Open Qualifier matches.
+
+Merely connecting to Sydney servers from another country does not satisfy the Online Open Qualifier eligibility requirements.
+
 All remaining confirmed registered rosters that satisfy the Online Open Qualifier regional eligibility requirements will be seeded into the Online Open Qualifier for the remaining 4 LAN slots.
 
 Rosters without a VRS rank may register and compete if eligible for the relevant pathway, but will not be seeded above VRS-ranked rosters.
@@ -121,7 +139,7 @@ Rosters without a VRS rank may register and compete if eligible for the relevant
 
 ## Open Qualifier
 
-- The Online Open Qualifier is open only to eligible rosters based in, or able to compete from, **Australia and New Zealand**.
+- The Online Open Qualifier is open only to eligible rosters based in **Australia and New Zealand**, or whose participating players are physically able to compete from **Australia and New Zealand** for all Online Open Qualifier matches.
 - Online Open Qualifier registration opens on **June 16, 2026**.
 - Online Open Qualifier registration closes on **June 20, 2026, 10:00 AEST**.
 - The Online Open Qualifier will begin on **June 20, 2026, 11:00 AEST**.
@@ -171,6 +189,19 @@ If no eligible roster is available from the Online Open Qualifier standings, the
 - head-to-head result, where applicable
 
 All replacement decisions will be made using transparent and pre-defined criteria. No discretionary invites will be issued.
+
+### Online Open Qualifier Ineligible Roster Procedure
+
+If a roster that does not satisfy the Online Open Qualifier regional eligibility requirements enters the Online Open Qualifier, advances through the bracket, or finishes in a LAN qualification position, that roster will not receive an Offline LAN Main Event slot through the Online Open Qualifier pathway.
+
+The affected LAN slot will be allocated to the next highest-placing eligible Oceania roster from the Online Open Qualifier using the following objective order:
+
+1. final qualifier placement
+2. match record
+3. map differential
+4. round differential
+5. head-to-head result, where applicable
+6. any further tiebreaker defined in the official ruleset
 
 The same replacement ordering applies if a roster is removed by the Tournament Organiser before the start of the relevant stage. The full procedure is set out in **Vacancies & Replacements** in the official ruleset.
 
