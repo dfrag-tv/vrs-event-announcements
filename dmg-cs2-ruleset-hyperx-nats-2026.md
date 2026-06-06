@@ -1,0 +1,699 @@
+# D.M.G. CS2 Ruleset - HYPERX NATIONALS 2026
+
+- **Version:** 1.4.1
+- **Date created:** 06/06/2026 (dd/mm/yyyy)
+- **Date updated:** 06/06/2026 (dd/mm/yyyy)
+
+**DFRAG MEDIA GROUP** CS2 Ruleset – 2026
+
+## Event Information
+
+- **Event Type:** LAN Event
+- **Event Dates:** July 16-19, 2026
+- **Venue:** The DFRAG Studio
+- **Location:** Brisbane, Australia
+- **Tournament Operator:** DFRAG Media Group Pty Ltd
+- **License Compliance:** This tournament operates in compliance with Valve's Limited Game Tournament License and Tournament Operation Requirements.
+- **Additional Information:** For complete VRS invitation details, seeding information, tournament format, and prize pool distribution, see the [Additional Information document](dfrag-hyperx-nats-additional-info.md).
+- **Additional Information Published:** June 06, 2026
+- **Open Registration Opens:** June 13, 2026
+- **Registration / Roster Lock:** June 18, 2026, 23:59 AEST
+- **VRS Seed Lock / LAN Slot Allocation:** June 19, 2026
+- **Online Open Qualifier:** June 20, 2026
+- **Online Open Qualifier Overflow Date:** June 21, 2026, if required
+- **Offline LAN Main Event:** July 16-19, 2026
+- **Online Platform:** FACEIT
+- **Online Anti-Cheat:** FACEIT Anti-Cheat
+- **Offline Venue:** The DFRAG Studio
+
+If there is any conflict between this ruleset and the Additional Information document regarding dates, VRS seeding, tournament format, registration, or prize distribution, the published Additional Information document controls.
+
+---
+
+## Table of Contents
+
+- [Eligibility](#eligibility)
+  - [Minimum Age](#minimum-age)
+  - [Region](#region)
+  - [Existing Ban](#existing-ban)
+- [Team](#team)
+  - [Restrictions](#restrictions)
+  - [In-Game Names (Alias)](#in-game-names-alias)
+  - [Multiple Teams](#multiple-teams)
+  - [Team Size](#team-size)
+  - [Team Continuity](#team-continuity)
+  - [Substitutes](#substitutes)
+  - [Emergency Substitutes](#emergency-substitutes)
+  - [Coaches](#coaches)
+  - [Extrajudicial Agreements](#extrajudicial-agreements)
+  - [Team Transfer](#team-transfer)
+  - [Main Event Roster Lock](#main-event-roster-lock)
+- [Registration and Qualification](#registration-and-qualification)
+  - [Open Registration](#open-registration)
+  - [VRS Seeded LAN Allocation](#vrs-seeded-lan-allocation)
+  - [Online Open Qualifier](#online-open-qualifier)
+  - [Offline LAN Main Event](#offline-lan-main-event)
+  - [Vacancies and Replacements](#vacancies-and-replacements)
+- [Tournament Structure](#tournament-structure)
+  - [Open Qualifier](#open-qualifier)
+  - [Main Event](#main-event)
+- [Prize Pool](#prize-pool)
+- [LAN Participation Fee](#lan-participation-fee)
+- [Payment](#payment)
+- [Game Specific Rules](#game-specific-rules)
+  - [Game Version](#game-version)
+  - [Map Pool](#map-pool)
+  - [Veto](#veto)
+  - [Bo1](#bo1)
+  - [Bo2](#bo2)
+  - [Bo3](#bo3)
+  - [Bo5](#bo5)
+  - [Map Advantage](#map-advantage)
+  - [In-Game Settings](#in-game-settings)
+  - [Communication](#communication)
+  - [Tactical Timeouts](#tactical-timeouts)
+  - [Technical Pauses](#technical-pauses)
+  - [Admin Pause](#admin-pause)
+- [Anti-Cheat](#anti-cheat)
+- [Cheating](#cheating)
+  - [Config Files](#config-files)
+  - [Scripts](#scripts)
+  - [Drivers](#drivers)
+  - [Overlays](#overlays)
+  - [Game Files](#game-files)
+  - [Bugs/Glitches](#bugs--glitches)
+  - [Positions](#positions)
+  - [Other Software](#other-software)
+- [Fair Play & Active Participation](#fair-play--active-participation)
+- [Match Forfeiture](#match-forfeiture)
+- [Sportsmanship](#sportsmanship)
+- [Penalties](#penalties)
+  - [Disqualification](#disqualification)
+  - [Bans](#bans)
+  - [Prize Forfeiture](#prize-forfeiture)
+- [Integrity, Betting & Conduct Regulations](#integrity-betting--conduct-regulations)
+  - [12.1 Anti-Match-Fixing Policy](#121-anti-match-fixing-policy)
+  - [12.2 Reporting & Cooperation](#122-reporting--cooperation)
+  - [12.3 Code of Conduct](#123-code-of-conduct)
+  - [12.4 Integrity Officer](#124-integrity-officer)
+  - [12.5 Disciplinary Process](#125-disciplinary-process)
+  - [12.6 Sanctions](#126-sanctions)
+  - [12.7 Appeals](#127-appeals)
+- [Disclosures](#disclosures)
+- [Non-Exclusivity](#non-exclusivity)
+- [Non-Discriminatory Treatment](#non-discriminatory-treatment)
+- [Spectators](#spectators)
+- [Media & Rights](#media--rights)
+- [Admin Discretion](#admin-discretion)
+
+---
+
+## Eligibility
+
+### Minimum Age
+
+All participants must be at least 15 years of age at the time of the first day of tournament play.  
+_Note: some venues may have a separate Minor Policy due to liquor licensing requirements._
+
+### Region
+
+All participants must reside in:
+
+- Australia
+- New Zealand
+
+### Existing Ban
+
+Any participant with an active ban from FACEIT, ESL, Valve, or another recognised integrity body is prohibited from participating in the tournament.
+
+**Disqualification Rules:** All disqualification rules are published in this ruleset and the [Additional Information document](dfrag-hyperx-nats-additional-info.md) as required by Valve Tournament Operation Requirements. Any disqualification decisions will be published at the time of enforcement. Rules are objective, transparent, and applied equally to all participants.
+
+---
+
+## Team
+
+### Restrictions
+
+#### In-Game Names (Alias)
+
+Participants may not use any in-game name (Alias) which:
+
+- Contains vulgar or offensive language
+- Contains a sponsor or product name/short name
+- Is already in use by another participant
+
+The Tournament Organiser may restrict an Alias at any time, including for reasons outside those listed above.
+
+#### Multiple Teams
+
+Participants are restricted from being on more than one team at a time.
+
+#### Team Size
+
+A team will consist of:
+
+- At least 5 Players
+- Up to 2 Substitute Players
+- 1 Coach
+
+All members must be eligible under **Rule 2 – Eligibility**.
+
+### Team Continuity
+
+- HYPERX NATIONALS 2026 will not issue Direct VRS Invites.
+- All teams must enter through open registration.
+- A team's **Core Members** are the five (5) players submitted and confirmed at Registration / Roster Lock.
+- For teams directly seeded into the Offline LAN Main Event through open registration and VRS seeding, Core Members are the five (5) players confirmed at Registration / Roster Lock and used for VRS seeding validation.
+- For teams entering through the Online Open Qualifier, Core Members are the five (5) players confirmed at Registration / Roster Lock and used in the Online Open Qualifier.
+- Teams must field at least three (3) Core Members for the entirety of each official match.
+- Failure to field at least three (3) Core Members may result in a match forfeit.
+- Substitutions must not be used to misrepresent roster identity, bypass eligibility requirements, or manipulate VRS seeding.
+
+### Substitutes
+
+- Must be added at least 24 hours before match start.
+- May only be used before the first round of record of a map.
+- Coaches cannot be used as substitutes.
+
+### Emergency Substitutes
+
+In extraordinary circumstances (medical issue, power outage, etc.), an unlisted substitute may be allowed at the organiser’s discretion.
+
+### Coaches
+
+- Coaches are not permitted in the server during open qualifiers
+- May only be used as substitutes in emergencies.
+
+### Extrajudicial Agreements
+
+“Gentlemen’s Agreements” are not sanctioned or enforceable by the organiser.
+
+### Team Transfer
+
+Participants may transfer teams after the tournament starts only with organiser approval.
+
+### Main Event Roster Lock
+
+- Registration / Roster Lock is **July 15, 2026, 23:59 AEST**.
+- All rosters must be submitted and confirmed before Registration / Roster Lock.
+- After Registration / Roster Lock, roster changes are not permitted except for approved emergency substitutes under the Emergency Substitutes rule.
+- Roster Lock applies to both:
+  - teams seeking direct seeding into the Offline LAN Main Event through open registration and VRS seeding
+  - teams entering the Online Open Qualifier
+
+---
+
+## Registration and Qualification
+
+HYPERX NATIONALS 2026 is a Ranked Tier 2 tournament with no Direct VRS Invites.
+
+All teams must enter through open registration. No roster will be invited, selected, or advanced through a Direct VRS Invite process.
+
+### Open Registration
+
+- Open registration opens on **June 13, 2026**.
+- Registration closes on **June 18, 2026, 23:59 AEST**.
+- Registration will be hosted via **GOOGLE FORMS**.
+- Open registration is free to enter.
+- Online Open Qualifier entry is free.
+- Registration is first-come-first-served, subject to:
+  - eligibility checks
+  - roster validation
+  - published capacity limits
+  - this ruleset
+  - the Additional Information document
+- Registration order and timestamps will be publicly inspectable via GOOGLE SHEETS.
+- If the published registration capacity is reached, additional teams may be placed on a waitlist in registration timestamp order.
+- Completing registration does not guarantee a LAN slot.
+
+### VRS Seeded LAN Allocation
+
+- VRS Seed Lock / LAN Slot Allocation will occur on **June 19, 2026**.
+- Initial seeding will use the VRS publication date specified in the Additional Information document.
+- No VRS filter and no Direct VRS Invites will be used.
+- Only confirmed registered rosters are eligible for VRS seeded LAN allocation.
+- The **top 4 confirmed registered rosters by VRS seeding** will be directly seeded into the Offline LAN Main Event.
+- These LAN slots are not invitations.
+- A roster must complete open registration to be eligible for direct seeding into the Offline LAN Main Event.
+- Rosters without a VRS rank may register and compete, but will not be seeded above VRS-ranked rosters.
+- All confirmed registered rosters not directly seeded into the Offline LAN Main Event will be seeded into the Online Open Qualifier.
+
+### Online Open Qualifier
+
+- The Online Open Qualifier will be played on **June 20, 2026**.
+- An overflow date of **June 21, 2026** may be used if required.
+- The Online Open Qualifier will determine the remaining **4 LAN slots**.
+- The Online Open Qualifier will be played on **FACEIT**.
+- FACEIT Anti-Cheat is required for all Online Open Qualifier matches.
+- The Online Open Qualifier is open to confirmed registered rosters that were not directly seeded into the Offline LAN Main Event through open registration and VRS seeding.
+- The Online Open Qualifier will be double-elimination.
+- Matches will be Best-of-1 until qualification matches.
+- Qualification matches will be Best-of-3.
+- The top 4 qualifying rosters from the Online Open Qualifier will advance to the Offline LAN Main Event.
+
+### Offline LAN Main Event
+
+- The Offline LAN Main Event will be held at **The DFRAG Studio** from **July 16-19, 2026**.
+- The Offline LAN Main Event will feature 8 teams:
+  - 4 teams directly seeded through open registration using the published VRS seeding snapshot
+  - 4 teams qualified through the Online Open Qualifier
+- LAN format:
+  - 8-team LAN Main Event
+  - Double-elimination group stage, 2 groups of 4
+  - 4-team double-elimination playoff
+
+### Vacancies and Replacements
+
+If a roster directly seeded into the Offline LAN Main Event through open registration and VRS seeding withdraws, fails eligibility checks, fails roster validation, or fails to complete the LAN Participation Fee by the required deadline, the vacant slot will be offered to the next highest-seeded eligible registered roster using the same published VRS seeding snapshot.
+
+If no eligible registered roster is available through the VRS seeded allocation pathway before the Online Open Qualifier begins, the vacant slot may be added to the Online Open Qualifier.
+
+If a roster qualified through the Online Open Qualifier withdraws prior to the start of the Offline LAN Main Event, the vacant slot will be filled by the next highest-placing eligible roster from the Online Open Qualifier, as determined by final standings and predefined tiebreakers.
+
+If no eligible roster is available from the Online Open Qualifier standings, the Tournament Organiser will select a replacement based on the highest-performing non-qualified roster using objective performance metrics, in this order:
+
+1. final qualifier placement
+2. match record
+3. map differential
+4. round differential
+5. head-to-head result, where applicable
+
+No discretionary invites will be issued.
+
+---
+
+## Tournament Structure
+
+### Open Qualifier
+
+The Online Open Qualifier rules are set out in [Registration and Qualification](#registration-and-qualification).
+
+### Main Event
+
+The Offline LAN Main Event rules are set out in [Registration and Qualification](#registration-and-qualification).
+
+---
+
+## Prize Pool
+
+The total prize pool is **$10,000 AUD**.
+
+- **1st:** $5,000 AUD
+- **2nd:** $2,500 AUD
+- **3rd:** $1,500 AUD
+- **4th:** $1,000 AUD
+
+No compensation will be provided beyond the published prize pool.
+
+---
+
+## LAN Participation Fee
+
+- Open registration is free to enter.
+- Online Open Qualifier entry is free.
+- All teams that receive a confirmed Offline LAN Main Event slot must pay a **$500 AUD LAN participation fee**.
+- The LAN participation fee applies only after a roster has been directly seeded into, or qualified for, the Offline LAN Main Event.
+- Payment must be completed by the deadline provided by the Tournament Organiser after LAN slot confirmation.
+- Failure to complete payment by the deadline may result in the LAN slot being forfeited and reallocated under the Vacancies and Replacements procedure.
+
+---
+
+## Payment
+
+- This section applies to prize payment.
+- Teams nominate one individual to receive prizes.
+- Payment within **90 days of tournament completion**.
+- **Tax Responsibility:** Winners are solely responsible for reporting and paying any applicable taxes on prize money.
+- **Statements:** The Tournament Organiser may issue payment or tax statements to participants upon request.
+
+---
+
+## Game Specific Rules
+
+### Game Version
+
+- Latest version of CS2.
+- In case of unstable/abusable patch, organiser may mandate a beta version.
+
+### Active Map Pool
+
+- de_ancient
+- de_overpass
+- de_dust2
+- de_inferno
+- de_mirage
+- de_nuke
+- de_anubis
+
+### Veto
+
+#### Bo1
+
+1. Team A bans 1 map
+2. Team B bans 1 map
+3. Team A bans 1 map
+4. Team B bans 1 map
+5. Team A bans 1 map
+6. Team B bans 1 map
+
+- Remaining map played.
+- Knife round decides starting side.
+
+#### Bo2
+
+1. Team A bans 1 map
+2. Team B bans 1 map
+3. Team A bans 1 map
+4. Team B bans 1 map
+5. Team A bans 1 map
+6. Team B picks 1 map (Team A picks starting side)
+
+- Remaining map played (Team B picks starting side).
+
+#### Bo3
+
+1. Team A bans 1 map
+2. Team B bans 1 map
+3. Team A picks 1 map (Team B picks starting side)
+4. Team B picks 1 map (Team A picks starting side)
+5. Team A bans 1 map
+6. Team B bans 1 map
+
+- Remaining map played. Knife round decides starting side.
+
+#### Bo5
+
+1. Team A bans 1 map
+2. Team B bans 1 map
+3. Team A picks 1 map (Team B picks starting side)
+4. Team B picks 1 map (Team A picks starting side)
+5. Team A picks 1 map (Team B picks starting side)
+6. Team B picks 1 map (Team A picks starting side)
+
+- Remaining map played. Knife round decides starting side.
+
+### Map Advantage
+
+Upper-bracket winners may receive a 1-0 map advantage.
+
+### In-Game Settings
+
+```
+mp_roundtime 1.92
+mp_freezetime 20
+mp_startmoney 800
+mp_maxrounds 24
+mp_overtime_maxrounds 6
+mp_overtime_startmoney 12500
+```
+
+### Communication
+
+- **LAN Event:** coaches may only speak during tactical pauses & map breaks.
+- **In-game chat:** only for organiser communication.
+
+### Tactical Timeouts
+
+- 3 × 30 sec per regulation match.
+- 1 × 30 sec per overtime.
+
+### Technical Pauses
+
+- Max 5 mins per team per match unless extended by organiser.
+
+### Admin Pause
+
+Organiser may pause at any time.
+
+---
+
+## Anti-Cheat
+
+- Online Open Qualifier matches will be played on FACEIT with FACEIT Anti-Cheat required.
+- Players must comply with all FACEIT Anti-Cheat requirements for Online Open Qualifier matches.
+- All participants will be subject to on-site anti-cheat verification and monitoring at The DFRAG Studio.
+- Tournament officials may conduct hardware checks, software scans, and other security measures as deemed necessary.
+- **Match-fixing & Collusion:** Zero tolerance. Any attempt to manipulate match results through collusion, bribery, or external influence will result in immediate disqualification and a permanent ban from future events. Reports may be filed through the official Discord or tournament support email.
+- **Betting Restrictions:**
+  - Participants may not wager on matches they are involved in.
+  - Tournament employees, contractors, and staff are prohibited from betting on any aspect of the Tournament.
+  - All conflicts of interest (e.g., team sponsors connected to betting operators) must be disclosed to the Tournament Organiser.
+
+---
+
+## Cheating
+
+### Config Files
+
+- Edits allowed unless they give unfair advantage.
+
+### Scripts
+
+- Prohibited (including macros).
+
+### Drivers
+
+- Modified drivers prohibited.
+
+### Overlays
+
+- All overlays prohibited (monitor, software, etc).
+
+### Game Files
+
+- No modifications allowed.
+
+### Bugs / Glitches
+
+- Intentional exploitation prohibited.
+
+### Positions
+
+- No pixel walks, glitched textures, or unfair exploits.
+
+### Other Software
+
+Prohibited software includes:
+
+- Aimhacks
+- Wallhacks
+- Radarhacks
+- Any other cheats
+
+---
+
+## Fair Play & Active Participation
+
+- Teams must field **five (5) active, non-AFK players** in the server at all times during official matches.
+- Intentionally playing with fewer than five active players, or deliberately idling/AFK’ing to manipulate match conditions, is strictly prohibited.
+- Abuse of this rule (e.g., intentionally stalling, refusing to play, or otherwise undermining the competitive integrity of a match) will be considered a violation of the **spirit of fair competition**.
+- At the organiser’s discretion, violations may result in **round forfeits, map forfeits, disqualification, or additional penalties** as outlined in the [Penalties](#penalties) section.
+
+---
+
+## Match Forfeiture
+
+- Teams are expected to complete all scheduled matches in good faith.
+- **Deliberate forfeits** (intentionally abandoning or surrendering entire matches without valid reason) are strictly prohibited.
+- Acceptable reasons for forfeiting (e.g., verified technical failure, medical emergency) must be communicated to the organiser immediately and approved at their discretion.
+- Abuse of forfeiture (e.g., skipping matches to influence seeding, avoid opponents, or manipulate standings) will be treated as a violation of the **spirit of fair competition**.
+- Penalties for deliberate forfeits may include:
+  - **Loss of seeding or ranking points**
+  - **Disqualification from the current tournament**
+  - **Suspension from future events**
+  - **Prize forfeiture** as outlined in the [Penalties](#penalties) section
+
+---
+
+## Sportsmanship
+
+### Respectful Conduct
+
+All participants must treat teammates, opponents, officials, and staff with respect at all times. Abusive language, harassment, threats, or discriminatory remarks of any kind will not be tolerated.
+
+### Competitive Integrity
+
+Participants must always play to the best of their ability. Intentionally losing, trolling, or griefing undermines the competition and may result in penalties.
+
+### Professionalism
+
+Participants are representatives of the community. Any conduct bringing the tournament, organiser, or sponsors into disrepute (in-game or publicly on social media) may result in disciplinary action.
+
+### Enforcement
+
+Breaches of sportsmanship are subject to immediate review by tournament officials. Penalties range from warnings and round losses to match forfeits, prize forfeiture, suspensions, or permanent bans, as deemed appropriate under [Penalties](#penalties).
+
+---
+
+## Penalties
+
+### Disqualification
+
+- May occur during play, resulting in forfeits.
+- Previous results may be overturned.
+
+### Bans
+
+- Teams/players may be banned from future events.
+
+### Prize Forfeiture
+
+- Teams may forfeit prizes if rules are breached.
+
+---
+
+## Integrity, Betting & Conduct Regulations
+
+All participants in the Tournament are bound by the following integrity and conduct requirements.
+
+---
+
+### 12.1 Anti-Match-Fixing Policy
+
+Participants are strictly prohibited from:
+
+a) manipulating any match, map, round, or in-game event  
+b) betting on any Tournament Organiser-run event  
+c) sharing inside information  
+d) accepting inducements  
+e) failing to report suspicious approaches
+
+Breaches may result in immediate suspension and disciplinary action.
+
+---
+
+### 12.2 Reporting & Cooperation
+
+Participants must:
+
+a) report integrity concerns immediately  
+b) cooperate with investigations  
+c) attend integrity briefings  
+d) provide requested evidence
+
+Failure to cooperate constitutes a separate offence.
+
+---
+
+### 12.3 Code of Conduct
+
+Participants must:
+
+a) behave professionally  
+b) respect officials and opponents  
+c) comply with equipment rules  
+d) avoid abusive or discriminatory conduct  
+e) avoid public misconduct damaging the Tournament
+
+---
+
+### 12.4 Integrity Officer
+
+The Tournament Organiser appoints an Integrity Officer empowered to:
+
+- receive reports
+- conduct investigations
+- impose provisional suspensions
+- liaise with regulators and wagering operators
+- recommend sanctions
+
+Contact:
+
+Email: integrity@dfrag.tv
+Hotline: +61-412-914-628
+
+---
+
+### 12.5 Disciplinary Process
+
+1. allegation received
+2. evidence preserved
+3. participant notified
+4. provisional suspension if required
+5. investigation conducted
+6. decision issued
+7. sanction imposed
+8. appeal window opened
+
+---
+
+### 12.6 Sanctions
+
+#### Minor Breaches
+
+- warnings
+- fines
+- map penalties
+
+#### Serious Breaches
+
+- disqualification
+- prize forfeiture
+- suspensions
+
+#### Critical Breaches
+
+- lifetime bans
+- referral to authorities
+
+---
+
+### 12.7 Appeals
+
+Appeals must be lodged in writing within seventy-two (72) hours of sanction notification.
+
+---
+
+## Spectators
+
+- All spectators must be **pre-approved** by the Tournament Organiser before attending the event.
+- All spectators must complete a **media waiver** to enter The DFRAG Studio.
+- **No participant, team member, or staff member is permitted to invite family, friends, or any other guests without express written permission from the Tournament Organiser.**
+- Unauthorized spectators will be denied entry to the venue.
+- The Tournament Organiser reserves the right to remove any spectator from the venue at any time.
+
+---
+
+## Non-Exclusivity
+
+- The Tournament Operator undertakes not to engage in direct or indirect agreements with Teams, Rosters, or Athletes that would artificially restrict their ability to take part in other Tournaments.
+- The Tournament Operator is free to restrict a Participant's participation in other Tournaments while the affected Participant is on location at this Tournament's LAN event and within the published date boundaries of the Offline LAN Main Event (**July 16-19, 2026**).
+
+---
+
+## Non-Discriminatory Treatment
+
+- All Participants of the same stage of the Tournament shall receive equal treatment in all aspects of the event, regardless of whether they entered the Offline LAN Main Event through VRS seeded open registration or the Online Open Qualifier.
+- This includes but is not limited to: accommodations, allowances, venue access, privileges, practice facilities, preparation time, and technical support.
+- Provisions for Participants must be identical in quality, duration, and availability.
+- Any compensation agreements (beyond prize pool) must be non-discriminatory and based on objective KPIs applied equally to all Participants.
+
+---
+
+## Media & Rights
+
+- **Broadcast Rights:**
+  - Broadcasting rights are solely owned by DFRAG Media Group.
+  - DFRAG will broadcast all coverage of HYPERX NATIONALS 2026 from The DFRAG Studio.
+  - Anyone wishing to stream in a language other than English must contact DFRAG directly to purchase the rights.
+  - Official broadcast VODs remain property of DFRAG Media Group.
+
+- **Likeness & PR:**
+  - By competing, participants consent to interviews, photos, and the use of their name/likeness on DFRAG channels.
+  - Minors may opt-out of PR activity with parental/guardian consent.
+
+- **Branding:**
+  - Team names and logos must not contain offensive, discriminatory, or infringing content.
+  - The Tournament Organiser reserves the right to reject or request changes to team branding.
+
+- **Intellectual Property Protection:**
+  - In accordance with Valve's Limited Game Tournament License, teams and participants must not display on team jerseys, equipment, or any content visible during broadcasts any material that violates Valve Intellectual Property or the Steam Subscriber Agreement.
+  - Prohibited content includes, but is not limited to: game case opening sites, skin trading sites, key resellers, or companies that interact with players' Valve game inventories.
+  - Teams may not accept sponsorships from sponsors that generate revenue through activities that violate applicable Valve agreements, violate local law, or rely on Valve's game economies.
+  - Any violation of these restrictions may result in immediate disqualification and removal from broadcasts.
+
+---
+
+## Admin Discretion
+
+The Tournament Organiser may make rulings where this ruleset is silent or ambiguous in order to protect competitive integrity and the spirit of the rule. Admin discretion cannot be used to alter published registration criteria, VRS seeded LAN allocation, Online Open Qualifier qualification paths, prize distribution, or any requirement set out in the Additional Information document.
