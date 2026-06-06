@@ -82,7 +82,7 @@ All teams must enter through open registration. No team will receive a Direct VR
 - **Ranked Stages:** Stage 1 Online Open Qualifier and Stage 2 Offline LAN Main Event
 - **Direct VRS Invites:** None
 - **Invitation Date:** Not applicable
-- **VRS publication date used for seeding:** [INSERT EXACT JUNE 2026 VRS PUBLICATION DATE]
+- **VRS publication date used for seeding:** June 2026
 
 No VRS invitations will be issued.
 
