@@ -5,9 +5,11 @@ Published: **June 06, 2026**
 ## Tournament Dates
 
 - **Open Registration Opens:** June 13, 2026
-- **Registration Close:** June 18, 2026, 23:59 AEST
-- **VRS Seed Lock / LAN Slot Allocation:** June 19, 2026
-- **Stage 1 - Online Open Qualifier:** June 20, 2026
+- **Open Registration Close:** June 16, 2026
+- **VRS Seed Lock / LAN Slot Allocation:** June 16, 2026
+- **Online Open Qualifier Registration Opens:** June 16, 2026
+- **Online Open Qualifier Registration Close:** June 20, 2026, 10:00 AEST
+- **Stage 1 - Online Open Qualifier:** June 20, 2026, 11:00 AEST
 - **Online Open Qualifier Overflow Date:** June 21, 2026, if required
 - **Stage 2 - Offline LAN Main Event:** July 16-19, 2026
 
@@ -21,13 +23,18 @@ All teams must enter through open registration. No team will receive a Direct VR
 
 ### Open Registration and VRS Seeded LAN Allocation
 
-#### Registration
+#### Open Registration
 
-- Open registration is available to all eligible rosters.
-- Registration will be hosted via **GOOGLE FORMS**.
+- Open registration opens on **June 13, 2026**.
+- Open Registration closes on **June 16, 2026**.
+- Open registration is available globally to all eligible rosters.
+- Open Registration will be hosted via **GOOGLE FORMS**.
 - Open registration is free to enter.
-- Registration is first-come-first-served, subject to eligibility, roster validation, published capacity limits, and the published tournament rules.
-- Registration order and timestamps will be publicly inspectable via GOOGLE SHEETS.
+- Open Registration is first-come-first-served, subject to eligibility, roster validation, published capacity limits, and the published tournament rules.
+- Open Registration order and timestamps will be publicly inspectable via **GOOGLE SHEETS**.
+- All teams enter through the same global open registration process via Google Forms.
+- Completing open registration does not complete Online Open Qualifier registration on FACEIT; Oceania-eligible rosters not directly seeded must separately complete Online Open Qualifier registration on FACEIT (qualifier platform entry; not official tournament registration) to enter the Online Open Qualifier.
+- Online Open Qualifier registration on FACEIT may open on the same day as Open Registration; a roster must complete and be confirmed through Open Registration before FACEIT qualifier registration is valid.
 
 #### Direct VRS Invites
 
@@ -37,22 +44,34 @@ All teams must enter through open registration. No team will receive a Direct VR
 
 #### Roster Confirmation
 
-- Registration is only valid once the roster has completed all required registration steps and has been confirmed by the Tournament Organiser.
+- Open Registration is only valid once the roster has completed all required Open Registration steps and has been confirmed by the Tournament Organiser.
 
 #### VRS Seeding and LAN Allocation
 
-- After registration closes, the Tournament Organiser will determine the initial tournament seeding using the published VRS seeding snapshot.
-- The **top 4 confirmed registered rosters by VRS seeding** will be directly seeded into the Offline LAN Main Event.
+- After Open Registration closes on **June 16, 2026**, the Tournament Organiser will determine the initial tournament seeding using the published VRS seeding snapshot.
+- VRS Seed Lock / LAN Slot Allocation will occur on **June 16, 2026**.
+- The VRS-seeded LAN allocation pathway is open globally.
+- No regional filter will be applied to the VRS-seeded LAN allocation pathway.
+- The **top 4 confirmed registered rosters globally by VRS seeding** will be directly seeded into the Offline LAN Main Event.
 - This is not a Direct VRS Invite process. A roster must complete open registration to be eligible for direct seeding into the Offline LAN Main Event.
-- Any confirmed registered roster that is not directly seeded into the Offline LAN Main Event will be seeded into the Online Open Qualifier for the remaining 4 LAN slots.
+- Any confirmed registered roster that is not directly seeded into the Offline LAN Main Event will be assessed for Online Open Qualifier eligibility.
+- Only rosters that satisfy the Online Open Qualifier regional eligibility requirements will be seeded into the Online Open Qualifier for the remaining 4 LAN slots.
 - Rosters without a VRS rank may register and compete, but will not be seeded above VRS-ranked rosters.
+- Global rosters that are not directly seeded into the Offline LAN Main Event and do not satisfy the Online Open Qualifier regional eligibility requirements will not be eligible to compete in the Online Open Qualifier.
+- All rosters directly seeded into the Offline LAN Main Event must be able to attend the LAN at **DFRAG STUDIOS** from **July 16-19, 2026**.
 
 ### Stage 1 - Online Open Qualifier
 
 - The Online Open Qualifier will determine the remaining **4 LAN slots**.
-- The Online Open Qualifier will be played on **FACEIT** using **FACEIT Anti-Cheat**.
+- Online Open Qualifier registration opens on **June 16, 2026**.
+- Online Open Qualifier registration closes on **June 20, 2026, 10:00 AEST**.
+- The Online Open Qualifier will begin on **June 20, 2026, 11:00 AEST**.
+- An overflow date of **June 21, 2026** may be used if required.
+- The Online Open Qualifier will be played on **FACEIT** using **FACEIT Anti-Cheat**, on servers in **Sydney, Australia**.
+- Online Open Qualifier matches are hosted via **FACEIT**. Online Open Qualifier registration on FACEIT is qualifier platform entry only and requires confirmed Open Registration.
 - Entry into the Online Open Qualifier is free.
-- The Online Open Qualifier is open to confirmed registered rosters that are not directly seeded into the Offline LAN Main Event through open registration and VRS seeding.
+- The Online Open Qualifier is open only to confirmed registered rosters based in, or able to compete from, **Australia and New Zealand**, that are not directly seeded into the Offline LAN Main Event through open registration and VRS seeding.
+- For that reason, the Online Open Qualifier is limited to Oceania-eligible rosters because matches are hosted on Sydney-based FACEIT servers.
 - The Online Open Qualifier will be double-elimination.
 - Matches will be **Best-of-1** until qualification matches.
 - Qualification matches will be **Best-of-3**.
@@ -90,33 +109,40 @@ All teams must enter through open registration.
 
 The tournament aligns with Valve's Ranked Tier 2 requirements. While Tier 2 events may use Direct VRS Invites, HYPERX NATIONALS 2026 will not issue Direct VRS Invites.
 
-Instead, after open registration closes, the **top 4 confirmed registered rosters by VRS seeding** will be directly seeded into the Offline LAN Main Event.
+Instead, after open registration closes, the **top 4 confirmed registered rosters globally by VRS seeding** will be directly seeded into the Offline LAN Main Event.
 
-All remaining confirmed registered rosters will be seeded into the Online Open Qualifier for the remaining 4 LAN slots.
+No regional filter will be applied to the VRS-seeded LAN allocation pathway.
 
-Rosters without a VRS rank may register and compete in the Online Open Qualifier, but will not be seeded above VRS-ranked rosters.
+All remaining confirmed registered rosters that satisfy the Online Open Qualifier regional eligibility requirements will be seeded into the Online Open Qualifier for the remaining 4 LAN slots.
+
+Rosters without a VRS rank may register and compete if eligible for the relevant pathway, but will not be seeded above VRS-ranked rosters.
 
 ---
 
 ## Open Qualifier
 
-- Open to eligible rosters based in, or able to compete from, **Australia and New Zealand**.
+- The Online Open Qualifier is open only to eligible rosters based in, or able to compete from, **Australia and New Zealand**.
+- Online Open Qualifier registration opens on **June 16, 2026**.
+- Online Open Qualifier registration closes on **June 20, 2026, 10:00 AEST**.
+- The Online Open Qualifier will begin on **June 20, 2026, 11:00 AEST**.
+- Online Open Qualifier matches are hosted on **FACEIT servers in Sydney, Australia**. For that reason, the Online Open Qualifier is limited to Oceania-eligible rosters.
 - Rosters must be able to attend the LAN Main Event at **DFRAG STUDIOS** from **July 16-19, 2026** if qualified.
-- Registration will be hosted via **FACEIT**.
+- Online Open Qualifier registration (FACEIT platform registration) will be hosted via **FACEIT**. This is qualifier platform entry only and does not replace Open Registration.
 - Online matches will be played on **FACEIT** with **FACEIT Anti-Cheat** required.
-- Entry into open registration and the Online Open Qualifier is free.
-- The Online Open Qualifier is open to all confirmed registered rosters that are not directly seeded into the Offline LAN Main Event through VRS seeding.
+- Entry into the Online Open Qualifier is free. Open Registration via Google Forms is the official tournament registration pathway and is separate from Online Open Qualifier registration on FACEIT.
+- The Online Open Qualifier is open to confirmed registered Oceania-eligible rosters that are not directly seeded into the Offline LAN Main Event through global VRS seeding.
 - The Online Open Qualifier will be double-elimination.
 - Matches will be Best-of-1 until qualification matches.
 - Qualification matches will be Best-of-3.
 - No roster-specific or discretionary selection criteria will be used.
-- Registration order and timestamps will be publicly inspectable via FACEIT.
+- Online Open Qualifier registration order and timestamps will be publicly inspectable via **FACEIT**.
 
 ---
 
 ## LAN Participation Fee
 
-Open registration and the Online Open Qualifier are free to enter.
+- Open Registration is free to enter.
+- Online Open Qualifier registration on FACEIT is free to enter, but requires confirmed Open Registration.
 
 All teams that receive a confirmed Offline LAN Main Event slot must pay a **$500 AUD LAN participation fee**.
 
@@ -130,7 +156,7 @@ Failure to complete payment by the deadline may result in the LAN slot being for
 
 ## Vacancies & Replacements
 
-If a roster directly seeded into the Offline LAN Main Event through open registration and VRS seeding withdraws, fails eligibility checks, fails roster validation, or fails to complete the LAN participation fee by the required deadline, the vacant slot will be offered to the next highest-seeded eligible registered roster using the same published VRS seeding snapshot.
+If a roster directly seeded into the Offline LAN Main Event through open registration and VRS seeding withdraws, fails eligibility checks, fails roster validation, or fails to complete the LAN participation fee by the required deadline, the vacant slot will be offered to the next highest-seeded eligible registered roster globally using the same published VRS seeding snapshot.
 
 If no eligible registered roster is available through the VRS seeded allocation pathway before the Online Open Qualifier begins, the vacant slot may be added to the Online Open Qualifier.
 
@@ -190,6 +216,7 @@ The LAN participation fee is not prize compensation and does not alter the prize
 ## Verifiability
 
 - This Additional Information is published on a platform that preserves version history.
-- Registration order and timestamps are publicly inspectable via FACEIT.
+- Open registration order and timestamps are publicly inspectable via **GOOGLE SHEETS**.
+- Online Open Qualifier registration order and timestamps are publicly inspectable via **FACEIT**.
 - The VRS seeding snapshot used for LAN slot allocation and Online Open Qualifier seeding will be published or linked before the VRS Seed Lock.
 - Any updates to this Additional Information will be preserved through version history.
