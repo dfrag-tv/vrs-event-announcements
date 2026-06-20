@@ -1,5 +1,7 @@
 # HYPERX NATIONALS 2026 – Additional Information
 
+An improved formatted version is available [here](./dfrag-hyperx-nats-additional-info-formatted.md)
+
 Published: **June 06, 2026**
 
 ## Tournament Dates
