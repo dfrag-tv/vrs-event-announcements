@@ -362,7 +362,7 @@ No compensation will be provided beyond the published prize pool.
 ### Active Map Pool
 
 - de_ancient
-- de_overpass
+- de_cache
 - de_dust2
 - de_inferno
 - de_mirage

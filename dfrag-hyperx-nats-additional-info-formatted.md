@@ -1,4 +1,4 @@
-# HYPERX NATIONALS 2026 – Additional Information (improved formatting)
+# HYPERX NATIONALS 2026 – Additional Information
 
 ## Tournament Operator
 
@@ -107,7 +107,7 @@ The Online Open Qualifier is restricted to eligible confirmed registered rosters
 - Online Open Qualifier registration closes on **June 20, 2026, 10:00 AEST**.
 - The Online Open Qualifier will begin on **June 20, 2026, 11:00 AEST**.
 - An overflow date of **June 21, 2026** may be used if required.
-- Online Open Qualifier registration (FACEIT platform registration) is hosted via **FACEIT**.
+- Online Open Qualifier registration [FACEIT platform registration](https://www.faceit.com/en/championship/1386c7c4-0f25-4cd6-9871-3e617529ca49/HyperX%20&%20Intel%20Nationals%202026%20-%20Open%20Qualifiers) is hosted via **FACEIT**.
 - Online Open Qualifier registration is qualifier platform entry only and does not replace Open Registration.
 - Entry into the Online Open Qualifier is free, but requires confirmed Open Registration.
 - Online Open Qualifier registration order and timestamps are publicly inspectable via **FACEIT**.
@@ -141,12 +141,14 @@ The Online Open Qualifier is restricted to eligible confirmed registered rosters
 ## VRS Information
 
 - **Tournament Tier:** Tier 2
+- **Tournament classification:** Ranked Tournament
 - **Ranked Stages:** Stage 1 Online Open Qualifier and Stage 2 Offline LAN Main Event
 - **Direct VRS Invites:** None
 - **Wildcard Invites:** None
+- **Wildcard Tournament:** No
 - **Invitation Date:** Not applicable
 - **VRS publication date used for invites:** Not applicable
-- **VRS publication date used for seeding:** June 2026
+- **VRS publication date used for seeding:** 1st June 2026
 - **VRS parent region/list:** Asia
 - **VRS subdivision used:** Oceania
 - **Eligible location filter (Online Open Qualifier only):** Australia and New Zealand
@@ -246,6 +248,23 @@ The same replacement ordering applies if a roster is removed by the Tournament O
 ## Roster Continuity
 
 - A forfeit will be declared in any match where a roster does not field at least three of the originally qualified or seeded roster athletes for the entirety of the match, in accordance with the official ruleset.
+
+---
+
+## Conflict of Interest Disclosure
+
+Christopher “dexter” Nong is an active player competing for Thunder Downunder and is also employed by HP Inc.
+
+HP Inc. is the parent company of OMEN and HyperX, both of which are sponsors of the HYPERX INTEL NATS 2026 event.
+
+To mitigate any real or perceived conflict of interest:
+
+- Christopher “dexter” Nong holds no decision-making authority over tournament operations, invitations, seeding, match administration, rule enforcement, or disciplinary actions.
+- All competitive, administrative, and integrity-related decisions are made independently by the Tournament Operator, DFRAG Media Group Pty Ltd, in accordance with Valve Tournament Operation Requirements.
+- Sponsorship relationships do not influence competitive outcomes, invitations, seeding, or rulings.
+- Any future conflicts identified will be disclosed publicly and managed in line with the official ruleset and Valve requirements.
+
+This disclosure is provided in the interest of transparency and competitive integrity.
 
 ---
 
