@@ -1,0 +1,1130 @@
+---
+
+description: VRS Additional Information formatting and compliance guardrails
+alwaysApply: true
+-----------------
+
+# VRS Additional Information Formatting
+
+Use this rule when drafting or editing CS2 VRS Additional Information, event announcements, qualifier rules, LAN qualification notes, or public VRS-related tournament notices.
+
+This rule controls:
+
+1. Valve / VRS compliance coverage
+2. player-readable structure
+3. qualification pathway clarity
+4. date and format presentation
+5. repetition control
+
+For strict rule interpretation, cross-check against:
+
+```md
+https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md
+```
+
+## Priority order
+
+Always apply priorities in this order:
+
+1. Compliance with Valve Tournament Operation Requirements
+2. Correct qualification logic
+3. Clear slot allocation
+4. Clear dates and stage progression
+5. Correct region, sub-region, and visa wording
+6. Complete prize, compensation, travel, and accommodation disclosure
+7. Objective seeding, replacement, and disqualification rules
+8. Clean markdown formatting
+9. Short, non-repetitive wording
+
+Do not make the document prettier at the cost of compliance.
+
+Do not remove required compliance fields to reduce length.
+
+Do not leave anything open to interpretation.
+
+## Goal
+
+Make the document clear, short, and compliant.
+
+The reader should understand:
+
+* who operates the tournament
+* when each stage happens
+* how teams enter
+* whether qualifiers lead to LAN
+* how many slots each qualification path awards
+* which stages are online or LAN
+* what VRS method is being used
+* whether Direct VRS Invites or Wildcard Invites exist
+* what regional, sub-regional, visa, or location filters apply
+* how teams are seeded
+* how vacancies and ineligible teams are resolved
+* whether teams must pay for LAN travel and accommodation
+* where prize pool, compensation, ruleset, integrity, and version history are documented
+
+Use player-readable wording.
+
+Assume players will skim.
+
+Put the most important outcome in the first relevant section.
+
+## Required style
+
+Use predictable markdown sections.
+
+Prefer short bullets over paragraphs.
+
+Use tables where slot allocation or pathways are easier to compare.
+
+Each fact should appear once.
+
+Do not repeat the same eligibility, invite, qualifier, LAN-slot, travel, or fee logic across multiple sections.
+
+Use objective wording.
+
+Avoid marketing language, defensive language, or explanations of why a rule exists unless required for compliance.
+
+Use exact dates and times.
+
+Do not use vague timing such as:
+
+```md
+soon
+later
+before LAN
+after qualifiers
+TBD soon
+```
+
+Use:
+
+```md
+TBC
+Not applicable
+COMPLIANCE ISSUE: [specific issue]
+COMPLIANCE CHECK REQUIRED: [specific issue]
+```
+
+## Required section order
+
+Use this section order unless the event genuinely requires an extra section:
+
+1. `# EVENT NAME - Additional Information`
+2. `Published`
+3. `Tournament Operator`
+4. `Tournament Dates`
+5. `Tournament Format`
+6. `Qualification Pathways`
+7. `Open Qualifier`
+8. `VRS Information`
+9. `Seeding and Slot Allocation`
+10. `Vacancies & Replacements`
+11. `Prize Pool and Compensation`
+12. `Visa / Location`
+13. `Integrity and Disqualification`
+14. `Roster Continuity`
+15. `Registration Fee` or `LAN Participation Fee`, if applicable
+16. `Official Ruleset`
+17. `Verifiability`
+
+Do not omit these sections:
+
+* `Tournament Operator`
+* `Tournament Dates`
+* `Tournament Format`
+* `Qualification Pathways`
+* `VRS Information`
+* `Prize Pool and Compensation`
+* `Visa / Location`
+* `Integrity and Disqualification`
+* `Official Ruleset`
+* `Verifiability`
+
+Omit optional sections only when they are genuinely not relevant.
+
+## Published
+
+Include the publication date.
+
+If the document has been updated, include both dates.
+
+Use:
+
+```md
+- **Published:** June 06, 2026
+- **Last Updated:** June 12, 2026
+```
+
+Avoid:
+
+```md
+Published recently
+Updated before qualifier
+```
+
+Do not hide material changes.
+
+## Tournament Operator
+
+Include the legal operator name.
+
+Use:
+
+```md
+- **Tournament Operator:** DFRAG Media Group Pty Ltd
+```
+
+Avoid:
+
+```md
+- **Operator:** DFRAG
+- Run by us
+```
+
+## Tournament Dates
+
+Tournament dates must be grouped by purpose.
+
+Do not use one long flat date list when the event has registration, seeding, qualifier, overflow, and LAN dates.
+
+Use this structure:
+
+```md
+## Tournament Dates
+
+### Announcement and registration
+
+- **Published:** [date]
+- **Open Registration Opens:** [date, time if relevant]
+- **Open Registration Closes:** [date, time, timezone]
+
+### Seeding and slot allocation
+
+- **VRS Seed Lock:** [date]
+- **LAN Slot Allocation:** [date]
+
+### Online Open Qualifier
+
+- **Qualifier Registration Opens:** [date, time if relevant]
+- **Qualifier Registration Closes:** [date, time, timezone]
+- **Qualifier Start:** [date, time, timezone]
+- **Overflow Date:** [date], if required
+
+### Offline LAN Main Event
+
+- **LAN Main Event:** [date range]
+- **Media Day / Required Attendance:** [date], if applicable
+```
+
+Rules:
+
+* Keep dates in chronological order within each subsection.
+* Use exact dates.
+* Use exact times and timezones where registration or matches are time-bound.
+* Use `Not applicable` only for required compliance dates that do not apply.
+* Do not mix eligibility, seeding rules, format details, or LAN travel details into `Tournament Dates`.
+* If an overflow date exists, label it clearly as conditional.
+* If the LAN requires travel, media day, check-in, or setup attendance, include those dates under `Offline LAN Main Event`.
+
+Use:
+
+```md
+### Online Open Qualifier
+
+- **Qualifier Registration Opens:** June 16, 2026
+- **Qualifier Registration Closes:** June 20, 2026, 10:00 AEST
+- **Qualifier Start:** June 20, 2026, 11:00 AEST
+- **Overflow Date:** June 21, 2026, if required
+```
+
+Avoid:
+
+```md
+- Open Registration Opens: June 13
+- Stage 1: June 20
+- Stage 2: July 16-19
+- Open Qualifier Overflow: June 21
+- Online Open Qualifier Registration Opens: June 16
+```
+
+Avoid:
+
+```md
+- Stage 1 happens online and is only for OCE teams that do not make LAN through VRS seeding.
+```
+
+That belongs in `Tournament Format`, `Qualification Pathways`, or `Open Qualifier`, not `Tournament Dates`.
+
+## Tournament Format
+
+Tournament format must be split into summary and stage subsections.
+
+Do not use one dense flat list for total teams, stages, formats, platform, anti-cheat, servers, and venue.
+
+Use this structure:
+
+```md
+## Tournament Format
+
+### Summary
+
+- **Total teams:** [number]
+- **Ranked stages:** [stage names]
+- **Online stages:** [stage names]
+- **LAN stages:** [stage names]
+
+### Stage 1 - [Stage Name]
+
+- **Stage type:** Online / LAN
+- **Teams:** [number or open field]
+- **Format:** [single-elim / double-elim / GSL / Swiss / groups]
+- **Match format:** [BO1 / BO3 / BO5]
+- **Advancement:** [number] teams advance to [stage]
+
+### Stage 2 - [Stage Name]
+
+- **Stage type:** Online / LAN
+- **Teams:** [number]
+- **Format:** [format]
+- **Match format:** [BO1 / BO3 / BO5]
+- **Advancement:** [final placement / playoff / champion]
+
+### Platform and venue
+
+- **Online platform:** [platform]
+- **Online anti-cheat:** [anti-cheat]
+- **Online server location:** [city, country], if relevant
+- **Offline venue:** [venue]
+- **Offline location:** [city, country]
+```
+
+Rules:
+
+* Each stage gets its own subsection.
+* Every stage must say whether it is Online or LAN.
+* Every stage must say what it leads to.
+* If a qualifier awards LAN slots, state the number of LAN slots in that stage subsection.
+* Keep platform, anti-cheat, server, and venue details in `Platform and venue`.
+* Do not repeat qualification pathway eligibility here.
+
+Use:
+
+```md
+### Stage 1 - Online Open Qualifier
+
+- **Stage type:** Online
+- **Teams:** Eligible confirmed registered rosters
+- **Format:** Double-elimination
+- **Match format:** BO1 until qualification matches, BO3 qualification matches
+- **Advancement:** Top 4 eligible rosters advance to the Offline LAN Main Event.
+```
+
+Avoid:
+
+```md
+- Stage 1: Online Open Qualifier - Online
+- Stage 1 format: Double-elimination; Best-of-1 until qualification matches; Best-of-3 qualification matches
+- Top 4 OCE teams who are eligible and registered and not VRS seeded go to LAN
+```
+
+The last line mixes format, eligibility, and pathway logic.
+
+## Qualification Pathways
+
+This is the single source of truth for how teams enter the event.
+
+Clearly state:
+
+* whether all teams must complete open registration
+* whether Direct VRS Invites exist
+* whether Wildcard Invites exist
+* how many LAN slots come from each pathway
+* whether each pathway is global, regional, or sub-regional
+* whether each pathway leads to LAN
+* whether the pathway is open registration, Open Qualifier, Direct VRS Invite, or Wildcard Invite
+
+Start this section with a slot table:
+
+```md
+| Pathway | Slots | Scope | Leads To | Notes |
+| --- | ---: | --- | --- | --- |
+| Open Registration + VRS Seeding | [number] | Global / Regional / Sub-regional | [stage] | Not a Direct VRS Invite |
+| Online Open Qualifier | [number] | [region/filter] | [stage] | [platform] |
+```
+
+Use direct labels:
+
+```md
+### Pathway A - Open Registration + VRS Seeding
+### Pathway B - Online Open Qualifier
+```
+
+Use:
+
+```md
+The top 4 confirmed registered rosters by VRS seeding will be seeded directly into the Offline LAN Main Event.
+This is not a Direct VRS Invite process.
+```
+
+Avoid:
+
+```md
+The top 4 VRS teams are invited to LAN.
+```
+
+Avoid:
+
+```md
+Teams are selected based on VRS.
+```
+
+Avoid:
+
+```md
+The qualifier is for everyone else.
+```
+
+State exactly who is eligible and what the qualifier leads to.
+
+Do not use `invite` when the process is registration or qualifier-based.
+
+## Open Qualifier
+
+This is the single source of truth for qualifier-specific rules.
+
+Include only:
+
+* registration platform
+* who is eligible
+* region or sub-region filter
+* eligible location filter
+* server location
+* anti-cheat
+* format
+* number of slots awarded
+* whether the qualifier leads to LAN
+* whether qualifier registration is separate from official tournament registration
+* tiebreaker or replacement reference
+
+Recommended subsections:
+
+```md
+## Open Qualifier
+
+### Registration and schedule
+
+### Platform and format
+
+### Eligibility
+
+### LAN qualification
+```
+
+Required wording when the qualifier leads to LAN:
+
+```md
+The top [number] eligible rosters from the Online Open Qualifier will advance to [LAN stage name].
+```
+
+Required wording when the qualifier is region-filtered:
+
+```md
+The Online Open Qualifier is restricted to eligible rosters from [region/sub-region/filter].
+```
+
+Use:
+
+```md
+### LAN qualification
+
+- The top 4 eligible rosters from the Online Open Qualifier will advance to the Offline LAN Main Event.
+- Rosters that qualify through the Online Open Qualifier must be able to attend the Offline LAN Main Event in person.
+```
+
+Avoid:
+
+```md
+The top teams qualify.
+```
+
+Avoid:
+
+```md
+OCE teams can play for LAN if approved.
+```
+
+Avoid:
+
+```md
+The qualifier is open globally but played on Sydney servers.
+```
+
+Do not call a regional or sub-regional qualifier global.
+
+## VRS Information
+
+Use a compact field list.
+
+Include:
+
+* `Tournament Tier`
+* `Ranked Stages`
+* `Direct VRS Invites`
+* `Wildcard Invites`
+* `Invitation Date`
+* `VRS publication date used for invites`
+* `VRS publication date used for seeding`
+* `VRS parent region/list`
+* `VRS subdivision used`, if any
+* `Eligible location filter`, if any
+* `Visa region`
+
+Use this shape:
+
+```md
+- **Tournament Tier:** Tier 2
+- **Ranked Stages:** [stage names]
+- **Direct VRS Invites:** None / [number]
+- **Wildcard Invites:** None / [number]
+- **Invitation Date:** Not applicable / [date]
+- **VRS publication date used for invites:** Not applicable / [month year]
+- **VRS publication date used for seeding:** [month year]
+- **VRS parent region/list:** Global / Americas / Europe / Asia / Not applicable
+- **VRS subdivision used:** None / Oceania / West Asia / East Asia / North America / South America
+- **Eligible location filter:** None / [country or region]
+- **Visa region:** [country or visa region]
+```
+
+If there are no Direct VRS Invites, say that once.
+
+If there are no Wildcard Invites, say that once.
+
+Use:
+
+```md
+- **Direct VRS Invites:** None
+- **Wildcard Invites:** None
+- **Invitation Date:** Not applicable
+- **VRS publication date used for invites:** Not applicable
+```
+
+Avoid:
+
+```md
+No invites are happening.
+There are no direct invites.
+No VRS invites will be issued.
+All teams must register because no invites exist.
+```
+
+That repeats the same fact too many times.
+
+## Seeding and Slot Allocation
+
+Explain seeding once.
+
+Include:
+
+* which VRS snapshot is used
+* how ranked and unranked rosters are ordered
+* how LAN slots are confirmed
+* how qualifier teams are seeded
+* what happens if a roster is ineligible
+* whether registration timestamp is used
+* whether first-come-first-served registration applies
+
+Required rule:
+
+```md
+Rosters without a Global VRS rank cannot be seeded above VRS-ranked rosters.
+```
+
+Use:
+
+```md
+The top 4 confirmed registered rosters globally by VRS seeding will be seeded directly into the Offline LAN Main Event through open registration using the published VRS seeding snapshot.
+```
+
+Avoid:
+
+```md
+The organiser will pick the best teams from registration.
+```
+
+Avoid:
+
+```md
+Unranked teams may be seeded wherever appropriate.
+```
+
+Avoid duplicating the full Open Qualifier eligibility section here.
+
+## Vacancies & Replacements
+
+Keep this procedural.
+
+Use objective replacement order only.
+
+Required wording:
+
+```md
+No discretionary invites will be issued.
+```
+
+Acceptable replacement criteria include:
+
+1. final qualifier placement
+2. match record
+3. map differential
+4. round differential
+5. head-to-head result
+6. official ruleset tiebreakers
+
+Use:
+
+```md
+If a qualifier slot becomes vacant, it will be offered to the next highest-placing eligible roster from the Online Open Qualifier according to final standings and published tiebreakers.
+```
+
+Avoid:
+
+```md
+The Tournament Operator may choose a suitable replacement.
+```
+
+Avoid:
+
+```md
+The organiser may invite another team.
+```
+
+Do not create a hidden Wildcard Invite through replacement wording.
+
+## Prize Pool and Compensation
+
+This section must disclose prize pool, non-prize compensation, and travel/accommodation support.
+
+Use this structure:
+
+```md
+## Prize Pool and Compensation
+
+**Total Prize Pool:** [amount] [currency]
+
+- **1st:** [amount]
+- **2nd:** [amount]
+- **3rd:** [amount]
+- **4th:** [amount]
+
+### Non-prize compensation
+
+- **Compensation beyond prize pool:** None / [details]
+- **Travel support:** None / [details]
+- **Accommodation support:** None / [details]
+- **Hardware or other support:** None / [details]
+```
+
+Rules:
+
+* Do not omit travel or accommodation support.
+* If teams must pay their own way to LAN, say so plainly.
+* If flights, accommodation, allowances, equipment, or other support are provided, disclose them.
+* If support is provided to teams in the same stage, it must be equivalent or based on an objective KPI applied equally.
+* Do not imply travel or accommodation is covered unless it is explicitly provided.
+* Do not hide travel/accommodation in private team communications if it affects compensation or event support.
+
+Default wording when no travel or accommodation support is provided:
+
+```md
+### Non-prize compensation
+
+- **Compensation beyond prize pool:** None
+- **Travel support:** None. Teams are responsible for their own travel to and from the LAN.
+- **Accommodation support:** None. Teams are responsible for their own accommodation unless otherwise stated in a published update.
+- **Hardware or other support:** None
+```
+
+Wording when support is provided:
+
+```md
+### Non-prize compensation
+
+- **Compensation beyond prize pool:** [details]
+- **Travel support:** [details]
+- **Accommodation support:** [details]
+- **Hardware or other support:** [details]
+
+Travel, accommodation, allowances, or other support will be provided on equivalent terms to all eligible teams in the same stage, or according to an objective KPI published before teams are selected.
+```
+
+Avoid:
+
+```md
+Some teams may receive travel help.
+```
+
+Avoid:
+
+```md
+Travel support may be discussed privately.
+```
+
+Avoid:
+
+```md
+Travel and accommodation TBC.
+```
+
+If unknown, flag it:
+
+```md
+COMPLIANCE ISSUE: Travel and accommodation support is not defined.
+```
+
+## Visa / Location
+
+This section must make LAN attendance and self-funded travel clear.
+
+Use this structure:
+
+```md
+## Visa / Location
+
+- **Visa region:** [country / visa region]
+- **Offline venue:** [venue]
+- **Offline location:** [city, country]
+- **LAN dates:** [date range]
+- **LAN attendance:** Required for all rosters that receive a confirmed Offline LAN Main Event slot
+- **Travel responsibility:** Teams are responsible for arranging and paying for their own travel unless travel support is explicitly listed under Prize Pool and Compensation.
+- **Accommodation responsibility:** Teams are responsible for arranging and paying for their own accommodation unless accommodation support is explicitly listed under Prize Pool and Compensation.
+```
+
+Rules:
+
+* Do not bury LAN attendance requirements in qualifier rules only.
+* Do not assume the operator is paying for travel or accommodation.
+* If visas, passports, travel approval, or physical attendance are required, state that clearly.
+* If travel/accommodation support exists, reference `Prize Pool and Compensation` rather than repeating the full support terms here.
+* If no support exists, make the self-funded requirement explicit.
+
+Use:
+
+```md
+- **Travel responsibility:** Teams are responsible for arranging and paying for their own travel unless travel support is explicitly listed under Prize Pool and Compensation.
+```
+
+Avoid:
+
+```md
+Teams should be able to attend LAN.
+```
+
+Avoid:
+
+```md
+Travel is up to teams.
+```
+
+The wording must be clear enough that teams understand they are paying their own way unless support is explicitly published.
+
+## LAN Participation Fee
+
+If a LAN fee exists, keep it separate from travel and accommodation.
+
+Use this structure:
+
+```md
+## LAN Participation Fee
+
+- **Open Registration fee:** Free / [amount]
+- **Online Open Qualifier fee:** Free / [amount]
+- **LAN participation fee:** [amount] [currency]
+- **Applies to:** All teams that receive a confirmed Offline LAN Main Event slot
+- **Payment deadline:** [date or timing]
+- **Failure to pay:** Slot may be forfeited and reallocated under Vacancies & Replacements
+
+The LAN participation fee is not prize compensation and does not alter the prize distribution.
+
+The LAN participation fee does not include travel or accommodation unless explicitly stated under Prize Pool and Compensation.
+```
+
+Rules:
+
+* Do not let players infer that a LAN participation fee covers travel or accommodation.
+* If the fee includes anything, state exactly what it includes.
+* If the fee excludes travel/accommodation, say so.
+* If failure to pay can forfeit a slot, reference `Vacancies & Replacements`.
+
+Avoid:
+
+```md
+LAN fee applies.
+```
+
+Avoid:
+
+```md
+Teams pay $500.
+```
+
+Use the full structure so the amount, scope, deadline, consequence, and exclusions are clear.
+
+## Integrity and Disqualification
+
+Keep this objective.
+
+Use:
+
+```md
+- Integrity, eligibility, and conduct rules are defined in the official ruleset.
+- Disqualification decisions will be based on objective criteria defined in the official ruleset.
+- Any disqualification decisions will be published at the time of enforcement.
+- Rules are transparent and applied equally to all participating rosters.
+```
+
+Avoid:
+
+```md
+The Tournament Operator may remove any team at its discretion.
+```
+
+Avoid:
+
+```md
+DFRAG reserves the right to deny any team.
+```
+
+Avoid discretionary or roster-specific enforcement language.
+
+## Roster Continuity
+
+Use different wording depending on the qualification method.
+
+For Direct VRS Invites:
+
+```md
+A forfeit will be declared in any match where a roster does not field at least three of the Invited Roster Athletes for the entirety of the match.
+```
+
+For Open Qualifier or seeded rosters:
+
+```md
+A forfeit will be declared in any match where a roster does not field at least three of the originally qualified or seeded roster athletes for the entirety of the match, in accordance with the official ruleset.
+```
+
+Avoid:
+
+```md
+Teams should keep most of their roster.
+```
+
+Avoid:
+
+```md
+Roster changes are subject to admin approval.
+```
+
+Do not call Open Qualifier teams `Invited Rosters`.
+
+## Verifiability
+
+Include:
+
+* version history platform
+* registration timestamp visibility, if first-come-first-served
+* qualifier platform visibility, if relevant
+* VRS snapshot publication or link, if relevant
+* update history preservation
+
+Use:
+
+```md
+- This Additional Information is published on a platform that preserves version history.
+- Registration order and timestamps are publicly inspectable via [platform].
+- The VRS seeding snapshot used for seeding will be published or linked before the seed lock.
+- Any updates to this Additional Information will be preserved through version history.
+```
+
+Avoid:
+
+```md
+Registration order will be tracked internally.
+```
+
+Avoid:
+
+```md
+Updates may be posted later.
+```
+
+Avoid:
+
+```md
+The organiser will keep records.
+```
+
+Public inspectability matters.
+
+## VRS wording rules
+
+Do not call a VRS-seeded open registration allocation a `Direct VRS Invite`.
+
+Use:
+
+```md
+directly seeded through open registration using the published VRS seeding snapshot
+```
+
+Do not use:
+
+```md
+invited by VRS
+```
+
+unless it is actually a Direct VRS Invite process.
+
+If a qualifier is region-filtered, state the filter directly:
+
+```md
+The Online Open Qualifier is restricted to eligible rosters based in Australia and New Zealand, or rosters whose participating players are physically able to compete from Australia and New Zealand for all qualifier matches.
+```
+
+If using Oceania under Asia VRS context, distinguish the parent region from the sub-region:
+
+* `VRS parent region/list: Asia`
+* `VRS subdivision used: Oceania`
+* `Eligible location filter: Australia and New Zealand`
+
+Avoid:
+
+```md
+Asia/OCE teams can qualify.
+```
+
+Avoid:
+
+```md
+OCE means Asia.
+```
+
+Avoid:
+
+```md
+Anyone who can play Sydney servers is eligible.
+```
+
+Do not imply that a regional Open Qualifier is global.
+
+Do not imply that Sydney server access alone satisfies eligibility unless the ruleset says so.
+
+Do not imply that all Asia rosters are Oceania rosters.
+
+Do not imply that Indonesia, Southeast Asia, East Asia, or West Asia are Oceania unless the published rules explicitly allow that roster through a separate objective pathway.
+
+## Tier 2 default rules
+
+DFRAG events are normally Tier 2 unless stated otherwise.
+
+For Tier 2 events:
+
+* the event may be entirely Open Qualifier-based
+* if any Direct VRS Invites are used, there must be at least 4 Direct VRS Invites
+* Open Qualifier filters must be reasonable, transparent, and not targeted at individual teams or rosters
+* country and gender filters are permitted if objective
+* rosters without a Global VRS rank cannot be seeded above VRS-ranked rosters
+* initial seeding must use the VRS version specified in Additional Information
+
+Never write:
+
+```md
+This Tier 2 event has 2 Direct VRS Invites.
+```
+
+Never write:
+
+```md
+Top 4 registered teams are Direct VRS Invites.
+```
+
+Use:
+
+```md
+The top 4 confirmed registered rosters by VRS seeding will be seeded directly into the Offline LAN Main Event.
+This is not a Direct VRS Invite process.
+```
+
+## Publication timing checks
+
+Before publishing, check dates.
+
+For Tier 2 tournaments with Direct VRS Invites:
+
+* Announcement Date must be at least 2 months before the main event.
+* Invite Date must be at least 30 days after Additional Information is published.
+* Additional Information must be published no later than the earlier of:
+
+  * 2 months before the main event
+  * 2 weeks before any Open Qualifier
+
+For Tier 2 tournaments with no Direct VRS Invites:
+
+* Announcement Date must be at least 2 weeks before the main event.
+* Additional Information must be published no later than the earlier of:
+
+  * 2 weeks before the main event
+  * 2 weeks before any qualifier
+* There must be at least 1 week between announcement and registration.
+
+If dates cannot be verified, add:
+
+```md
+COMPLIANCE CHECK REQUIRED: Publication timing needs review against Valve Tournament Operation Requirements.
+```
+
+Do not claim timing compliance unless the dates are present.
+
+Avoid:
+
+```md
+Publication timing looks fine.
+```
+
+Use the actual dates and verify the gap.
+
+## Repetition limits
+
+The following facts may appear once only:
+
+* no Direct VRS Invites
+* no Wildcard Invites
+* Open Registration is official registration
+* FACEIT is qualifier platform entry only
+* qualifier is Australia/New Zealand/Oceania restricted
+* top 4 from qualifier advance to LAN
+* top 4 by VRS seeding advance to LAN
+* LAN participation fee
+* travel support status
+* accommodation support status
+* ineligible qualifier roster replacement procedure
+* VRS publication date used for seeding
+* registration timestamp visibility
+
+If a fact is needed later, reference the section instead of rewriting it.
+
+Avoid:
+
+```md
+No Direct VRS Invites will be issued.
+This is not a Direct VRS Invite.
+No roster will be invited via VRS.
+All teams must register because there are no Direct VRS Invites.
+```
+
+Use the fact once, then rely on section structure.
+
+## Ambiguity guardrails
+
+Flag the document instead of guessing if any of these are unclear:
+
+* whether the tournament is Ranked or Unranked
+* tournament tier
+* whether Direct VRS Invites are used
+* whether Wildcard Invites are used
+* whether an Open Qualifier leads to LAN
+* number of slots per pathway
+* VRS publication date used for seeding
+* VRS publication date used for invites
+* Invitation Date
+* qualifier region or sub-region
+* eligible countries
+* LAN attendance requirement
+* visa region
+* compensation beyond prize pool
+* travel support
+* accommodation support
+* first-come-first-served timestamp visibility
+* replacement order
+
+Use:
+
+```md
+COMPLIANCE ISSUE: [specific issue]
+```
+
+Do not bury issues inside rewritten copy.
+
+Avoid:
+
+```md
+Assuming this is compliant.
+```
+
+Avoid:
+
+```md
+Probably okay.
+```
+
+## Before publishing
+
+Check that the document answers these questions without contradiction:
+
+* Is this Ranked or Unranked?
+* Is this Tier 1, Tier 2, or Wildcard?
+* Are there Direct VRS Invites?
+* Are there Wildcard Invites?
+* Is there an Open Qualifier?
+* Does the Open Qualifier lead to LAN?
+* How many slots does each pathway award?
+* Is each pathway global, regional, or sub-regional?
+* Which VRS list or subdivision is used?
+* Which VRS publication date is used for invites?
+* Which VRS publication date is used for seeding?
+* What is the Invitation Date?
+* Which stages are online and which are LAN?
+* What is the visa region?
+* Are prize pool and non-prize compensation disclosed?
+* Are travel and accommodation support disclosed?
+* Are teams clearly told if they must pay their own way to LAN?
+* Are integrity and disqualification rules objective?
+* Is registration order publicly inspectable if first-come-first-served?
+* Is the document published somewhere with version history?
+
+## Editing behaviour
+
+When asked to clean up a VRS announcement:
+
+1. Preserve the tournament facts.
+2. Remove duplicated wording.
+3. Move facts into their correct sections.
+4. Replace paragraphs with bullets or tables where possible.
+5. Do not create new eligibility rules unless explicitly requested.
+6. Flag contradictions instead of silently resolving them.
+7. Use `Not applicable` instead of omitting required VRS fields.
+8. Keep qualification paths and LAN outcomes explicit.
+9. Keep travel, accommodation, and fee responsibility explicit.
+10. Keep the final document player-readable first, compliance-readable second.
+
+## Required final check
+
+After editing, produce this short check unless the user asks for document-only output:
+
+```md
+Compliance check:
+- Tier: [Tier]
+- Direct VRS Invites: [None / number]
+- Wildcard Invites: [None / number]
+- Open Qualifier: [Yes / No]
+- Qualifier leads to LAN: [Yes / No / Not applicable]
+- Slot allocation: [clear / needs review]
+- VRS seeding date: [date / needs review]
+- Invite date: [Not applicable / date / needs review]
+- Region/sub-region filter: [value / needs review]
+- Visa region: [value / needs review]
+- Travel support: [None / details / needs review]
+- Accommodation support: [None / details / needs review]
+- Publication timing: [Pass / needs review]
+- Missing items: [none / list]
+```
+
+Do not claim compliance unless the required dates, invite method, qualifier rules, compensation, travel/accommodation disclosure, visa region, verifiability fields, and slot allocation are present.

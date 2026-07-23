@@ -1,0 +1,594 @@
+---
+
+description: Valve VRS Tournament Operation Requirements compliance guard
+alwaysApply: true
+-----------------
+
+# Valve VRS Compliance Guard
+
+This rule applies to all Counter-Strike 2 tournament documents, Additional Information files, rulesets, qualification notices, invite notices, LAN qualification pages, public announcements, and Cursor edits that mention:
+
+* Valve
+* VRS
+* Valve Regional Standings
+* Ranked Tournament
+* Tier 1
+* Tier 2
+* Wildcard Tournament
+* Direct VRS Invite
+* Wildcard Invite
+* Open Qualifier
+* Additional Information
+* roster eligibility
+* LAN qualification
+* regional or sub-regional eligibility
+
+This rule is compliance-first. Do not optimize wording before validating the tournament logic.
+
+## Source of truth
+
+Primary reference:
+
+https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md
+
+Before making or approving VRS-related edits, verify against the current Valve Tournament Operation Requirements where possible.
+
+The applicable version is the version current as of the tournament's Additional Information deadline.
+
+If the live source cannot be checked, preserve a `COMPLIANCE CHECK REQUIRED` note instead of guessing.
+
+## Default operating assumption
+
+DFRAG events normally operate as **Ranked Tier 2** events unless the document explicitly says otherwise.
+
+Do not infer Tier 1, Wildcard Tournament, or Unranked status without explicit event instructions.
+
+For DFRAG Tier 2 events, prefer these compliant patterns unless told otherwise:
+
+* Open Qualifier only
+* Open Registration plus VRS-based seeding
+* no Direct VRS Invites
+* no Wildcard Invites
+* objective regional or sub-regional Open Qualifier filters
+* transparent seeding and replacement rules
+* public version history
+
+## Hard stop conditions
+
+Stop and flag the document if any of these are present:
+
+* A team is described as `invited by VRS` when the process is actually Open Registration plus VRS seeding.
+* A Tier 2 event uses 1, 2, or 3 Direct VRS Invites.
+* Direct VRS Invites are mentioned without an Invite Date.
+* Direct VRS Invites are mentioned without the VRS publication date used for invites.
+* Direct VRS Invites are mentioned without the VRS rank/list starting point.
+* A VRS-ranked roster is seeded below an unranked roster without a clear objective rule.
+* An Open Qualifier filter targets a specific roster or team.
+* A Wildcard Invite is used without checking the Wildcard Invite ratio and eligibility requirements.
+* A Wildcard Tournament is used without listing the associated completed tournaments.
+* Additional Information is missing publication timing, stage location, prize/compensation, visa region, qualifier rules, or integrity rules.
+* A first-come-first-served registration process exists but timestamps/order are not publicly inspectable.
+* Disqualification or replacement rules are discretionary, private, or roster-specific.
+* Compensation, travel support, accommodation, appearance payments, revenue share, hardware, or fees are mentioned without clear disclosure.
+* LAN-qualified teams are not clearly required to attend the LAN venue during published Tournament Dates.
+
+If a hard stop condition exists, do not silently rewrite around it. Add a `Compliance Issues` section and list the exact problem.
+
+## Tournament classification checklist
+
+Every VRS-related document must identify:
+
+* Tournament Operator
+* Tournament name
+* Ranked or Unranked
+* Tournament Tier
+* whether it is a Wildcard Tournament
+* Tournament Dates
+* Main Event dates
+* stage list
+* which stages are online
+* which stages are LAN
+* whether there is an Open Qualifier
+* whether there are Direct VRS Invites
+* whether there are Wildcard Invites
+* VRS publication date used for seeding
+* visa region
+* prize pool
+* non-prize compensation
+* official ruleset
+* publication/version-history location
+
+For DFRAG Additional Information, use this field set at minimum:
+
+```md
+- **Tournament Tier:** Tier 2
+- **Ranked Stages:** [stage names]
+- **Direct VRS Invites:** None / [number]
+- **Wildcard Invites:** None / [number]
+- **Invitation Date:** Not applicable / [date]
+- **VRS publication date used for invites:** Not applicable / [month year]
+- **VRS publication date used for seeding:** [month year]
+- **VRS parent region/list:** Global / Americas / Europe / Asia / Not applicable
+- **VRS subdivision / eligibility filter:** None / Oceania / West Asia / East Asia / North America / South America / other
+- **Visa region:** [country or visa region]
+```
+
+## Tier 2 rules
+
+For Ranked Tier 2 events:
+
+* The event may be filled entirely by one or more Open Qualifiers.
+* If any Direct VRS Invites are used, at least 4 Rosters must be invited by Direct VRS Invite.
+* VRS filters are allowed if they are reasonable, transparent, and do not target individual teams or rosters.
+* Country filters and gender filters are permitted if applied objectively.
+* Direct VRS Invited Rosters must be ranked lower than 12 on the Global VRS at the Invite Date.
+* Rosters without a Global VRS rank cannot be seeded above VRS-ranked rosters.
+* Initial seeding must use the VRS version specified in Additional Information.
+
+Never write that a Tier 2 event has `2 Direct VRS Invites`.
+
+Never write that a VRS-seeded Open Registration allocation is a `Direct VRS Invite`.
+
+Correct wording:
+
+```md
+The top [number] confirmed registered rosters by VRS seeding will be seeded directly into [stage].
+This is not a Direct VRS Invite process.
+```
+
+Incorrect wording:
+
+```md
+The top [number] VRS teams are invited to the LAN.
+```
+
+## Direct VRS Invite rules
+
+Only use `Direct VRS Invite` when rosters are selected directly from VRS under Valve's invite process.
+
+If Direct VRS Invites are used, the document must include:
+
+* number of Direct VRS Invite slots
+* VRS list or lists used
+* VRS rank from which invitations start
+* Invite Date
+* VRS publication date used for invites
+* VRS publication date used for seeding
+* any VRS filters
+* replacement process if rosters decline or cannot accept
+* statement that invites proceed sequentially down the VRS
+* roster continuity requirement
+
+Direct VRS Invited Rosters may only accept if:
+
+* at least 3 athletes from the Invited Roster will play each match
+* the Participating Roster satisfies the invite criteria
+* the roster has not previously declined an invitation to the same tournament
+
+If Direct VRS Invites are not used, say it once:
+
+```md
+- **Direct VRS Invites:** None
+- **Invitation Date:** Not applicable
+- **VRS publication date used for invites:** Not applicable
+```
+
+Do not repeat `No Direct VRS Invites` in multiple sections.
+
+## Open Qualifier rules
+
+Open Qualifiers must be open to the public within the published eligibility filter.
+
+Open Qualifier filters must be:
+
+* reasonable
+* transparent
+* objective
+* not targeted at individual teams or rosters
+
+Acceptable filters include:
+
+* region
+* country
+* sub-region
+* demographic eligibility
+* platform or anti-cheat requirements
+* physical ability to compete from a required location
+* LAN attendance requirement
+
+For every Open Qualifier, include:
+
+* registration open date
+* registration close date
+* qualifier date
+* platform
+* anti-cheat
+* server location, if relevant
+* eligibility filter
+* whether it leads to LAN
+* number of slots awarded
+* match format
+* seeding method
+* replacement/tiebreaker method
+* whether qualifier entry is separate from official registration
+
+If an Open Qualifier leads to LAN, state this directly:
+
+```md
+The top [number] eligible rosters from the Online Open Qualifier will advance to the Offline LAN Main Event.
+```
+
+If an Open Qualifier is regional or sub-regional, do not call it global.
+
+Correct:
+
+```md
+The Online Open Qualifier is restricted to eligible Oceania rosters.
+```
+
+Incorrect:
+
+```md
+The Online Open Qualifier is open globally.
+```
+
+## Region and sub-region rules
+
+Use precise region labels.
+
+Valve VRS parent regions include:
+
+* Global
+* Americas
+* Europe
+* Asia
+
+For Asia subdivision, use:
+
+* Oceania
+* West Asia
+* East Asia
+
+If subdividing Asia VRS invitations, invitations must be split equally between Oceania, West Asia, and East Asia.
+
+If applying a VRS subdivision rule, rosters must satisfy plurality citizenship from the relevant sub-region among the players from that region.
+
+For Oceania events, distinguish between:
+
+* VRS parent region: Asia
+* subdivision or eligibility filter: Oceania
+* eligible qualifier locations: Australia and New Zealand, if that is the published event filter
+
+Do not imply that Indonesia, Southeast Asia, or wider Asia is Oceania.
+
+If a team from Indonesia, Singapore, Malaysia, Philippines, Thailand, Vietnam, Japan, Korea, China, or another Asia country enters an Oceania-filtered qualifier, check the published eligibility rule before saying they can qualify to LAN.
+
+If the event uses:
+
+```md
+Eligible qualifier locations: Australia and New Zealand
+```
+
+then a non-Australia/New Zealand roster cannot receive a LAN slot through that qualifier unless the published rules provide another objective eligibility path.
+
+If the event uses:
+
+```md
+VRS parent region: Asia
+Applicable sub-region: Oceania
+```
+
+then do not treat all Asia rosters as Oceania rosters.
+
+## Seeding rules
+
+Every VRS-related event must define the seeding source.
+
+Include:
+
+* VRS publication date used for seeding
+* whether unranked rosters may enter
+* how unranked rosters are ordered
+* how qualifier teams are seeded
+* how LAN groups or playoff stages are seeded
+* what happens if a team becomes ineligible after seeding
+
+Required rule:
+
+```md
+Rosters without a Global VRS rank cannot be seeded above VRS-ranked rosters.
+```
+
+If using Open Registration plus VRS seeding, use:
+
+```md
+Confirmed registered rosters will be ordered using the published VRS seeding snapshot.
+```
+
+Do not write:
+
+```md
+Teams will be selected at the Tournament Operator's discretion.
+```
+
+## VRS priority
+
+If an event includes Open Qualifiers or Wildcard Invites alongside Direct VRS Invites:
+
+* Open Qualifier and Wildcard rosters must enter at or before the first stage featuring a VRS invite.
+* A Directly Invited VRS Roster cannot start later than another Directly Invited VRS Roster with a higher VRS rank.
+
+If no Direct VRS Invites exist, do not over-explain VRS priority.
+
+## Wildcard Invite rules
+
+Only use `Wildcard Invite` when it is actually a Valve-defined Wildcard Invite.
+
+For normal DFRAG Tier 2 events, default to:
+
+```md
+- **Wildcard Invites:** None
+```
+
+If Wildcard Invites are used:
+
+* For every 8 VRS invited rosters, only 2 eligible Wildcard Invites may be used.
+* If announced Wildcard Invites are unused, they may be replaced by the next highest ranked rosters from the already announced VRS lists.
+* A Wildcard Invite roster must be ranked lower than 12 on Global VRS at the Invitation Date.
+* The roster must satisfy at least one Valve eligibility condition:
+
+  * at least 3 players were members of a top 12 roster on an Invite VRS List during the preceding 6 months
+  * the roster placed 1st or 2nd in an equal-or-lower-tier tournament during the preceding 6 months
+
+Do not use `Wildcard` casually to mean `open qualifier`, `replacement`, `admin slot`, or `content invite`.
+
+## Wildcard Tournament rules
+
+Only call an event a `Wildcard Tournament` when it is intentionally operated under Valve's Wildcard Tournament rule.
+
+For every three completed tournaments, the operator may operate one Wildcard Tournament of equivalent or lesser Tier.
+
+A Wildcard Tournament must specify:
+
+* the associated completed tournaments
+* equivalent or lesser tier relationship
+* VRS list used for Wildcard invitations
+* whether it also includes VRS invites
+* whether it includes Open Qualifiers
+
+Do not call a normal LAN `Wildcard` unless it is using the Valve Wildcard Tournament framework.
+
+## Announcement and publication timing
+
+Check dates before approving any Additional Information.
+
+For Tier 2 tournaments with Direct VRS Invites:
+
+* Announcement Date must be at least 2 months before the start of the main event.
+* Invite Date must be at least 30 days after Additional Information is announced.
+* Additional Information must be published no later than the earlier of:
+
+  * 2 months before the main event
+  * 2 weeks before any Open Qualifier
+
+For Tier 2 tournaments with no Direct VRS Invites:
+
+* Announcement Date must be at least 2 weeks before the start of the main event.
+* Additional Information must be published no later than the earlier of:
+
+  * 2 weeks before the main event
+  * 2 weeks before any qualifier
+* There must be at least 1 week between announcement and registration.
+
+For all tournaments, on Announcement Date publish:
+
+* Tournament Dates
+* Tournament Operator identity
+
+If the dates do not satisfy the required minimum timing, stop and flag:
+
+```md
+COMPLIANCE ISSUE: Publication timing may not satisfy Valve Tournament Operation Requirements. Confirm dates before publishing.
+```
+
+## Additional Information required content
+
+Additional Information must include:
+
+* VRS filters, if any
+* VRS rank from which Direct VRS Invites begin, if applicable
+* number of Direct VRS Invites, if any
+* number of Wildcard Invites, if any
+* Invitation Date, or Not applicable
+* VRS publication date used for Direct VRS Invites, or Not applicable
+* VRS publication date used for seeding
+* visa region
+* whether an Open Qualifier is part of the tournament
+* Open Qualifier rules
+* which stages are online
+* which stages are LAN
+* prize pool
+* prize distribution
+* all non-prize compensation
+* all appearance fees, travel support, accommodation support, revenue share, media rights share, hardware, or other value transfers
+* integrity and conduct rules
+* disqualification rules, if any
+* official ruleset link
+* verifiability/version-history statement
+
+Do not approve an Additional Information document that omits these fields.
+
+## Compensation and fees
+
+Prize and compensation rules must be clear.
+
+For placement-based compensation:
+
+* a lower placing cannot receive more than a higher placing
+* equal placements must receive equal compensation
+
+Non-prize compensation must be disclosed comprehensively, including:
+
+* appearance payments
+* guaranteed payments
+* travel payments
+* accommodation support
+* hardware
+* revenue share
+* sponsorship share
+* media rights share
+* allowances
+* other benefits
+
+If there is a participation fee, registration fee, or LAN fee, state:
+
+* who pays it
+* amount
+* currency
+* when it is due
+* whether it affects prize pool or compensation
+* what happens if payment is not completed
+
+Use:
+
+```md
+The LAN participation fee is not prize compensation and does not alter the prize distribution.
+```
+
+## Integrity and disqualification
+
+Integrity and disqualification rules must be:
+
+* transparent
+* objective
+* published
+* not discretionary
+* not selectively applied
+* applied irrespective of roster identity or circumstances
+
+If a roster is disqualified, the decision details must be published at the time of enforcement.
+
+Do not write:
+
+```md
+The Tournament Operator may remove any team at its discretion.
+```
+
+Use:
+
+```md
+Disqualification decisions will be based on objective criteria defined in the official ruleset and published at the time of enforcement.
+```
+
+## Roster continuity
+
+For Direct VRS Invites, include the Valve continuity rule:
+
+```md
+A forfeit will be declared in any match where a roster does not field at least three of the Invited Roster Athletes for the entirety of the match.
+```
+
+For Open Qualifier or seeded rosters, use event-specific wording that tracks the same principle without incorrectly calling them Invited Rosters:
+
+```md
+A forfeit will be declared in any match where a roster does not field at least three of the originally qualified or seeded roster athletes for the entirety of the match, in accordance with the official ruleset.
+```
+
+Do not call Open Qualifier teams `Invited Rosters`.
+
+## Vacancies and replacements
+
+Replacement logic must be objective.
+
+Preferred order:
+
+1. next highest VRS-seeded eligible registered roster, for VRS-seeded registration slots
+2. next highest-placing eligible Open Qualifier roster, for qualifier slots
+3. final qualifier placement
+4. match record
+5. map differential
+6. round differential
+7. head-to-head result
+8. official ruleset tiebreakers
+
+Do not use discretionary replacements.
+
+Do not use replacement language that creates a hidden Wildcard Invite.
+
+Use:
+
+```md
+No discretionary invites will be issued.
+```
+
+## Verifiability
+
+Published information must either:
+
+* be on a platform that preserves version history, such as GitHub
+* be on a platform that does not allow modification of past posts
+* be preserved on an independent archive
+
+If first-come-first-served registration is used, registration time and order must be publicly inspectable.
+
+Required section:
+
+```md
+## Verifiability
+
+- This Additional Information is published on a platform that preserves version history.
+- Registration order and timestamps are publicly inspectable via [platform].
+- Any updates to this Additional Information will be preserved through version history.
+```
+
+## Wording rules
+
+Use exact labels.
+
+Preferred:
+
+* `Direct VRS Invites`
+* `Wildcard Invites`
+* `Open Qualifier`
+* `VRS publication date used for seeding`
+* `VRS publication date used for invites`
+* `Invitation Date`
+* `VRS parent region`
+* `VRS subdivision`
+* `eligible location filter`
+* `visa region`
+* `Offline LAN Main Event`
+
+Avoid:
+
+* `invite` when the path is registration
+* `selected` when the path is objective seeding
+* `wildcard` unless using Valve Wildcard Invite or Wildcard Tournament rules
+* `global qualifier` if a region/sub-region filter exists
+* `Oceania` when the actual filter is only Australia and New Zealand
+* `Asia` when the actual filter is Oceania
+* `discretionary`
+* `subject to organiser approval` without objective criteria
+
+## Required compliance output from Cursor
+
+When editing a VRS document, include a short compliance note after the edit unless the user asks for document-only output.
+
+Use this format:
+
+```md
+Compliance check:
+- Tier: [Tier]
+- Direct VRS Invites: [None / number]
+- Wildcard Invites: [None / number]
+- Open Qualifier: [Yes / No]
+- VRS seeding date: [date]
+- Publication timing: [Pass / Needs review]
+- Region/sub-region filter: [value]
+- LAN qualification path: [clear / needs review]
+- Missing items: [none / list]
+```
+
+If any item is uncertain, use `Needs review`.
+
+Do not claim compliance unless the required dates, invite method, qualifier rules, compensation, visa region, and verifiability fields are present.

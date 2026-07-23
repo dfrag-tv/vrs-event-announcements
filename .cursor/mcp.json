@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "valve-tournament-requirements": {
+      "command": "node",
+      "args": ["mcp/valve-tournament-requirements/dist/index.js"]
+    }
+  }
+}
