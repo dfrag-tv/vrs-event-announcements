@@ -367,8 +367,24 @@
 
 ## Roster Continuity
 
-- For Direct VRS Invited Rosters, a forfeit will be declared in any match where a roster does not field at least three of the Invited Roster Athletes for the entirety of the match.
-- For Open Qualifier or Closed Qualifier qualified rosters, a forfeit will be declared in any match where a roster does not field at least three of the originally qualified or seeded roster athletes for the entirety of the match, in accordance with the official ruleset.
+- A forfeit will be declared in any match where a roster does not field at least three of the originally invited, qualified, or seeded roster athletes for the entirety of the match, in accordance with the official ruleset and Valve Tournament Operation Requirements.
+
+---
+
+## Conflict of Interest Disclosure
+
+Christopher “dexter” Nong is an active player competing for Thunder Downunder and is also employed by HP Inc.
+
+HP Inc. is the parent company of OMEN and HyperX, both of which are sponsors of the DFRAG INVITATIONAL LAN 2026 event.
+
+To mitigate any real or perceived conflict of interest:
+
+- Christopher “dexter” Nong holds no decision-making authority over tournament operations, invitations, seeding, match administration, rule enforcement, or disciplinary actions.
+- All competitive, administrative, and integrity-related decisions are made independently by the Tournament Operator, DFRAG Media Group Pty Ltd, in accordance with Valve Tournament Operation Requirements.
+- Sponsorship relationships do not influence competitive outcomes, invitations, seeding, or rulings.
+- Any future conflicts identified will be disclosed publicly and managed in line with the official ruleset and Valve requirements.
+
+This disclosure is provided in the interest of transparency and competitive integrity.
 
 ---
 

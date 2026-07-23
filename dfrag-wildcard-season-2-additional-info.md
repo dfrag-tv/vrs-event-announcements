@@ -125,7 +125,7 @@ Open Series 6 Stage 3 ends on **August 13, 2026**. All three associated tourname
 
 ## Roster Continuity
 
-- A forfeit will be declared in any match where a roster does not field at least three of the originally invited roster athletes for the entirety of the match, in accordance with Valve Tournament Operation Requirements.
+- A forfeit will be declared in any match where a roster does not field at least three of the originally invited, qualified, or seeded roster athletes for the entirety of the match, in accordance with the official ruleset and Valve Tournament Operation Requirements.
 
 ---
 
@@ -154,5 +154,7 @@ This disclosure is provided in the interest of transparency and competitive inte
 
 ## Verifiability
 
-- This Additional Information is published on a platform that preserves version history
-- Qualification paths and invitation logic are publicly inspectable via associated tournament results and published VRS standings
+- This Additional Information is published on a platform that preserves version history.
+- Online Open Qualifier registration order and timestamps are publicly inspectable via **FACEIT**.
+- The VRS publication used for Direct VRS Invites and seeding will be published or linked before the Invitation Date and seed lock.
+- Any updates to this Additional Information will be preserved through version history.

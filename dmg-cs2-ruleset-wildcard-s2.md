@@ -632,4 +632,5 @@ Conflict of interest disclosures for this event are published in the [Additional
 
 ## Admin Discretion
 
-The Tournament Organiser has complete discretion over all rules and may overrule to protect the “spirit of the rule”.
+The Tournament Organiser may make rulings where this ruleset is silent or ambiguous in order to protect competitive integrity and the spirit of the rule. Admin discretion cannot be used to alter published Direct VRS Invite criteria, Online Open Qualifier or Online Closed Qualifier qualification paths, prize distribution, or any requirement set out in the Additional Information document.
+

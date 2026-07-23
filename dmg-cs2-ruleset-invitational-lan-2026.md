@@ -763,6 +763,12 @@ Appeals must be lodged in writing within seventy-two (72) hours of sanction noti
 
 ---
 
+## Disclosures
+
+Conflict of interest disclosures for this event are published in the [Additional Information document](dfrag-invitational-lan-additional-info.md).
+
+---
+
 ## Admin Discretion
 
 The Tournament Organiser may make rulings where this ruleset is silent or ambiguous in order to protect competitive integrity and the spirit of the rule. Admin discretion cannot be used to alter published Direct VRS Invite criteria, Online Open Qualifier or Online Closed Qualifier qualification paths, prize distribution, or any requirement set out in the Additional Information document.
