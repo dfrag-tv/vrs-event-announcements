@@ -372,12 +372,12 @@ No compensation will be provided beyond the published prize pool.
 
 ### Active Map Pool
 
-- de_ancient
 - de_cache
 - de_dust2
-- de_inferno
 - de_mirage
+- de_inferno
 - de_nuke
+- de_ancient
 - de_anubis
 
 ### Veto

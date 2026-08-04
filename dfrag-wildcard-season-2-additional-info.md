@@ -3,6 +3,7 @@
 ## Published
 
 - **Published:** July 22, 2026
+- **Last Updated:** August 4, 2026
 
 ## Tournament Operator
 
@@ -19,7 +20,6 @@
 - **Tournament stages:** Group Stage (LAN), Finals (LAN)
 
 - **Stage 1 – Group Stage:**
-
   - 2 groups of 4 teams
   - GSL format
   - All matches Best-of-3
@@ -33,7 +33,7 @@
 ## Open Qualifiers
 
 - No Open Qualifiers are currently associated with this tournament.
-- If slots remain unfilled after all announced Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s).
+- If slots remain unfilled after all announced Wildcard Invites and supplementary Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s).
 - Any such Open Qualifier will be operated in accordance with Valve Tournament Operation Requirements and will be announced no fewer than **14 days** prior to its start.
 - The Open Qualifier will not be VRS-ranked unless explicitly stated in a published update to this Additional Information.
 - Rosters qualifying via an Open Qualifier must comply with all roster eligibility and continuity requirements applicable to invited rosters.
@@ -47,31 +47,45 @@ The following tournaments are associated with this Wildcard Tournament for quali
 - DFRAG Open Series 4
 - DFRAG Open Series 5
 - DFRAG Open Series 6
+- HyperX Intel Nationals 2026 LAN
 
-Open Series 6 Stage 3 ends on **August 13, 2026**. All three associated tournaments are completed before the Invitation Date.
+Open Series 6 Stage 3 ends on **August 13, 2026**. HyperX Intel Nationals 2026 LAN was completed **July 16–19, 2026**. All four associated tournaments are completed before the Invitation Date.
 
 ---
 
 ## VRS Information
 
 - **Tournament Tier:** Tier 2 (Wildcard Tournament)
-- **Wildcard Invite source:** Associated Open Series results (Open Series 4–6; Oceania / Australia and New Zealand events)
+- **Wildcard Invite source:** Associated tournament results (Open Series 4–6 and HyperX Intel Nationals 2026 LAN)
 - **Direct VRS Invite list:** Asia VRS parent list
-- **Direct VRS Invites:** 2 (supplementary)
-- **Wildcard Invites:** 6
+- **Direct VRS Invites:** Supplementary (issued to fill vacated slots)
+- **Wildcard Invites:** 8
+- **Invitation Date:** August 21, 2026
+- **VRS publication date used for invites:** August 4, 2026
+- **VRS publication date used for seeding:** October 2026
+- **VRS parent region/list:** Asia
+- **VRS subdivision used:** Oceania (Wildcard Invite source events only; not applied to Direct VRS Invites)
+- **Eligible location filter:** Australia and New Zealand (Wildcard Invite source events only)
+- **Visa region:** Australia
+
+Oceania / AU–NZ filters apply only to Wildcard Invite source events. Supplementary Direct VRS Invites use the Asia VRS parent list with no Oceania subdivision filter.
 
 ---
 
 ### Invite Method
 
-- **6 Wildcard Invites:**
-  - Top 2 teams from each associated DFRAG Open Series
-- **2 Direct VRS Invites:**
-  - Issued sequentially from the **Asia** VRS list
+- **8 Wildcard Invites:**
+  - DFRAG Open Series 4: top 2
+  - DFRAG Open Series 5: top 2
+  - DFRAG Open Series 6: top 2
+  - HyperX Intel Nationals 2026 LAN: top 2
+- **Direct VRS Invites (supplementary):**
+  - Issued sequentially from the **Asia** VRS parent list to fill vacated Wildcard Invite slots
+  - No Oceania subdivision filter applies to Direct VRS Invites
   - Invited Rosters must be ranked lower than 12 on the Global VRS at the Invitation Date
 
 - **Invitation Date:** August 21, 2026
-- **VRS publication date used for invites:** August 2026
+- **VRS publication date used for invites:** August 4, 2026
 - **VRS publication date used for seeding:** October 2026
 
 ---
@@ -82,16 +96,18 @@ Open Series 6 Stage 3 ends on **August 13, 2026**. All three associated tourname
   Initial seeding for all stages will be determined using the applicable **Valve Regional Standings (VRS)** publication specified for this tournament.
 
 - **Duplicate Qualification Handling:**  
-  If a roster qualifies for the DFRAG Wildcard LAN multiple times via separate DFRAG Open Series results, only one qualification slot will be allocated to that roster.
+  If a roster qualifies for the DFRAG Wildcard LAN multiple times via separate associated tournament results, only one qualification slot will be allocated to that roster.
 
-- **Supplementary Invites:**  
-  Any vacated qualification slots resulting from duplicate Open Series qualifications will be filled by issuing **Direct VRS Invites**, selected sequentially from the **Asia** VRS list in accordance with Valve Tournament Operation Requirements.
+- **Supplementary Direct VRS Invites:**  
+  Any vacated qualification slots resulting from duplicate associated-tournament qualifications, declines, or ineligibilities will be filled by issuing **Direct VRS Invites**, selected sequentially from the **Asia** VRS parent list with no Oceania subdivision filter, in accordance with Valve Tournament Operation Requirements.
+  No discretionary invites will be issued.
 
 - **VRS Priority:**  
   All Wildcard and Direct VRS invite rosters will enter the tournament at the earliest stage and will not be seeded above higher-ranked VRS rosters.
+  Rosters without a Global VRS rank cannot be seeded above VRS-ranked rosters.
 
 - **Fallback Qualification:**  
-  If slots remain unfilled after all announced Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s).
+  If slots remain unfilled after all announced Wildcard Invites and supplementary Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s).
 
 ---
 
@@ -110,7 +126,7 @@ Open Series 6 Stage 3 ends on **August 13, 2026**. All three associated tourname
 
 ## Visa / Location
 
-- **Visa region:** Australia (Oceania)
+- **Visa region:** Australia
 - **LAN location:** Brisbane, Australia
 
 ---
@@ -125,7 +141,8 @@ Open Series 6 Stage 3 ends on **August 13, 2026**. All three associated tourname
 
 ## Roster Continuity
 
-- A forfeit will be declared in any match where a roster does not field at least three of the originally invited, qualified, or seeded roster athletes for the entirety of the match, in accordance with the official ruleset and Valve Tournament Operation Requirements.
+- A forfeit will be declared in any match where a roster does not field at least three of the Invited Roster Athletes for the entirety of the match.
+- For Open Qualifier or other non-invited pathways, a forfeit will be declared in any match where a roster does not field at least three of the originally qualified or seeded roster athletes for the entirety of the match, in accordance with the official ruleset.
 
 ---
 
@@ -156,5 +173,6 @@ This disclosure is provided in the interest of transparency and competitive inte
 
 - This Additional Information is published on a platform that preserves version history.
 - Online Open Qualifier registration order and timestamps are publicly inspectable via **FACEIT**.
+- Wildcard Invite qualification paths are publicly inspectable via associated tournament results.
 - The VRS publication used for Direct VRS Invites and seeding will be published or linked before the Invitation Date and seed lock.
 - Any updates to this Additional Information will be preserved through version history.

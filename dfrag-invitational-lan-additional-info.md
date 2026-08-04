@@ -18,7 +18,7 @@
 ### Direct VRS Invites
 
 - **Invitation Date:** August 21, 2026
-- **VRS publication date used for invites:** August 2026
+- **VRS publication date used for invites:** August 4, 2026
 
 ### Online Open Qualifier
 
@@ -97,12 +97,12 @@
 
 ## Qualification Pathways
 
-| Pathway | Slots | Scope | Leads To | Notes |
-| --- | ---: | --- | --- | --- |
-| Direct VRS Invite (Oceania) | 4 | Oceania | Offline LAN Main Event | Direct VRS Invite |
-| Direct VRS Invite (Asia) | 2 | Asia | Offline LAN Main Event | Direct VRS Invite |
-| Online Open Qualifier | 8 | Asia | Online Closed Qualifier | FACEIT; does not lead directly to LAN |
-| Online Closed Qualifier | 2 | From Open Qualifier top 8 | Offline LAN Main Event | Top 2 advance to LAN; VRS seeded |
+| Pathway                     | Slots | Scope                     | Leads To                | Notes                                 |
+| --------------------------- | ----: | ------------------------- | ----------------------- | ------------------------------------- |
+| Direct VRS Invite (Oceania) |     4 | Oceania                   | Offline LAN Main Event  | Direct VRS Invite                     |
+| Direct VRS Invite (Asia)    |     2 | Asia                      | Offline LAN Main Event  | Direct VRS Invite                     |
+| Online Open Qualifier       |     8 | Asia                      | Online Closed Qualifier | FACEIT; does not lead directly to LAN |
+| Online Closed Qualifier     |     2 | From Open Qualifier top 8 | Offline LAN Main Event  | Top 2 advance to LAN; VRS seeded      |
 
 ### Pathway A - Direct VRS Invites to Offline LAN Main Event
 

@@ -1,8 +1,8 @@
 # D.M.G. CS2 Ruleset - WILDCARD LAN - Season 2
 
-- **Version:** 1.5.1
+- **Version:** 1.5.3
 - **Date created:** 05/01/2026 (dd/mm/yyyy)
-- **Date updated:** 23/07/2026 (dd/mm/yyyy)
+- **Date updated:** 04/08/2026 (dd/mm/yyyy)
 
 **DFRAG MEDIA GROUP** CS2 Ruleset – 2026
 
@@ -17,7 +17,7 @@
 - **Additional Information:** For complete VRS invitation details, seeding information, tournament format, and prize pool distribution, see the [Additional Information document](dfrag-wildcard-season-2-additional-info.md).
 - **Additional Information Published:** July 22, 2026
 - **Invitation Date:** August 21, 2026
-- **Associated Tournaments:** DFRAG Open Series 4, DFRAG Open Series 5, DFRAG Open Series 6
+- **Associated Tournaments:** DFRAG Open Series 4, DFRAG Open Series 5, DFRAG Open Series 6, HyperX Intel Nationals 2026 LAN
 
 ---
 
@@ -109,8 +109,8 @@ _Note: some venues may have a separate Minor Policy due to liquor licensing requ
 
 Regional requirements differ by pathway. See the [Additional Information document](dfrag-wildcard-season-2-additional-info.md) for full detail.
 
-- **Wildcard Invites:** Issued from associated Open Series results (Open Series 4–6; Oceania / Australia and New Zealand events).
-- **Direct VRS Invites:** Issued sequentially from the Asia VRS parent list.
+- **Wildcard Invites:** Issued from associated tournament results (Open Series 4–6 and HyperX Intel Nationals 2026 LAN; Oceania / Australia and New Zealand events). Top 2 from each associated tournament. Oceania / AU–NZ filters apply only to Wildcard Invite source events.
+- **Direct VRS Invites:** Supplementary Direct VRS Invites may be issued sequentially from the Asia VRS parent list with no Oceania subdivision filter to fill vacated Wildcard Invite slots (including slots vacated by duplicate associated-tournament qualifications). Invited Rosters must be ranked lower than 12 on the Global VRS at the Invitation Date.
 - **LAN attendance:** All participating rosters must be able to attend the Offline LAN Main Event in person at **The DFRAG Studio**, Brisbane, Australia, from **October 15–18, 2026**.
 
 ### Existing Ban
@@ -190,7 +190,7 @@ Participants will be informed of roster lock dates by the organiser.
 ### Open Qualifier
 
 - No Open Qualifiers are currently associated with this tournament.
-- If slots remain unfilled after all announced Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s), as set out in the [Additional Information document](dfrag-wildcard-season-2-additional-info.md).
+- If slots remain unfilled after all announced Wildcard Invites and supplementary Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s), as set out in the [Additional Information document](dfrag-wildcard-season-2-additional-info.md).
 
 ### Closed Qualifier
 
@@ -201,7 +201,7 @@ Participants will be informed of roster lock dates by the organiser.
 - **Stage 1 – Group Stage (LAN):** 2 groups of 4 teams; GSL format; all matches Best-of-3; top 2 teams from each group advance to Stage 2.
 - **Stage 2 – Finals (LAN):** 4 teams; double-elimination bracket; all matches Best-of-3.
 - Main Event dates: **October 15–18, 2026** at **The DFRAG Studio**, Brisbane, Australia.
-- Qualification paths: 6 Wildcard Invites (top 2 from each associated Open Series) and 2 Direct VRS Invites from the Asia VRS list, as set out in the Additional Information document.
+- Qualification paths: 8 Wildcard Invites (top 2 from each associated tournament: Open Series 4–6 and HyperX Intel Nationals 2026 LAN; Oceania / AU–NZ filters apply only to these source events), with supplementary Direct VRS Invites from the Asia VRS parent list with no Oceania subdivision filter used to fill vacated slots (including duplicate qualifications), as set out in the Additional Information document.
 
 ---
 
@@ -236,12 +236,12 @@ The total prize pool is **$20,000 AUD**.
 
 ### Active Map Pool
 
-- de_ancient
-- de_overpass
+- de_cache
 - de_dust2
-- de_inferno
 - de_mirage
+- de_inferno
 - de_nuke
+- de_ancient
 - de_anubis
 
 ### Veto
