@@ -1,8 +1,8 @@
-# D.M.G. CS2 Ruleset - WILDCARD LAN - Season 2
+# D.M.G. CS2 Ruleset - LOGITECH G PRO SERIES
 
-- **Version:** 1.5.3
+- **Version:** 1.5.4
 - **Date created:** 05/01/2026 (dd/mm/yyyy)
-- **Date updated:** 04/08/2026 (dd/mm/yyyy)
+- **Date updated:** 14/08/2026 (dd/mm/yyyy)
 
 **DFRAG MEDIA GROUP** CS2 Ruleset – 2026
 
@@ -604,7 +604,7 @@ Appeals must be lodged in writing within seventy-two (72) hours of sanction noti
 
 - **Broadcast Rights:**
   - Broadcasting rights are solely owned by DFRAG Media Group.
-  - DFRAG will broadcast all coverage of the WILDCARD LAN from The DFRAG Studio.
+  - DFRAG will broadcast all coverage of the LOGITECH G PRO SERIES from The DFRAG Studio.
   - Anyone wishing to stream in a language other than English must contact DFRAG directly to purchase the rights.
   - Official broadcast VODs remain property of DFRAG Media Group.
 
@@ -633,4 +633,3 @@ Conflict of interest disclosures for this event are published in the [Additional
 ## Admin Discretion
 
 The Tournament Organiser may make rulings where this ruleset is silent or ambiguous in order to protect competitive integrity and the spirit of the rule. Admin discretion cannot be used to alter published Direct VRS Invite criteria, Online Open Qualifier or Online Closed Qualifier qualification paths, prize distribution, or any requirement set out in the Additional Information document.
-

@@ -1,9 +1,9 @@
-# DFRAG WILDCARD LAN S2 – Additional Information
+# LOGITECH G PRO SERIES – Additional Information
 
 ## Published
 
 - **Published:** July 22, 2026
-- **Last Updated:** August 4, 2026
+- **Last Updated:** August 14, 2026
 
 ## Tournament Operator
 
@@ -96,7 +96,7 @@ Oceania / AU–NZ filters apply only to Wildcard Invite source events. Supplemen
   Initial seeding for all stages will be determined using the applicable **Valve Regional Standings (VRS)** publication specified for this tournament.
 
 - **Duplicate Qualification Handling:**  
-  If a roster qualifies for the DFRAG Wildcard LAN multiple times via separate associated tournament results, only one qualification slot will be allocated to that roster.
+  If a roster qualifies for the LOGITECH G PRO SERIES multiple times via separate associated tournament results, only one qualification slot will be allocated to that roster.
 
 - **Supplementary Direct VRS Invites:**  
   Any vacated qualification slots resulting from duplicate associated-tournament qualifications, declines, or ineligibilities will be filled by issuing **Direct VRS Invites**, selected sequentially from the **Asia** VRS parent list with no Oceania subdivision filter, in accordance with Valve Tournament Operation Requirements.
@@ -150,7 +150,7 @@ Oceania / AU–NZ filters apply only to Wildcard Invite source events. Supplemen
 
 Christopher “dexter” Nong is an active player competing for Thunder Downunder and is also employed by HP Inc.
 
-HP Inc. is the parent company of OMEN and HyperX, both of which are sponsors of the DFRAG Wildcard LAN S2 event.
+HP Inc. is the parent company of OMEN and HyperX, both of which are sponsors of the LOGITECH G PRO SERIES event.
 
 To mitigate any real or perceived conflict of interest:
 
