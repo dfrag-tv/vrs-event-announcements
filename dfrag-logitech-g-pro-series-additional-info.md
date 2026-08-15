@@ -60,7 +60,7 @@ Open Series 6 Stage 3 ends on **August 13, 2026**. HyperX Intel Nationals 2026 L
 - **Wildcard Invite source:** Associated tournament results (Open Series 4–6 and HyperX Intel Nationals 2026 LAN)
 - **Direct VRS Invite list:** Asia VRS parent list before the LAN Withdrawal Cutoff; Oceania VRS list for Direct VRS Invite replacements on or after the LAN Withdrawal Cutoff
 - **Direct VRS Invites:** Supplementary (issued to fill vacated slots)
-- **Wildcard Invites:** 8
+- **Wildcard Invites:** 8 from associated tournaments. After the LAN Withdrawal Cutoff, one additional Wildcard Invite will be offered for each vacant slot that cannot be filled by an eligible Oceania Direct VRS Invite, under **Seeding and Invite Resolution**
 - **Invitation Date:** August 21, 2026
 - **VRS publication date used for invites:** August 4, 2026
 - **VRS publication date used for seeding:** October 2026
@@ -80,6 +80,7 @@ Oceania / AU–NZ filters apply to Wildcard Invite source events. Before the LAN
   - DFRAG Open Series 5: top 2
   - DFRAG Open Series 6: top 2
   - HyperX Intel Nationals 2026 LAN: top 2
+- **Additional Wildcard Invite:** After the LAN Withdrawal Cutoff only, where no eligible Oceania Direct VRS Invite roster can be confirmed, under **Seeding and Invite Resolution**
 - **Direct VRS Invites (supplementary):**
   - Issued sequentially from the **Asia** VRS parent list to fill vacated Wildcard Invite slots
   - Before the LAN Withdrawal Cutoff, no Oceania subdivision filter applies to Direct VRS Invites
@@ -117,7 +118,10 @@ Oceania / AU–NZ filters apply to Wildcard Invite source events. Before the LAN
 - Replacement rosters must satisfy the Direct VRS Invite criteria set out in **Invite Method**.
 - After the LAN Withdrawal Cutoff, vacated slots will not be filled from the Asia VRS parent list and will not be filled by a fallback Open Qualifier.
 - This Oceania filter is applied because remaining time is insufficient for Australian visa processing and long-haul travel to Brisbane.
-- If no eligible Oceania roster can be confirmed in time, the withdrawing roster remains in the Offline LAN Main Event field and its matches are automatically forfeited as official VRS results.
+- If no eligible Oceania roster can be confirmed in time, the vacant slot will be offered as an additional Wildcard Invite.
+- That Wildcard Invite will be offered to a roster that placed 1st in any Tier 2 Ranked tournament during the 6 months preceding the Invitation Date, and that is ranked lower than 12 on the Global VRS at the Invitation Date.
+- Where more than one roster meets those criteria, offers proceed by Global VRS rank, highest eligible roster first. A roster that has already declined an invitation to this tournament will be skipped.
+- If no such Wildcard Invite roster can be confirmed in time, the withdrawing roster remains in the Offline LAN Main Event field and its matches are automatically forfeited as official VRS results.
 
 No discretionary invites will be issued.
 
@@ -137,7 +141,8 @@ No discretionary invites will be issued.
 
 - Late withdrawals after the cutoff affect competitive integrity, broadcast coverage, sponsorship obligations, and DFRAG Media Group Pty Ltd’s ability to host the event.
 - Vacant slots will be filled under **Seeding and Invite Resolution** — After the LAN Withdrawal Cutoff.
-- If no eligible Oceania roster can be confirmed in time, the roster remains in the Offline LAN Main Event field and its matches are automatically forfeited as official VRS results, as set out in **Seeding and Invite Resolution**.
+- If no eligible Oceania roster can be confirmed through that Direct VRS Invite order, the vacancy will be filled by an additional Wildcard Invite to a roster that placed 1st or 2nd in any Tier 2 Ranked tournament during the 6 months preceding the Invitation Date, and that is ranked lower than 12 on the Global VRS at the Invitation Date.
+- If no such Wildcard Invite roster can be confirmed in time, the roster remains in the Offline LAN Main Event field and its matches are automatically forfeited as official VRS results, as set out in **Seeding and Invite Resolution**.
 
 This rule applies to all confirmed Offline LAN Main Event slots, regardless of qualification pathway.
 
