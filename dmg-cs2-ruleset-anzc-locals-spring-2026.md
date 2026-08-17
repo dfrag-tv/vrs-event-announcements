@@ -1,6 +1,6 @@
 # D.M.G. CS2 Ruleset - ANZC LOCALS SPRING 2026
 
-- **Version:** 1.0.0
+- **Version:** 1.0.1
 - **Date created:** 17/08/2026 (dd/mm/yyyy)
 - **Date updated:** 17/08/2026 (dd/mm/yyyy)
 
@@ -125,20 +125,20 @@ _Note: some venues may have a separate Minor Policy due to liquor licensing requ
 
 ### Region
 
-Regional requirements differ by pathway. See the [Additional Information document](anzc-locals-spring-2026-additional-info.md) for full detail.
+High Seed Registration, High Seed LAN allocation, and the Online Open Qualifier use the same Oceania / Australia and New Zealand regional filter. See the [Additional Information document](anzc-locals-spring-2026-additional-info.md) for full detail.
 
 #### High Seed Registration and High Seed LAN Allocation
 
-- High Seed Registration is available globally to all eligible rosters (subject to minimum age, ban status, and other objective eligibility rules in this ruleset).
+- High Seed Registration is restricted to eligible Oceania rosters based in **Australia and New Zealand**, or whose participating players are physically able to compete from **Australia and New Zealand** (subject to minimum age, ban status, and other objective eligibility rules in this ruleset).
 - High Seed Registration is hosted via **GOOGLE FORMS**; registration order and timestamps are publicly inspectable via **GOOGLE SHEETS**.
-- No regional filter applies to High Seed LAN allocation.
+- The Oceania regional filter applies to High Seed LAN allocation.
 - Rosters allocated a High Seed LAN slot must be able to attend **The DFRAG Studio** from **October 10–11, 2026**.
 
 #### Online Open Qualifier
 
 - Online Open Qualifier matches are hosted on **FACEIT** (servers in Sydney, Australia). FACEIT Anti-Cheat is required.
 - Online Open Qualifier registration is qualifier platform entry for confirmed registered rosters and is not official tournament registration.
-- For that reason, participants must reside in or be able to compete from **Australia** and **New Zealand**.
+- Participants must reside in or be able to compete from **Australia** and **New Zealand**.
 - Rosters that qualify through the Online Open Qualifier must be able to attend the Offline LAN Main Event if they advance.
 
 ### Existing Ban
@@ -232,7 +232,7 @@ All teams must enter through High Seed Registration. No roster will be advanced 
 
 - High Seed Registration opens on **August 24, 2026**.
 - High Seed Registration closes on **August 30, 2026, 23:59 AEST**.
-- High Seed Registration is available globally to all eligible rosters.
+- High Seed Registration is restricted to eligible Oceania rosters based in **Australia and New Zealand**, or whose participating players are physically able to compete from **Australia and New Zealand**.
 - High Seed Registration will be hosted via **GOOGLE FORMS** only (not FACEIT).
 - High Seed Registration is free to enter.
 - High Seed Registration is first-come-first-served for registration order, subject to:
@@ -245,7 +245,7 @@ All teams must enter through High Seed Registration. No roster will be advanced 
 - If the published registration capacity is reached, additional teams may be placed on a waitlist in High Seed Registration timestamp order.
 - Completing High Seed Registration does not guarantee a LAN slot.
 - Completing High Seed Registration does not complete Online Open Qualifier registration on FACEIT.
-- Global High Seed Registration does not imply global Online Open Qualifier eligibility. Oceania-eligible rosters not allocated a High Seed LAN slot must separately complete Online Open Qualifier registration on FACEIT (qualifier platform entry; not official tournament registration) to enter the Online Open Qualifier.
+- Oceania-eligible rosters not allocated a High Seed LAN slot must separately complete Online Open Qualifier registration on FACEIT (qualifier platform entry; not official tournament registration) to enter the Online Open Qualifier.
 - Online Open Qualifier registration on FACEIT opens on the same date as High Seed Registration; a roster must complete and be confirmed through High Seed Registration before FACEIT qualifier registration is valid.
 
 ### High Seed LAN Allocation
@@ -253,17 +253,16 @@ All teams must enter through High Seed Registration. No roster will be advanced 
 - VRS Seed Lock / High Seed LAN Slot Allocation will occur on **August 30, 2026**, after Registration Closes.
 - Initial seeding will use the VRS publication date specified in the Additional Information document.
 - No Direct VRS Invites will be issued.
-- The High Seed Registration LAN allocation pathway is open globally. No regional filter applies.
-- Only confirmed registered rosters are eligible for High Seed LAN allocation.
-- The **top 4 confirmed registered rosters globally by VRS seeding** will be seeded directly into the Offline LAN Main Event through High Seed Registration using the published VRS seeding snapshot.
+- The High Seed Registration LAN allocation pathway is restricted to eligible Oceania rosters. The Oceania regional filter applies.
+- Only confirmed registered Oceania-eligible rosters are eligible for High Seed LAN allocation.
+- The **top 4 confirmed registered Oceania-eligible rosters by VRS seeding** will be seeded directly into the Offline LAN Main Event through High Seed Registration using the published VRS seeding snapshot.
 - These LAN slots are not Direct VRS Invites.
 - A roster must complete High Seed Registration to be eligible for High Seed LAN allocation.
 - All rosters allocated a High Seed LAN slot must be able to attend **The DFRAG Studio**, Brisbane, Queensland, Australia, from **October 10–11, 2026**.
 - Rosters without a Global VRS rank may register and compete, but will not be seeded above VRS-ranked rosters.
-- Any confirmed registered roster not allocated a High Seed LAN slot will be assessed for Online Open Qualifier eligibility.
-- Unsuccessful High Seed Registration applicants that satisfy Online Open Qualifier regional eligibility requirements remain eligible to compete in the Online Open Qualifier, subject to confirmed High Seed Registration and FACEIT qualifier registration.
-- Only confirmed registered rosters that satisfy Online Open Qualifier regional eligibility requirements will be seeded into the Online Open Qualifier.
-- Global rosters that are not allocated a High Seed LAN slot and do not satisfy Online Open Qualifier regional eligibility requirements are not eligible for the Online Open Qualifier.
+- Any confirmed registered Oceania-eligible roster not allocated a High Seed LAN slot will be assessed for Online Open Qualifier eligibility.
+- Unsuccessful High Seed Registration applicants remain eligible to compete in the Online Open Qualifier, subject to confirmed High Seed Registration and FACEIT qualifier registration.
+- Only confirmed registered Oceania-eligible rosters will be seeded into the Online Open Qualifier.
 
 ### Online Open Qualifier
 
@@ -276,7 +275,7 @@ All teams must enter through High Seed Registration. No roster will be advanced 
 - Online Open Qualifier matches are hosted on **FACEIT** (servers in Sydney, Australia). Online Open Qualifier registration on FACEIT is qualifier platform entry only and requires confirmed High Seed Registration.
 - Entry into the Online Open Qualifier is free.
 - FACEIT Anti-Cheat is required for all Online Open Qualifier matches.
-- The Online Open Qualifier is open only to confirmed registered rosters based in, or able to compete from, **Australia and New Zealand**, that were not allocated a High Seed LAN slot through High Seed Registration and global VRS seeding.
+- The Online Open Qualifier is open only to confirmed registered Oceania-eligible rosters based in, or able to compete from, **Australia and New Zealand**, that were not allocated a High Seed LAN slot through High Seed Registration and VRS seeding.
 - Online Open Qualifier registration order and timestamps will be publicly inspectable via FACEIT.
 - The Online Open Qualifier will be double-elimination.
 - Matches will be Best-of-1 until qualification matches.
@@ -295,7 +294,7 @@ All teams must enter through High Seed Registration. No roster will be advanced 
 
 ### Vacancies and Replacements
 
-If a roster allocated a High Seed LAN slot through High Seed Registration and VRS seeding withdraws, fails eligibility checks, fails roster validation, or fails to complete the LAN Participation Fee by the required deadline, the vacant slot will be offered to the next highest-seeded eligible registered roster globally using the same published VRS seeding snapshot.
+If a roster allocated a High Seed LAN slot through High Seed Registration and VRS seeding withdraws, fails eligibility checks, fails roster validation, or fails to complete the LAN Participation Fee by the required deadline, the vacant slot will be offered to the next highest-seeded eligible Oceania roster using the same published VRS seeding snapshot.
 
 If no eligible registered roster is available through the High Seed Registration allocation pathway before the Online Open Qualifier begins, the vacant slot may be added to the Online Open Qualifier.
 
