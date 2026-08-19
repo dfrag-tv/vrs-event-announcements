@@ -27,7 +27,7 @@
 
 - **Qualifier Registration Opens:** August 24, 2026
 - **Qualifier Registration Closes:** August 30, 2026, 23:59 AEST
-- **Qualifier Day 1:** August 31, 2026, 11:00 AEST
+- **Qualifier Day 1:** August 31, 2026, 18:00 AEST
 - **Qualifier Day 2:** September 1, 2026
 - **Overflow Date:** September 2, 2026, if required
 
@@ -136,7 +136,7 @@ The Online Open Qualifier is restricted to eligible confirmed registered rosters
 
 - Online Open Qualifier registration opens on **August 24, 2026**.
 - Online Open Qualifier registration closes on **August 30, 2026, 23:59 AEST**.
-- Online Open Qualifier Day 1 begins on **August 31, 2026, 11:00 AEST**.
+- Online Open Qualifier Day 1 begins on **August 31, 2026, 18:00 AEST**.
 - Online Open Qualifier Day 2 is **September 1, 2026**.
 - An overflow date of **September 2, 2026** may be used if required.
 - Online Open Qualifier registration is hosted via **FACEIT**.
