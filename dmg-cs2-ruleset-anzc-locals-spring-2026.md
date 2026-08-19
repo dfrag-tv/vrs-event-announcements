@@ -2,7 +2,7 @@
 
 - **Version:** 1.0.0
 - **Date created:** 17/08/2026 (dd/mm/yyyy)
-- **Date updated:** 17/08/2026 (dd/mm/yyyy)
+- **Date updated:** 19/08/2026 (dd/mm/yyyy)
 
 **DFRAG MEDIA GROUP** CS2 Ruleset – 2026
 
@@ -20,10 +20,10 @@
 - **High Seed Registration Closes:** August 30, 2026, 23:59 AEST
 - **VRS Seed Lock / High Seed LAN Slot Allocation:** August 30, 2026, after Registration Closes
 - **Online Open Qualifier Registration Opens:** August 24, 2026
-- **Online Open Qualifier Registration Closes:** August 30, 2026, 23:59 AEST
-- **Online Open Qualifier Day 1:** August 31, 2026, 11:00 AEST
-- **Online Open Qualifier Day 2:** September 1, 2026
-- **Online Open Qualifier Overflow Date:** September 2, 2026, if required
+- **Online Open Qualifier Registration Closes:** September 2, 2026, 17:00 AEST
+- **Online Open Qualifier Day 1:** September 2, 2026, 18:00 AEST
+- **Online Open Qualifier Day 2:** September 3, 2026
+- **Online Open Qualifier Overflow Date:** September 4, 2026, if required
 - **Offline LAN Main Event:** October 10–11, 2026
 - **Online Platform:** FACEIT
 - **Online Anti-Cheat:** FACEIT Anti-Cheat
@@ -268,10 +268,10 @@ All teams must enter through High Seed Registration. No roster will be advanced 
 ### Online Open Qualifier
 
 - Online Open Qualifier registration opens on **August 24, 2026**.
-- Online Open Qualifier registration closes on **August 30, 2026, 23:59 AEST**.
-- Online Open Qualifier Day 1 begins on **August 31, 2026, 11:00 AEST**.
-- Online Open Qualifier Day 2 is **September 1, 2026**.
-- An overflow date of **September 2, 2026** may be used if required.
+- Online Open Qualifier registration closes on **September 2, 2026, 17:00 AEST**.
+- Online Open Qualifier Day 1 begins on **September 2, 2026, 18:00 AEST**.
+- Online Open Qualifier Day 2 is **September 3, 2026**.
+- An overflow date of **September 4, 2026** may be used if required.
 - The Online Open Qualifier will determine the remaining **4 LAN slots**.
 - Online Open Qualifier matches are hosted on **FACEIT** (servers in Sydney, Australia). Online Open Qualifier registration on FACEIT is qualifier platform entry only and requires confirmed High Seed Registration.
 - Entry into the Online Open Qualifier is free.

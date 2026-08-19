@@ -3,7 +3,7 @@
 ## Published
 
 - **Published:** August 17, 2026
-- **Last Updated:** August 17, 2026
+- **Last Updated:** August 19, 2026
 
 ## Tournament Operator
 
@@ -16,20 +16,24 @@
 - **Published:** August 17, 2026
 - **High Seed Registration Opens:** August 24, 2026
 - **Open Qualifier Registration Opens:** August 24, 2026
-- **Registration Closes:** August 30, 2026, 23:59 AEST
+- **High Seed Registration Closes:** August 30, 2026, 23:59 AEST
 
 ### Seeding and slot allocation
 
 - **VRS Seed Lock:** August 30, 2026, 23:59 AEST
 - **High Seed LAN Slot Allocation:** August 30, 2026, after Registration Closes
 
+
+
 ### Online Open Qualifier
 
 - **Qualifier Registration Opens:** August 24, 2026
-- **Qualifier Registration Closes:** August 30, 2026, 23:59 AEST
-- **Qualifier Day 1:** August 31, 2026, 18:00 AEST
-- **Qualifier Day 2:** September 1, 2026
-- **Overflow Date:** September 2, 2026, if required
+- **Qualifier Registration Closes:** September 2, 2026, 17:00 AEST
+- **Qualifier Day 1:** September 2, 2026, 18:00 AEST
+- **Qualifier Day 2:** September 3, 2026
+- **Overflow Date:** September 4, 2026, if required
+
+
 
 ### Offline LAN Main Event
 
@@ -38,7 +42,11 @@
 
 ---
 
+
+
 ## Tournament Format
+
+
 
 ### Summary
 
@@ -46,6 +54,8 @@
 - **Ranked stages:** Stage 1 Online Open Qualifier and Stage 2 Offline LAN Main Event
 - **Online stages:** Stage 1 Online Open Qualifier
 - **LAN stages:** Stage 2 Offline LAN Main Event
+
+
 
 ### Stage 1 - Online Open Qualifier
 
@@ -55,12 +65,16 @@
 - **Match format:** Best-of-1 until qualification matches; Best-of-3 qualification matches
 - **Advancement:** Top 4 eligible rosters advance to the Offline LAN Main Event
 
+
+
 ### Stage 2 - Offline LAN Main Event
 
 - **Stage type:** LAN
 - **Teams:** 8
 - **Format:** Group Stage then Finals, as set out below
 - **Match format:** As set out below and in the official ruleset
+
+
 
 #### Stage 2A - Group Stage (LAN)
 
@@ -70,12 +84,16 @@
 - **Match format:** Opening matches Best-of-1; all following matches Best-of-3
 - **Advancement:** Top 2 teams from each group advance to Finals
 
+
+
 #### Stage 2B - Finals (LAN)
 
 - **Date:** October 11, 2026
 - **Teams:** 4
 - **Format:** Double-elimination bracket
 - **Match format:** Opening matches Best-of-1; all following matches Best-of-3
+
+
 
 ### Platform and venue
 
@@ -87,16 +105,22 @@
 
 ---
 
+
+
 ## Qualification Pathways
 
 All teams must complete High Seed Registration (official tournament registration).
 
 There are **no Direct VRS Invites** and **no Wildcard Invites** for this tournament.
 
+
 | Pathway                              | Slots | Scope                               | Leads To               | Notes                   |
-| ------------------------------------ | ----: | ----------------------------------- | ---------------------- | ----------------------- |
-| High Seed Registration + VRS Seeding |     4 | Global                              | Offline LAN Main Event | Not a Direct VRS Invite |
-| Online Open Qualifier                |     4 | Oceania (Australia and New Zealand) | Offline LAN Main Event | FACEIT platform entry   |
+| ------------------------------------ | ----- | ----------------------------------- | ---------------------- | ----------------------- |
+| High Seed Registration + VRS Seeding | 4     | Global                              | Offline LAN Main Event | Not a Direct VRS Invite |
+| Online Open Qualifier                | 4     | Oceania (Australia and New Zealand) | Offline LAN Main Event | FACEIT platform entry   |
+
+
+
 
 ### Pathway A - High Seed Registration + VRS Seeding
 
@@ -128,6 +152,8 @@ High Seed LAN slots are allocated only to confirmed registered rosters.
 
 ---
 
+
+
 ## Open Qualifier
 
 The Online Open Qualifier is restricted to eligible confirmed registered rosters from the Oceania subdivision (Australia and New Zealand) that are not allocated a High Seed LAN slot through High Seed Registration and global VRS seeding.
@@ -135,14 +161,16 @@ The Online Open Qualifier is restricted to eligible confirmed registered rosters
 ### Registration and schedule
 
 - Online Open Qualifier registration opens on **August 24, 2026**.
-- Online Open Qualifier registration closes on **August 30, 2026, 23:59 AEST**.
-- Online Open Qualifier Day 1 begins on **August 31, 2026, 18:00 AEST**.
-- Online Open Qualifier Day 2 is **September 1, 2026**.
-- An overflow date of **September 2, 2026** may be used if required.
+- Online Open Qualifier registration closes on **September 2, 2026, 17:00 AEST**.
+- Online Open Qualifier Day 1 begins on **September 2, 2026, 18:00 AEST**.
+- Online Open Qualifier Day 2 is **September 3, 2026**.
+- An overflow date of **September 4, 2026** may be used if required.
 - Online Open Qualifier registration is hosted via **FACEIT**.
 - Online Open Qualifier registration is qualifier platform entry only and does not replace High Seed Registration.
 - Entry into the Online Open Qualifier is free, but requires confirmed High Seed Registration.
 - Online Open Qualifier registration order and timestamps are publicly inspectable via **FACEIT**.
+
+
 
 ### Platform and format
 
@@ -151,6 +179,8 @@ The Online Open Qualifier is restricted to eligible confirmed registered rosters
 - Matches will be **Best-of-1** until qualification matches.
 - Qualification matches will be **Best-of-3**.
 - No roster-specific or discretionary selection criteria will be used.
+
+
 
 ### Eligibility
 
@@ -162,13 +192,17 @@ The Online Open Qualifier is restricted to eligible confirmed registered rosters
 - If an ineligible roster is mistakenly entered into the Online Open Qualifier bracket, that roster will be removed from LAN slot contention once identified.
 - If an ineligible roster finishes in a LAN qualification position, the LAN slot will pass to the next highest-placing eligible Oceania roster from the Online Open Qualifier according to the published standings and tiebreaker procedure.
 
+
+
 ### LAN qualification
 
 - The top **4** eligible rosters from the Online Open Qualifier will advance to the Offline LAN Main Event.
 - Rosters that qualify through the Online Open Qualifier must be able to attend the Offline LAN Main Event in person at **The DFRAG Studio**, Brisbane, Queensland, Australia, from **October 10–11, 2026**.
-- The complete eight-team Offline LAN Main Event field is intended to be known by the end of **September 1, 2026**, subject to eligibility checks, fee confirmation, and published vacancy procedures.
+- The complete eight-team Offline LAN Main Event field is intended to be known by the end of **September 3, 2026**, subject to eligibility checks, fee confirmation, and published vacancy procedures.
 
 ---
+
+
 
 ## VRS Information
 
@@ -190,6 +224,8 @@ High Seed Registration uses VRS only as an objective ranking method for confirme
 
 ---
 
+
+
 ## Seeding and Slot Allocation
 
 - After High Seed Registration closes on **August 30, 2026, 23:59 AEST**, the Tournament Organiser will determine High Seed LAN slot allocation and Online Open Qualifier seeding using the published VRS seeding snapshot.
@@ -205,6 +241,8 @@ High Seed Registration uses VRS only as an objective ranking method for confirme
 - All rosters allocated a High Seed LAN slot must be able to attend the LAN at **The DFRAG Studio**, Brisbane, Queensland, Australia, from **October 10–11, 2026**.
 
 ---
+
+
 
 ## Vacancies & Replacements
 
@@ -241,6 +279,8 @@ The same replacement ordering applies if a roster is removed by the Tournament O
 
 ---
 
+
+
 ## Prize Pool and Compensation
 
 **Total Prize Pool:** $10,000 AUD
@@ -250,6 +290,8 @@ The same replacement ordering applies if a roster is removed by the Tournament O
 - **3rd:** $1,500 AUD
 - **4th:** $1,000 AUD
 
+
+
 ### Non-prize compensation
 
 - **Compensation beyond prize pool:** MVP Hardware, awarded according to an objective MVP criterion applied equally to eligible athletes in the Offline LAN Main Event. Details of the MVP award will be published before the Offline LAN Main Event.
@@ -258,6 +300,8 @@ The same replacement ordering applies if a roster is removed by the Tournament O
 - **Hardware or other support:** MVP Hardware only, as disclosed above
 
 ---
+
+
 
 ## Visa / Location
 
@@ -271,6 +315,8 @@ The same replacement ordering applies if a roster is removed by the Tournament O
 
 ---
 
+
+
 ## Integrity and Disqualification
 
 - Integrity, eligibility, and conduct rules are defined in the official ruleset.
@@ -280,11 +326,15 @@ The same replacement ordering applies if a roster is removed by the Tournament O
 
 ---
 
+
+
 ## Roster Continuity
 
 - A forfeit will be declared in any match where a roster does not field at least three of the originally qualified or seeded roster athletes for the entirety of the match, in accordance with the official ruleset.
 
 ---
+
+
 
 ## LAN Participation Fee
 
@@ -301,11 +351,15 @@ The LAN participation fee does not include travel or accommodation unless explic
 
 ---
 
+
+
 ## Official Ruleset
 
-- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-anzc-locals-spring-2026.md
+- [https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-anzc-locals-spring-2026.md](https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-anzc-locals-spring-2026.md)
 
 ---
+
+
 
 ## Verifiability
 
@@ -314,3 +368,4 @@ The LAN participation fee does not include travel or accommodation unless explic
 - Online Open Qualifier registration order and timestamps are publicly inspectable via **FACEIT**.
 - The VRS seeding snapshot used for High Seed LAN slot allocation and Online Open Qualifier seeding will be published or linked before the VRS Seed Lock.
 - Any updates to this Additional Information will be preserved through version history.
+
