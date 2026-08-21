@@ -2,7 +2,7 @@
 
 - **Version:** 1.0.0
 - **Date created:** 23/07/2026 (dd/mm/yyyy)
-- **Date updated:** 23/07/2026 (dd/mm/yyyy)
+- **Date updated:** 22/08/2026 (dd/mm/yyyy)
 
 **DFRAG MEDIA GROUP** CS2 Ruleset – 2026
 
@@ -16,12 +16,13 @@
 - **License Compliance:** This tournament operates in compliance with Valve's Limited Game Tournament License and Tournament Operation Requirements.
 - **Additional Information:** For complete VRS invitation details, seeding information, tournament format, and prize pool distribution, see the [Additional Information document](dfrag-invitational-lan-additional-info-formatted.md).
 - **Additional Information Published:** July 22, 2026
-- **Additional Information Last Updated:** July 23, 2026
+- **Additional Information Last Updated:** August 22, 2026
 - **Invitation Date:** August 21, 2026
 - **Online Open Qualifier Registration Opens:** August 7, 2026
 - **Online Open Qualifier Registration Close:** August 30, 2026
 - **Online Open Qualifier:** August 31, 2026
 - **Online Closed Qualifier:** September 7–8, 2026
+- **LAN Withdrawal Cutoff:** September 26, 2026, 23:59 AEST
 - **Offline LAN Group Stage:** October 26–28, 2026
 - **Offline LAN Playoffs:** October 30 – November 1, 2026
 - **Grand Final:** November 1, 2026 (Best-of-5)
@@ -57,6 +58,7 @@ If there is any conflict between this ruleset and the Additional Information doc
   - [Online Closed Qualifier](#online-closed-qualifier)
   - [Offline LAN Main Event](#offline-lan-main-event)
   - [Vacancies and Replacements](#vacancies-and-replacements)
+  - [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff)
 - [Tournament Structure](#tournament-structure)
   - [Open Qualifier](#open-qualifier)
   - [Closed Qualifier](#closed-qualifier)
@@ -319,6 +321,28 @@ If no eligible roster is available from the relevant qualifier standings, the To
 5. head-to-head result, where applicable
 
 No discretionary invites will be issued.
+
+Withdrawals on or after the **LAN Withdrawal Cutoff** are governed by [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff). If a suitable replacement cannot be confirmed in time, the roster remains in the Offline LAN Main Event field and its matches are automatically forfeited.
+
+### LAN Withdrawal Cutoff
+
+- **Withdrawal cutoff:** September 26, 2026, 23:59 AEST
+- **Measured from:** First play day of the Offline LAN Main Event (October 26, 2026)
+
+#### Before the withdrawal cutoff
+
+- Confirmed Offline LAN Main Event rosters may withdraw without automatic match forfeits or an automatic VRS forfeit record arising from this cutoff rule.
+- Vacant slots will be filled under [Vacancies and Replacements](#vacancies-and-replacements).
+
+#### On or after the withdrawal cutoff
+
+- Late withdrawals after the cutoff affect competitive integrity, broadcast coverage, sponsorship obligations, and DFRAG Media Group Pty Ltd’s ability to host the event.
+- The Tournament Organiser will attempt to replace the roster under [Vacancies and Replacements](#vacancies-and-replacements).
+- If a suitable replacement cannot be confirmed in time, the roster remains in the Offline LAN Main Event field.
+- That roster’s matches will be automatically forfeited.
+- Those results are official tournament results and will count for VRS purposes accordingly.
+
+This rule applies to all confirmed Offline LAN Main Event slots, regardless of qualification pathway.
 
 ---
 
@@ -602,7 +626,10 @@ Breaches of sportsmanship are subject to immediate review by tournament official
   - future prize pool payouts from this tournament, if any remain payable
   - future prize pool payouts from subsequent DFRAG Media Group events involving the same organisation, roster, or nominated prize recipient
 - Acceptance of a Direct VRS Invite or confirmation of a Closed Qualifier LAN slot constitutes agreement to this fine rule.
-- Slot forfeiture and reallocation under Vacancies and Replacements still apply in addition to any fine.
+- A processed withdrawal **before** the LAN Withdrawal Cutoff follows [Vacancies and Replacements](#vacancies-and-replacements) and does not create an automatic VRS forfeit record under [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff).
+- A withdrawal **on or after** the LAN Withdrawal Cutoff without a confirmed replacement remains in the Offline LAN Main Event field with automatic match forfeits and official VRS impact under [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff).
+- Failure to attend without a processed withdrawal remains subject to this non-attendance fine.
+- Slot forfeiture and reallocation under Vacancies and Replacements still apply in addition to any fine, except where [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff) requires the roster to remain in the field.
 
 #### Sportsmanship and banter fines
 
