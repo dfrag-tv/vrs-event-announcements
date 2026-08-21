@@ -2,7 +2,7 @@
 
 - **Version:** 1.5.4
 - **Date created:** 05/01/2026 (dd/mm/yyyy)
-- **Date updated:** 14/08/2026 (dd/mm/yyyy)
+- **Date updated:** 22/08/2026 (dd/mm/yyyy)
 
 **DFRAG MEDIA GROUP** CS2 Ruleset – 2026
 
@@ -18,6 +18,7 @@
 - **Additional Information Published:** July 22, 2026
 - **Invitation Date:** August 21, 2026
 - **Associated Tournaments:** DFRAG Open Series 4, DFRAG Open Series 5, DFRAG Open Series 6, HyperX Intel Nationals 2026 LAN
+- **LAN Withdrawal Cutoff:** September 15, 2026, 23:59 AEST
 
 ---
 
@@ -43,6 +44,7 @@
   - [Open Qualifier](#open-qualifier)
   - [Closed Qualifier](#closed-qualifier)
   - [Main Event](#main-event)
+  - [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff)
 - [Prize Pool](#prize-pool)
 - [Payment](#payment)
 - [Game Specific Rules](#game-specific-rules)
@@ -202,6 +204,26 @@ Participants will be informed of roster lock dates by the organiser.
 - **Stage 2 – Finals (LAN):** 4 teams; double-elimination bracket; all matches Best-of-3.
 - Main Event dates: **October 15–18, 2026** at **The DFRAG Studio**, Brisbane, Australia.
 - Qualification paths: 8 Wildcard Invites (top 2 from each associated tournament: Open Series 4–6 and HyperX Intel Nationals 2026 LAN; Oceania / AU–NZ filters apply only to these source events), with supplementary Direct VRS Invites from the Asia VRS parent list with no Oceania subdivision filter used to fill vacated slots (including duplicate qualifications), as set out in the Additional Information document.
+
+### LAN Withdrawal Cutoff
+
+- **Withdrawal cutoff:** September 15, 2026, 23:59 AEST
+- **Measured from:** First play day of the Offline LAN Main Event (October 15, 2026)
+
+#### Before the withdrawal cutoff
+
+- Confirmed Offline LAN Main Event rosters may withdraw without automatic match forfeits or an automatic VRS forfeit record arising from this cutoff rule.
+- Vacant slots will be filled under the Additional Information **Seeding and Invite Resolution** procedure.
+
+#### On or after the withdrawal cutoff
+
+- Late withdrawals after the cutoff affect competitive integrity, broadcast coverage, sponsorship obligations, and DFRAG Media Group Pty Ltd’s ability to host the event.
+- The Tournament Organiser will attempt to replace the roster under the Additional Information **Seeding and Invite Resolution** procedure.
+- If a suitable replacement cannot be confirmed in time, the roster remains in the Offline LAN Main Event field.
+- That roster’s matches will be automatically forfeited.
+- Those results are official tournament results and will count for VRS purposes accordingly.
+
+This rule applies to all confirmed Offline LAN Main Event slots, regardless of qualification pathway.
 
 ---
 
@@ -463,7 +485,10 @@ Breaches of sportsmanship are subject to immediate review by tournament official
   - future prize pool payouts from this tournament, if any remain payable
   - future prize pool payouts from subsequent DFRAG Media Group events involving the same organisation, roster, or nominated prize recipient
 - Acceptance of a Direct VRS Invite, Wildcard Invite, or confirmation of a fallback Open Qualifier LAN slot constitutes agreement to this fine rule.
-- Slot forfeiture and reallocation under Vacancies and Replacements still apply in addition to any fine.
+- A processed withdrawal **before** the LAN Withdrawal Cutoff follows the Additional Information **Seeding and Invite Resolution** procedure and does not create an automatic VRS forfeit record under [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff).
+- A withdrawal **on or after** the LAN Withdrawal Cutoff without a confirmed replacement remains in the Offline LAN Main Event field with automatic match forfeits and official VRS impact under [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff).
+- Failure to attend without a processed withdrawal remains subject to this non-attendance fine.
+- Slot forfeiture and reallocation under Vacancies and Replacements still apply in addition to any fine, except where [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff) requires the roster to remain in the field.
 
 #### Sportsmanship and banter fines
 

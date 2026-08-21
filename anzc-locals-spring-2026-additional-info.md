@@ -3,7 +3,7 @@
 ## Published
 
 - **Published:** August 17, 2026
-- **Last Updated:** August 19, 2026
+- **Last Updated:** August 22, 2026
 
 ## Tournament Operator
 
@@ -38,6 +38,7 @@
 ### Offline LAN Main Event
 
 - **LAN Main Event:** October 10–11, 2026
+- **LAN Withdrawal Cutoff:** September 10, 2026, 23:59 AEST
 - **Offline location:** Brisbane, Queensland, Australia
 
 ---
@@ -262,6 +263,8 @@ If no eligible roster is available from the Online Open Qualifier standings, the
 
 All replacement decisions will be made using transparent and pre-defined criteria. No discretionary invites will be issued.
 
+Withdrawals on or after the **LAN Withdrawal Cutoff** are governed by **LAN Withdrawal Cutoff** below. If a suitable replacement cannot be confirmed in time, the roster remains in the Offline LAN Main Event field and its matches are automatically forfeited.
+
 ### Online Open Qualifier Ineligible Roster Procedure
 
 If a roster that does not satisfy the Online Open Qualifier regional eligibility requirements enters the Online Open Qualifier, advances through the bracket, or finishes in a LAN qualification position, that roster will not receive an Offline LAN Main Event slot through the Online Open Qualifier pathway.
@@ -279,7 +282,27 @@ The same replacement ordering applies if a roster is removed by the Tournament O
 
 ---
 
+## LAN Withdrawal Cutoff
 
+- **Withdrawal cutoff:** September 10, 2026, 23:59 AEST
+- **Measured from:** First play day of the Offline LAN Main Event (October 10, 2026)
+
+### Before the withdrawal cutoff
+
+- Confirmed Offline LAN Main Event rosters may withdraw without automatic match forfeits or an automatic VRS forfeit record arising from this cutoff rule.
+- Vacant slots will be filled under **Vacancies & Replacements**.
+
+### On or after the withdrawal cutoff
+
+- Late withdrawals after the cutoff affect competitive integrity, broadcast coverage, sponsorship obligations, and DFRAG Media Group Pty Ltd’s ability to host the event.
+- The Tournament Organiser will attempt to replace the roster under **Vacancies & Replacements**.
+- If a suitable replacement cannot be confirmed in time, the roster remains in the Offline LAN Main Event field.
+- That roster’s matches will be automatically forfeited.
+- Those results are official tournament results and will count for VRS purposes accordingly.
+
+This rule applies to all confirmed Offline LAN Main Event slots, regardless of qualification pathway.
+
+---
 
 ## Prize Pool and Compensation
 
@@ -309,7 +332,7 @@ The same replacement ordering applies if a roster is removed by the Tournament O
 - **Offline venue:** The DFRAG Studio
 - **Offline location:** Brisbane, Queensland, Australia
 - **LAN dates:** October 10–11, 2026
-- **LAN attendance:** Required for all rosters that receive a confirmed Offline LAN Main Event slot
+- **LAN attendance:** Required for all rosters that receive a confirmed Offline LAN Main Event slot. Withdrawals on or after the LAN Withdrawal Cutoff are governed by **LAN Withdrawal Cutoff**.
 - **Travel responsibility:** Teams are responsible for arranging and paying for their own travel unless travel support is explicitly listed under Prize Pool and Compensation.
 - **Accommodation responsibility:** Teams are responsible for arranging and paying for their own accommodation unless accommodation support is explicitly listed under Prize Pool and Compensation.
 

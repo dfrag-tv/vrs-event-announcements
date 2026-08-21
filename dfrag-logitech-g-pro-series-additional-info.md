@@ -3,7 +3,7 @@
 ## Published
 
 - **Published:** July 22, 2026
-- **Last Updated:** August 14, 2026
+- **Last Updated:** August 22, 2026
 
 ## Tournament Operator
 
@@ -12,6 +12,7 @@
 ## Tournament Dates
 
 - **LAN Event:** October 15–18, 2026
+- **LAN Withdrawal Cutoff:** September 15, 2026, 23:59 AEST
 
 ---
 
@@ -109,6 +110,30 @@ Oceania / AU–NZ filters apply only to Wildcard Invite source events. Supplemen
 - **Fallback Qualification:**  
   If slots remain unfilled after all announced Wildcard Invites and supplementary Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s).
 
+Withdrawals of confirmed Offline LAN Main Event rosters on or after the **LAN Withdrawal Cutoff** are governed by **LAN Withdrawal Cutoff** below.
+
+---
+
+## LAN Withdrawal Cutoff
+
+- **Withdrawal cutoff:** September 15, 2026, 23:59 AEST
+- **Measured from:** First play day of the Offline LAN Main Event (October 15, 2026)
+
+### Before the withdrawal cutoff
+
+- Confirmed Offline LAN Main Event rosters may withdraw without automatic match forfeits or an automatic VRS forfeit record arising from this cutoff rule.
+- Vacant slots will be filled under **Seeding and Invite Resolution**.
+
+### On or after the withdrawal cutoff
+
+- Late withdrawals after the cutoff affect competitive integrity, broadcast coverage, sponsorship obligations, and DFRAG Media Group Pty Ltd’s ability to host the event.
+- The Tournament Organiser will attempt to replace the roster under **Seeding and Invite Resolution**.
+- If a suitable replacement cannot be confirmed in time, the roster remains in the Offline LAN Main Event field.
+- That roster’s matches will be automatically forfeited.
+- Those results are official tournament results and will count for VRS purposes accordingly.
+
+This rule applies to all confirmed Offline LAN Main Event slots, regardless of qualification pathway.
+
 ---
 
 ## Prize Pool and Compensation
@@ -128,6 +153,7 @@ Oceania / AU–NZ filters apply only to Wildcard Invite source events. Supplemen
 
 - **Visa region:** Australia
 - **LAN location:** Brisbane, Australia
+- **LAN attendance:** Required for all rosters that receive a confirmed Offline LAN Main Event slot. Withdrawals on or after the LAN Withdrawal Cutoff are governed by **LAN Withdrawal Cutoff**.
 
 ---
 
