@@ -242,7 +242,7 @@ The LAN participation fee is not prize compensation and does not alter the prize
 
 ## Official Ruleset
 
-- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-hyperx-nats-2026.md
+- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/previous-events/dmg-cs2-ruleset-hyperx-nats-2026.md
 
 ---
 

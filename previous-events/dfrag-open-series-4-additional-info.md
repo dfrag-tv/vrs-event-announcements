@@ -46,7 +46,7 @@ If no eligible roster is available from that qualifier, the Tournament Organiser
 
 All replacement decisions will be made using transparent and pre-defined criteria. No discretionary invites will be issued.
 
-The same replacement ordering applies if a roster is removed by the Tournament Organiser before the start of the relevant stage; full procedure is set out in **Vacancies & Replacements** in the [official ruleset](https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-open-series-4.md).
+The same replacement ordering applies if a roster is removed by the Tournament Organiser before the start of the relevant stage; full procedure is set out in **Vacancies & Replacements** in the [official ruleset](https://github.com/dfrag-tv/vrs-event-announcements/blob/main/previous-events/dmg-cs2-ruleset-open-series-4.md).
 
 ---
 
@@ -79,7 +79,7 @@ The same replacement ordering applies if a roster is removed by the Tournament O
 
 ## Official Ruleset
 
-- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-open-series-4.md
+- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/previous-events/dmg-cs2-ruleset-open-series-4.md
 
 ---
 

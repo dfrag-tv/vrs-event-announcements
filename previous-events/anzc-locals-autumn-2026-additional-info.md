@@ -121,7 +121,7 @@ None
 
 ## Official Ruleset
 
-- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-wildcard-s1.md
+- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/previous-events/dmg-cs2-ruleset-wildcard-s1.md
 
 ---
 
