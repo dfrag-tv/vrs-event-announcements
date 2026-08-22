@@ -63,12 +63,12 @@ The following competitive ruling is in effect for **DFRAG Open Series 3 – Seas
 
 - **Ground Zero Gaming** is not permitted to compete.
 - **Ruling details:**  
-  https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-open-series-competitive-ruling-dec-2025.md
+  https://github.com/dfrag-tv/vrs-event-announcements/blob/main/competitive-rulings/dmg-open-series-competitive-ruling-dec-2025.md
 
 ---
 
 ## Official Ruleset
-- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-open-series-1.md
+- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/previous-events/dmg-cs2-ruleset-open-series-1.md
 
 ---
 

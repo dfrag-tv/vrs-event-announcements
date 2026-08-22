@@ -1,17 +1,18 @@
-# DFRAG Open Series 5 – Additional Information
+# DFRAG Open Series 6 – Additional Information
 
 ## Tournament Dates
 
-- **Open Regisitration:** May 17th, 2026
-- **Stage 1 (Open Qualifier):** June 01-02, 2026
-- **Stage 2:** June 08-12, 2026
-- **Stage 3:** June 15-18, 2026
+- **Published:** July 6, 2026
+- **Open Registration:** July 13, 2026 (FACEIT)
+- **Stage 1 (Open Qualifier):** July 21–22, 2026 (FACEIT)
+- **Stage 2:** August 3–7, 2026
+- **Stage 3:** August 10–13, 2026
 
 ---
 
 ## Tournament Format
 
-- **Stage 1:** Open Qualifier, double-elimination, open to all eligible rosters
+- **Stage 1:** Open Qualifier, double-elimination, open to eligible rosters
 - **Stage 2:** Double-elimination group stage (2 groups of 4)
 - **Stage 3:** 4-team double-elimination playoff
 
@@ -26,7 +27,7 @@
 - **Ranked Stages:** Stage 2 and Stage 3
 - **Direct VRS Invites:** None (Open Qualifiers only)
 - **Invitation Date:** Not applicable
-- **VRS publication date used for seeding:** June 2026
+- **VRS publication date used for seeding:** July 2026
 
 ---
 
@@ -46,7 +47,7 @@ If no eligible roster is available from that qualifier, the Tournament Organiser
 
 All replacement decisions will be made using transparent and pre-defined criteria. No discretionary invites will be issued.
 
-The same replacement ordering applies if a roster is removed by the Tournament Organiser before the start of the relevant stage; full procedure is set out in **Vacancies & Replacements** in the [official ruleset](https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-open-series-4.md).
+The same replacement ordering applies if a roster is removed by the Tournament Organiser before the start of the relevant stage; full procedure is set out in **Vacancies & Replacements** in the [official ruleset](https://github.com/dfrag-tv/vrs-event-announcements/blob/main/previous-events/dmg-cs2-ruleset-open-series-6.md).
 
 ---
 
@@ -79,7 +80,7 @@ The same replacement ordering applies if a roster is removed by the Tournament O
 
 ## Official Ruleset
 
-- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/dmg-cs2-ruleset-open-series-5.md
+- https://github.com/dfrag-tv/vrs-event-announcements/blob/main/previous-events/dmg-cs2-ruleset-open-series-6.md
 
 ---
 
