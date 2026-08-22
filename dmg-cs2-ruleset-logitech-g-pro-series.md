@@ -1,6 +1,6 @@
 # D.M.G. CS2 Ruleset - LOGITECH G PRO SERIES
 
-- **Version:** 1.5.4
+- **Version:** 1.5.5
 - **Date created:** 05/01/2026 (dd/mm/yyyy)
 - **Date updated:** 22/08/2026 (dd/mm/yyyy)
 
@@ -112,7 +112,7 @@ _Note: some venues may have a separate Minor Policy due to liquor licensing requ
 Regional requirements differ by pathway. See the [Additional Information document](dfrag-logitech-g-pro-series-additional-info.md) for full detail.
 
 - **Wildcard Invites:** Issued from associated tournament results (Open Series 4–6 and HyperX Intel Nationals 2026 LAN; Oceania / Australia and New Zealand events). Top 2 from each associated tournament. Oceania / AU–NZ filters apply only to Wildcard Invite source events.
-- **Direct VRS Invites:** Supplementary Direct VRS Invites may be issued sequentially from the Asia VRS parent list with no Oceania subdivision filter to fill vacated Wildcard Invite slots (including slots vacated by duplicate associated-tournament qualifications). Invited Rosters must be ranked lower than 12 on the Global VRS at the Invitation Date.
+- **Direct VRS Invites:** Before the LAN Withdrawal Cutoff, supplementary Direct VRS Invites may be issued sequentially from the Asia VRS parent list with no Oceania subdivision filter to fill vacated Wildcard Invite slots (including slots vacated by duplicate associated-tournament qualifications). On or after the LAN Withdrawal Cutoff, Direct VRS Invite replacements are issued sequentially from the Oceania VRS list as set out in the Additional Information **Seeding and Invite Resolution**. Invited Rosters must be ranked lower than 12 on the Global VRS at the Invitation Date.
 - **LAN attendance:** All participating rosters must be able to attend the Offline LAN Main Event in person at **The DFRAG Studio**, Brisbane, Australia, from **October 15–18, 2026**.
 
 ### Existing Ban
@@ -192,7 +192,7 @@ Participants will be informed of roster lock dates by the organiser.
 ### Open Qualifier
 
 - No Open Qualifiers are currently associated with this tournament.
-- If slots remain unfilled after all announced Wildcard Invites and supplementary Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s), as set out in the [Additional Information document](dfrag-logitech-g-pro-series-additional-info.md).
+- Before the LAN Withdrawal Cutoff, if slots remain unfilled after all announced Wildcard Invites and supplementary Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s), as set out in the [Additional Information document](dfrag-logitech-g-pro-series-additional-info.md).
 
 ### Closed Qualifier
 
@@ -203,7 +203,7 @@ Participants will be informed of roster lock dates by the organiser.
 - **Stage 1 – Group Stage (LAN):** 2 groups of 4 teams; GSL format; all matches Best-of-3; top 2 teams from each group advance to Stage 2.
 - **Stage 2 – Finals (LAN):** 4 teams; double-elimination bracket; all matches Best-of-3.
 - Main Event dates: **October 15–18, 2026** at **The DFRAG Studio**, Brisbane, Australia.
-- Qualification paths: 8 Wildcard Invites (top 2 from each associated tournament: Open Series 4–6 and HyperX Intel Nationals 2026 LAN; Oceania / AU–NZ filters apply only to these source events), with supplementary Direct VRS Invites from the Asia VRS parent list with no Oceania subdivision filter used to fill vacated slots (including duplicate qualifications), as set out in the Additional Information document.
+- Qualification paths: 8 Wildcard Invites (top 2 from each associated tournament: Open Series 4–6 and HyperX Intel Nationals 2026 LAN; Oceania / AU–NZ filters apply only to these source events), with supplementary Direct VRS Invites used to fill vacated slots (including duplicate qualifications). Before the LAN Withdrawal Cutoff, those Direct VRS Invites are issued from the Asia VRS parent list with no Oceania subdivision filter. On or after the LAN Withdrawal Cutoff, Direct VRS Invite replacements are issued from the Oceania VRS list. Full procedure is set out in the Additional Information document.
 
 ### LAN Withdrawal Cutoff
 
@@ -218,10 +218,8 @@ Participants will be informed of roster lock dates by the organiser.
 #### On or after the withdrawal cutoff
 
 - Late withdrawals after the cutoff affect competitive integrity, broadcast coverage, sponsorship obligations, and DFRAG Media Group Pty Ltd’s ability to host the event.
-- The Tournament Organiser will attempt to replace the roster under the Additional Information **Seeding and Invite Resolution** procedure.
-- If a suitable replacement cannot be confirmed in time, the roster remains in the Offline LAN Main Event field.
-- That roster’s matches will be automatically forfeited.
-- Those results are official tournament results and will count for VRS purposes accordingly.
+- Vacant slots will be filled under the Additional Information **Seeding and Invite Resolution** — After the LAN Withdrawal Cutoff procedure.
+- If no eligible Oceania roster can be confirmed in time, the roster remains in the Offline LAN Main Event field and its matches are automatically forfeited as official VRS results.
 
 This rule applies to all confirmed Offline LAN Main Event slots, regardless of qualification pathway.
 
@@ -486,7 +484,7 @@ Breaches of sportsmanship are subject to immediate review by tournament official
   - future prize pool payouts from subsequent DFRAG Media Group events involving the same organisation, roster, or nominated prize recipient
 - Acceptance of a Direct VRS Invite, Wildcard Invite, or confirmation of a fallback Open Qualifier LAN slot constitutes agreement to this fine rule.
 - A processed withdrawal **before** the LAN Withdrawal Cutoff follows the Additional Information **Seeding and Invite Resolution** procedure and does not create an automatic VRS forfeit record under [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff).
-- A withdrawal **on or after** the LAN Withdrawal Cutoff without a confirmed replacement remains in the Offline LAN Main Event field with automatic match forfeits and official VRS impact under [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff).
+- A withdrawal **on or after** the LAN Withdrawal Cutoff is replaced under the Additional Information **Seeding and Invite Resolution** — After the LAN Withdrawal Cutoff procedure. If no eligible Oceania roster can be confirmed in time, the withdrawing roster remains in the Offline LAN Main Event field with automatic match forfeits and official VRS impact under [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff).
 - Failure to attend without a processed withdrawal remains subject to this non-attendance fine.
 - Slot forfeiture and reallocation under Vacancies and Replacements still apply in addition to any fine, except where [LAN Withdrawal Cutoff](#lan-withdrawal-cutoff) requires the roster to remain in the field.
 

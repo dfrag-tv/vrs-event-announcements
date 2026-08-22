@@ -34,7 +34,7 @@
 ## Open Qualifiers
 
 - No Open Qualifiers are currently associated with this tournament.
-- If slots remain unfilled after all announced Wildcard Invites and supplementary Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s).
+- Before the LAN Withdrawal Cutoff, if slots remain unfilled after all announced Wildcard Invites and supplementary Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s).
 - Any such Open Qualifier will be operated in accordance with Valve Tournament Operation Requirements and will be announced no fewer than **14 days** prior to its start.
 - The Open Qualifier will not be VRS-ranked unless explicitly stated in a published update to this Additional Information.
 - Rosters qualifying via an Open Qualifier must comply with all roster eligibility and continuity requirements applicable to invited rosters.
@@ -58,18 +58,18 @@ Open Series 6 Stage 3 ends on **August 13, 2026**. HyperX Intel Nationals 2026 L
 
 - **Tournament Tier:** Tier 2 (Wildcard Tournament)
 - **Wildcard Invite source:** Associated tournament results (Open Series 4–6 and HyperX Intel Nationals 2026 LAN)
-- **Direct VRS Invite list:** Asia VRS parent list
+- **Direct VRS Invite list:** Asia VRS parent list before the LAN Withdrawal Cutoff; Oceania VRS list for Direct VRS Invite replacements on or after the LAN Withdrawal Cutoff
 - **Direct VRS Invites:** Supplementary (issued to fill vacated slots)
 - **Wildcard Invites:** 8
 - **Invitation Date:** August 21, 2026
 - **VRS publication date used for invites:** August 4, 2026
 - **VRS publication date used for seeding:** October 2026
 - **VRS parent region/list:** Asia
-- **VRS subdivision used:** Oceania (Wildcard Invite source events only; not applied to Direct VRS Invites)
+- **VRS subdivision used:** Oceania (Wildcard Invite source events; Direct VRS Invite replacements on or after the LAN Withdrawal Cutoff). Not applied to supplementary Direct VRS Invites before the LAN Withdrawal Cutoff
 - **Eligible location filter:** Australia and New Zealand (Wildcard Invite source events only)
 - **Visa region:** Australia
 
-Oceania / AU–NZ filters apply only to Wildcard Invite source events. Supplementary Direct VRS Invites use the Asia VRS parent list with no Oceania subdivision filter.
+Oceania / AU–NZ filters apply to Wildcard Invite source events. Before the LAN Withdrawal Cutoff, supplementary Direct VRS Invites use the Asia VRS parent list with no Oceania subdivision filter. On or after the LAN Withdrawal Cutoff, Direct VRS Invite replacements use the Oceania VRS list as set out in **Seeding and Invite Resolution**.
 
 ---
 
@@ -82,7 +82,8 @@ Oceania / AU–NZ filters apply only to Wildcard Invite source events. Supplemen
   - HyperX Intel Nationals 2026 LAN: top 2
 - **Direct VRS Invites (supplementary):**
   - Issued sequentially from the **Asia** VRS parent list to fill vacated Wildcard Invite slots
-  - No Oceania subdivision filter applies to Direct VRS Invites
+  - Before the LAN Withdrawal Cutoff, no Oceania subdivision filter applies to Direct VRS Invites
+  - On or after the LAN Withdrawal Cutoff, Direct VRS Invite replacements follow **Seeding and Invite Resolution**
   - Invited Rosters must be ranked lower than 12 on the Global VRS at the Invitation Date
 
 - **Invitation Date:** August 21, 2026
@@ -100,17 +101,25 @@ Oceania / AU–NZ filters apply only to Wildcard Invite source events. Supplemen
   If a roster qualifies for the LOGITECH G PRO SERIES multiple times via separate associated tournament results, only one qualification slot will be allocated to that roster.
 
 - **Supplementary Direct VRS Invites:**  
-  Any vacated qualification slots resulting from duplicate associated-tournament qualifications, declines, or ineligibilities will be filled by issuing **Direct VRS Invites**, selected sequentially from the **Asia** VRS parent list with no Oceania subdivision filter, in accordance with Valve Tournament Operation Requirements.
-  No discretionary invites will be issued.
+  Before the LAN Withdrawal Cutoff, any vacated qualification slots resulting from duplicate associated-tournament qualifications, declines, ineligibilities, withdrawals, visa refusal, or inability to attend will be filled by issuing **Direct VRS Invites**, selected sequentially from the **Asia** VRS parent list with no Oceania subdivision filter, in accordance with Valve Tournament Operation Requirements.
 
 - **VRS Priority:**  
   All Wildcard and Direct VRS invite rosters will enter the tournament at the earliest stage and will not be seeded above higher-ranked VRS rosters.
   Rosters without a Global VRS rank cannot be seeded above VRS-ranked rosters.
 
 - **Fallback Qualification:**  
-  If slots remain unfilled after all announced Wildcard Invites and supplementary Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s).
+  Before the LAN Withdrawal Cutoff, if slots remain unfilled after all announced Wildcard Invites and supplementary Direct VRS Invites have been issued sequentially from the Asia VRS list and all declines/ineligibilities have been processed, an online Open Qualifier may be conducted to fill the remaining slot(s).
 
-Withdrawals of confirmed Offline LAN Main Event rosters on or after the **LAN Withdrawal Cutoff** are governed by **LAN Withdrawal Cutoff** below.
+### After the LAN Withdrawal Cutoff
+
+- Any confirmed Offline LAN Main Event slot that becomes vacant on or after the LAN Withdrawal Cutoff, including through withdrawal, visa refusal, or inability to attend, will be offered as a Direct VRS Invite.
+- Those Direct VRS Invites will be issued sequentially from the Oceania VRS list, using the VRS publication date used for invites, starting with the next highest-ranked eligible roster that has not already declined an invitation to this tournament.
+- Replacement rosters must satisfy the Direct VRS Invite criteria set out in **Invite Method**.
+- After the LAN Withdrawal Cutoff, vacated slots will not be filled from the Asia VRS parent list and will not be filled by a fallback Open Qualifier.
+- This Oceania filter is applied because remaining time is insufficient for Australian visa processing and long-haul travel to Brisbane.
+- If no eligible Oceania roster can be confirmed in time, the withdrawing roster remains in the Offline LAN Main Event field and its matches are automatically forfeited as official VRS results.
+
+No discretionary invites will be issued.
 
 ---
 
@@ -127,10 +136,8 @@ Withdrawals of confirmed Offline LAN Main Event rosters on or after the **LAN Wi
 ### On or after the withdrawal cutoff
 
 - Late withdrawals after the cutoff affect competitive integrity, broadcast coverage, sponsorship obligations, and DFRAG Media Group Pty Ltd’s ability to host the event.
-- The Tournament Organiser will attempt to replace the roster under **Seeding and Invite Resolution**.
-- If a suitable replacement cannot be confirmed in time, the roster remains in the Offline LAN Main Event field.
-- That roster’s matches will be automatically forfeited.
-- Those results are official tournament results and will count for VRS purposes accordingly.
+- Vacant slots will be filled under **Seeding and Invite Resolution** — After the LAN Withdrawal Cutoff.
+- If no eligible Oceania roster can be confirmed in time, the roster remains in the Offline LAN Main Event field and its matches are automatically forfeited as official VRS results, as set out in **Seeding and Invite Resolution**.
 
 This rule applies to all confirmed Offline LAN Main Event slots, regardless of qualification pathway.
 
@@ -154,6 +161,7 @@ This rule applies to all confirmed Offline LAN Main Event slots, regardless of q
 - **Visa region:** Australia
 - **LAN location:** Brisbane, Australia
 - **LAN attendance:** Required for all rosters that receive a confirmed Offline LAN Main Event slot. Withdrawals on or after the LAN Withdrawal Cutoff are governed by **LAN Withdrawal Cutoff**.
+- Visa refusal or inability to attend on or after the LAN Withdrawal Cutoff is a vacancy filled under **Seeding and Invite Resolution**.
 
 ---
 
