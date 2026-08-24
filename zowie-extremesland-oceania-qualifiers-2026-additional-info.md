@@ -61,7 +61,7 @@ All published match and registration times use **AEST (UTC+10)**. Exact daily ma
 - **Teams:** Eligible confirmed registered rosters
 - **Format:** Single-elimination
 - **Match format:** Best-of-1 until qualification matches; Best-of-3 qualification matches
-- **Seeding:** Global VRS-ranked rosters highest to lowest, then unranked rosters using the published FACEIT seeding metric, then FACEIT's deterministic process or a recorded random draw where required
+- **Seeding:** Global VRS-ranked rosters highest to lowest, then unranked rosters by FACEIT Elo, then FACEIT's deterministic process or a recorded random draw where required
 - **Advancement:** Top 8 eligible rosters advance to the Stage 2 Elimination Stage
 
 ### Stage 2 - Elimination Stage
@@ -147,7 +147,7 @@ The Online Open Qualifier is restricted to eligible Oceania rosters whose partic
 - The final Open Qualifier bracket size will be published after registration closes and before play begins.
 - Matches will be **Best-of-1** until qualification matches.
 - Qualification matches will be **Best-of-3**.
-- Open Qualifier seeding uses Global VRS-ranked rosters highest to lowest, then unranked rosters using the published FACEIT seeding metric, then FACEIT's deterministic process or a recorded random draw where required.
+- Open Qualifier seeding uses Global VRS-ranked rosters highest to lowest, then unranked rosters by FACEIT Elo, then FACEIT's deterministic process or a recorded random draw where required.
 - A roster without a Global VRS rank cannot be seeded above a VRS-ranked roster.
 - No roster-specific or discretionary selection criteria will be used.
 
@@ -280,7 +280,6 @@ The Oceania champion must satisfy any attendance, visa, or eligibility requireme
 
 - This Additional Information is published on a platform that preserves version history.
 - Material amendments remain identifiable through Git history or an equivalent archived record.
-- Registration order and timestamps are publicly inspectable via FACEIT.
 - FACEIT will provide the official platform record for registration, brackets and match results where applicable.
 - The September 2026 official VRS snapshot used for seeding will be published or linked when that snapshot is announced, and before the VRS Seed Lock.
 - Material corrections affecting qualification, elimination, seeding, prize positions or advancement will not be silently overwritten.
