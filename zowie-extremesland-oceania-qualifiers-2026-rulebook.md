@@ -1,12 +1,12 @@
 # eXTREMESLAND CS Asia Open 2026 — Oceania Local Qualifier Ruleset
 
-**Version:** 0.2
-**Date Created:** 24 August 2026
-**Tournament Organizer:** DFRAG Media Group Pty Ltd
-**Region:** Oceania
-**Game:** Counter-Strike 2
-**Competition Platform:** FACEIT
-**Language:** English
+- **Version:** 0.2
+- **Date Created:** 24 August 2026
+- **Tournament Organizer:** DFRAG Media Group Pty Ltd
+- **Region:** Oceania
+- **Game:** Counter-Strike 2
+- **Competition Platform:** FACEIT
+- **Language:** English
 
 ---
 
@@ -393,7 +393,7 @@ The exact round at which qualification matches begin will be published with the 
 The Open Qualifier will be seeded using:
 
 1. Global VRS-ranked rosters, highest to lowest;
-2. unranked rosters ordered using the published FACEIT seeding metric;
+2. unranked rosters ordered by FACEIT Elo;
 3. FACEIT's deterministic process or a recorded random draw where required.
 
 A roster without a Global VRS rank cannot be seeded above a VRS-ranked roster.
