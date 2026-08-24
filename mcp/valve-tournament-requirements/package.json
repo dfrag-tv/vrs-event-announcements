@@ -1,12 +1,13 @@
 {
   "name": "valve-tournament-requirements-mcp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "type": "module",
   "description": "MCP server for Valve CS2 Tournament Operation Requirements",
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
+    "refresh-tor": "npm run build && node dist/refresh.js",
     "prepare": "npm run build"
   },
   "dependencies": {

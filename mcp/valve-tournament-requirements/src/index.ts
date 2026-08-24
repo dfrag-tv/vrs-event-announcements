@@ -1,62 +1,29 @@
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { z } from "zod";
-
-const GITHUB_BLOB_URL =
-  "https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md";
-
-const RAW_URL =
-  "https://raw.githubusercontent.com/ValveSoftware/counter-strike_rules_and_regs/main/tournament-operation-requirements.md";
+import {
+  GITHUB_BLOB_URL,
+  formatDocument,
+  formatStatus,
+  getDocument,
+  getStatus,
+  searchDocument,
+} from "./tor.js";
 
 const RESOURCE_URI = "valve://tournament-operation-requirements";
-
-type CachedDocument = {
-  text: string;
-  fetchedAt: string;
-  sourceUrl: string;
-};
-
-let cache: CachedDocument | null = null;
-
-async function fetchDocument(force = false): Promise<CachedDocument> {
-  if (!force && cache) {
-    return cache;
-  }
-
-  const response = await fetch(RAW_URL, {
-    headers: {
-      Accept: "text/plain",
-      "User-Agent": "valve-tournament-requirements-mcp",
-    },
-    signal: AbortSignal.timeout(30_000),
-  });
-
-  if (!response.ok) {
-    throw new Error(
-      `Failed to fetch Tournament Operation Requirements: HTTP ${response.status} ${response.statusText}`,
-    );
-  }
-
-  const text = await response.text();
-  cache = {
-    text,
-    fetchedAt: new Date().toISOString(),
-    sourceUrl: GITHUB_BLOB_URL,
-  };
-
-  return cache;
-}
 
 const server = new McpServer(
   {
     name: "valve-tournament-requirements",
-    version: "1.0.0",
+    version: "1.1.0",
   },
   {
     instructions: [
       "Use this server to read Valve's official CS2 Tournament Operation Requirements.",
-      "Prefer the resource valve://tournament-operation-requirements for the full document.",
-      "Use get_tournament_operation_requirements with refresh=true when you need the latest GitHub version.",
+      "Lookups use a local copy plus the GitHub blob SHA. Do not refetch on every check.",
+      "Prefer get_tournament_operation_requirements_status to compare SHAs.",
+      "Prefer query= on get_tournament_operation_requirements to pull matching sections.",
+      "Use refresh=true only when you need to check GitHub for a newer SHA.",
       `Source: ${GITHUB_BLOB_URL}`,
     ].join(" "),
   },
@@ -68,11 +35,11 @@ server.registerResource(
   {
     title: "Valve Tournament Operation Requirements",
     description:
-      "Official Valve CS2 Tournament Operation Requirements (VRS, invites, qualifiers, publication timing).",
+      "Local copy of Valve's CS2 Tournament Operation Requirements, keyed by GitHub blob SHA.",
     mimeType: "text/markdown",
   },
   async (uri) => {
-    const document = await fetchDocument();
+    const document = await getDocument();
     return {
       contents: [
         {
@@ -90,37 +57,92 @@ server.registerTool(
   {
     title: "Get Tournament Operation Requirements",
     description:
-      "Fetches Valve's CS2 Tournament Operation Requirements from GitHub. Use for VRS compliance checks.",
+      "Returns the local TOR copy. Use query to extract matching sections. Use refresh=true only to check the GitHub SHA and update if it changed.",
     inputSchema: z.object({
       refresh: z
         .boolean()
         .optional()
         .default(false)
-        .describe("Bypass cache and fetch the latest version from GitHub."),
+        .describe("Compare the GitHub blob SHA and download only if the local copy is stale."),
+      query: z
+        .string()
+        .optional()
+        .describe("Optional case-insensitive search. Returns matching TOR sections instead of the full document."),
     }),
   },
-  async ({ refresh }) => {
+  async ({ refresh, query }) => {
     try {
-      const document = await fetchDocument(refresh);
+      const document = await getDocument(refresh);
+
+      if (query?.trim()) {
+        const hits = searchDocument(document.text, query);
+        const body =
+          hits.length > 0
+            ? hits.map((hit) => `## ${hit.heading}\n\n${hit.text}`).join("\n\n")
+            : `No TOR sections matched \`${query.trim()}\`.`;
+
+        return {
+          content: [
+            {
+              type: "text" as const,
+              text: [
+                `# Valve Tournament Operation Requirements search`,
+                ``,
+                `- **Query:** ${query.trim()}`,
+                `- **Matches:** ${hits.length}`,
+                `- **SHA:** ${document.sha}`,
+                `- **Cache:** ${document.source === "local" ? "local copy" : "downloaded from GitHub"}`,
+                document.warning ? `- **Warning:** ${document.warning}` : "",
+                ``,
+                body,
+              ]
+                .filter((line) => line !== "")
+                .join("\n"),
+            },
+          ],
+        };
+      }
+
       return {
         content: [
           {
             type: "text" as const,
-            text: [
-              `# Valve Tournament Operation Requirements`,
-              ``,
-              `- **Source:** ${document.sourceUrl}`,
-              `- **Fetched at:** ${document.fetchedAt}`,
-              `- **Cached:** ${refresh ? "no (refreshed)" : "yes unless first fetch"}`,
-              ``,
-              document.text,
-            ].join("\n"),
+            text: formatDocument(document),
           },
         ],
       };
     } catch (error) {
-      const message =
-        error instanceof Error ? error.message : "Unknown fetch error";
+      const message = error instanceof Error ? error.message : "Unknown fetch error";
+      return {
+        content: [{ type: "text" as const, text: `Error: ${message}` }],
+        isError: true,
+      };
+    }
+  },
+);
+
+server.registerTool(
+  "get_tournament_operation_requirements_status",
+  {
+    title: "Get TOR cache status",
+    description:
+      "Returns the local TOR SHA without the full document. Use refresh=true to compare against GitHub and update the local copy only if the SHA changed.",
+    inputSchema: z.object({
+      refresh: z
+        .boolean()
+        .optional()
+        .default(false)
+        .describe("Check GitHub's blob SHA and update the local copy only if it differs."),
+    }),
+  },
+  async ({ refresh }) => {
+    try {
+      const status = await getStatus(refresh);
+      return {
+        content: [{ type: "text" as const, text: formatStatus(status) }],
+      };
+    } catch (error) {
+      const message = error instanceof Error ? error.message : "Unknown status error";
       return {
         content: [{ type: "text" as const, text: `Error: ${message}` }],
         isError: true,
