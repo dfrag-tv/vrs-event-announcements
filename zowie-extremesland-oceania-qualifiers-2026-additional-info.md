@@ -3,7 +3,7 @@
 ## Published
 
 - **Published:** August 24, 2026
-- **Last Updated:** August 24, 2026
+- **Last Updated:** August 26, 2026
 
 ## Tournament Operator
 
@@ -13,8 +13,8 @@
 
 ### Announcement and registration
 
-- **Announcement Date:** August 28, 2026
-- **Open Registration Opens:** September 4, 2026, 00:00 AEST (UTC+10)
+- **Announcement Date:** September 4, 2026
+- **Open Registration Opens:** September 11, 2026, 00:00 AEST (UTC+10)
 - **Open Registration Closes:** September 18, 2026, 23:55 AEST (UTC+10)
 
 ### Seeding and slot allocation
@@ -25,7 +25,7 @@
 
 ### Online Open Qualifier
 
-- **Qualifier Registration Opens:** September 4, 2026, 00:00 AEST (UTC+10)
+- **Qualifier Registration Opens:** September 11, 2026, 00:00 AEST (UTC+10)
 - **Qualifier Registration Closes:** September 18, 2026, 23:55 AEST (UTC+10)
 - **Qualifier Start:** September 19, 2026, 10:00 AEST (UTC+10)
 - **Qualifier Day 2:** September 20, 2026
@@ -117,7 +117,7 @@ FACEIT Open Registration is official tournament registration.
 ### Pathway A - Open Registration + Online Open Qualifier
 
 - All teams enter through Open Registration and the Online Open Qualifier.
-- Open Registration opens on **September 4, 2026, 00:00 AEST (UTC+10)** and closes on **September 18, 2026, 23:55 AEST (UTC+10)**.
+- Open Registration opens on **September 11, 2026, 00:00 AEST (UTC+10)** and closes on **September 18, 2026, 23:55 AEST (UTC+10)**.
 - Open Registration is hosted via **FACEIT**.
 - Open Registration URL: https://www.faceit.com/en/championship/2e311c41-7036-437f-838e-9564e039a4ba/eXTREMESLAND%20CS%20Asia%20Open%202026%20-%20Oceania%20Open%20Qualifier
 - Open Registration is free to enter.
@@ -134,7 +134,7 @@ The Online Open Qualifier is restricted to eligible Oceania rosters whose partic
 
 ### Registration and schedule
 
-- Online Open Qualifier registration opens on **September 4, 2026, 00:00 AEST (UTC+10)**.
+- Online Open Qualifier registration opens on **September 11, 2026, 00:00 AEST (UTC+10)**.
 - Online Open Qualifier registration closes on **September 18, 2026, 23:55 AEST (UTC+10)**.
 - Online Open Qualifier play starts on **September 19, 2026, 10:00 AEST (UTC+10)** and continues on **September 20, 2026**.
 - Online Open Qualifier registration is hosted via **FACEIT** using the Open Registration URL in Qualification Pathways.
@@ -222,7 +222,7 @@ Where a vacancy occurs after Elimination Stage competition begins, the published
 
 No separate third-place match is required.
 
-First-place compensation is the published Shanghai advancement. DFRAG Media Group will not independently modify the centrally specified prize structure.
+First-place compensation is the published Shanghai advancement plus Shanghai travel and accommodation support. DFRAG Media Group will not independently modify the centrally specified prize structure.
 
 Prize payments are administered and paid by **ZOWIE or its nominated payment entity**. DFRAG Media Group Pty Ltd is the Tournament Operator and is not the prize-paying entity for this prize pool.
 
@@ -230,10 +230,12 @@ Prize payments will be processed within 60 days after **October 4, 2026**, provi
 
 ### Non-prize compensation
 
-- **Compensation beyond prize pool:** None. DFRAG Media Group does not provide additional travel allowances, accommodation, product prizes, appearance payments, or other cash or non-cash tournament compensation for this Oceania Local Qualifier.
-- **Travel support:** None for this online qualifier. Shanghai travel support is TBC and will be provided by eXTREMESLAND / ZOWIE.
-- **Accommodation support:** None for this online qualifier. Shanghai accommodation support is TBC and will be provided by eXTREMESLAND / ZOWIE.
+- **Compensation beyond prize pool:** Shanghai travel and accommodation support for the 1st-place roster, provided by eXTREMESLAND / ZOWIE
+- **Travel support:** None for this online qualifier. The 1st-place roster receives travel support to the applicable Shanghai stage, provided by eXTREMESLAND / ZOWIE.
+- **Accommodation support:** None for this online qualifier. The 1st-place roster receives accommodation support for the applicable Shanghai stage, provided by eXTREMESLAND / ZOWIE.
 - **Hardware or other support:** None
+
+Travel, accommodation, allowances, or other support will be provided on equivalent terms to all eligible teams in the same stage, or according to an objective KPI published before teams are selected. First-place Shanghai travel and accommodation support is awarded by final standing.
 
 Unpublished or privately agreed compensation does not form part of the Oceania Local Qualifier prize or advancement structure.
 
@@ -244,10 +246,10 @@ Unpublished or privately agreed compensation does not form part of the Oceania L
 - **Offline location:** Not applicable
 - **LAN dates:** Not applicable
 - **LAN attendance:** Not applicable. All stages of this qualifier are online.
-- **Travel responsibility:** Not applicable for this online qualifier.
-- **Accommodation responsibility:** Not applicable for this online qualifier.
+- **Travel responsibility:** Not applicable for this online qualifier. Shanghai travel support is listed under Prize Pool and Compensation.
+- **Accommodation responsibility:** Not applicable for this online qualifier. Shanghai accommodation support is listed under Prize Pool and Compensation.
 
-Shanghai stage name, dates, visa region, travel support, and accommodation support are TBC and will be provided by eXTREMESLAND / ZOWIE. Those terms must be published before they are treated as part of this tournament's award.
+Shanghai stage name, dates, and visa region are TBC and will be provided by eXTREMESLAND / ZOWIE. Those terms must be published before they are treated as part of this tournament's award.
 
 The Oceania champion must satisfy any attendance, visa, or eligibility requirements set by central eXTREMESLAND administration for the applicable Shanghai stage.
 
