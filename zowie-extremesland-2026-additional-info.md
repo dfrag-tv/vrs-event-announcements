@@ -9,8 +9,8 @@ This Additional Information covers every Regional Qualifier and the Offline LAN 
 
 ## Tournament Operator
 
-- **Tournament Operator:** TBC
-- **Prize-paying entity:** ZOWIE
+- **Tournament Operator:** eXTREMESLAND
+- **Prize-paying entity:** eXTREMESLAND
 - **ZOWIE lead contact:** [ryan.cheung@benq.com](mailto:ryan.cheung@benq.com)
 - **General contact / invites email:** TBC
 
@@ -18,7 +18,7 @@ This Additional Information covers every Regional Qualifier and the Offline LAN 
 
 | Region | Operator | Contact |
 | --- | --- | --- |
-| China | Perfect World (TBC) | TBC |
+| China | Perfect World | TBC |
 | Mongolia | MESA | [mkhantamir@mesa.mn](mailto:mkhantamir@mesa.mn) |
 | Oceania | DFRAG Media Group | [andrew@dfrag.tv](mailto:andrew@dfrag.tv) |
 | Central Asia | FRAG.GG | [https://t.me/fraghibot](https://t.me/fraghibot) |
@@ -31,7 +31,7 @@ This Additional Information covers every Regional Qualifier and the Offline LAN 
 
 ## Tournament Dates
 
-Match times: **TBC**. Initial information will be published via Google Sheet. Link: **TBC**.
+Match times: Initial information will be published via Google Sheet. Link: **TBC**.
 
 Registration windows and links are announced by each Regional Tournament Operator.
 
@@ -41,9 +41,17 @@ Registration windows and links are announced by each Regional Tournament Operato
 - **Open Registration Opens:** TBC, announced by each Regional Tournament Operator
 - **Open Registration Closes:** TBC, announced by each Regional Tournament Operator
 
-Where an Open Qualifier has a published team cap, registration is first-come-first-served up to that cap. Signups are conducted via a publicly auditable Google Form or an online tournament platform. Registration URLs: **TBC**.
+Where an Open Qualifier has a published team cap, registration is first-come-first-served up to that cap. Signups are conducted via a publicly auditable Google Form or an online tournament platform. Registration URLs:
+- China
+- Mongolia
+- Oceania
+- Central Asia
+- South East Asia
+- Japan & South Korea
+- South Asia
+- Middle East
 
-The Tournament Organiser may expand a published Open Qualifier cap where needed.
+The Tournament Organiser may expand a published Open Qualifier cap as needed / where possible.
 
 ### Direct VRS Invites
 
@@ -100,7 +108,6 @@ The Tournament Organiser may expand a published Open Qualifier cap where needed.
 - **LAN Withdrawal Cutoff:** Monday, November 16, 2026
 - **Visa region:** China
 - **Offline venue:** TBC
-- **Offline location:** TBC
 
 ---
 
@@ -154,9 +161,7 @@ Regional Qualifier winners play Stage 1. Direct VRS Invites join at Stage 2.
 
 - **Online platform:** TBC. Open Qualifier signups with a published team cap use a publicly auditable Google Form or an online tournament platform.
 - **Online anti-cheat:** TBC
-- **Online server location:** TBC
 - **Offline venue:** TBC
-- **Offline location:** TBC
 - **Visa region:** China
 
 ### Map pool
@@ -170,10 +175,6 @@ The pool may change with notice from the Tournament Organiser if the active duty
 ## Qualification Pathways
 
 There are **8 Regional Qualifier slots** and **4 Direct VRS Invites**.
-
-There are **no Wildcard Invites**.
-
-This is not a Wildcard Tournament.
 
 | Pathway | Slots | Scope | Enters Main Event at | Notes |
 | --- | ---: | --- | --- | --- |
@@ -364,8 +365,6 @@ The 1st-placed eligible roster from each Open Qualifier will advance to the Clos
 | 3rd Place Decider | 2 (2nd from each Open Qualifier) | Third-place match | Best-of-3 | 0 |
 | Closed Qualifier | 2 (1st from each Open Qualifier) | Grand Final | Best-of-3 | 1 to Main Event Stage 1 |
 
-Japan and South Korea Grand Final venues: **TBC**.
-
 The 1st-placed eligible roster from each Open Qualifier will advance to the Closed Qualifier.
 
 ### South Asia
@@ -471,7 +470,6 @@ No discretionary invites will be issued.
 ## LAN Withdrawal Cutoff
 
 - **Withdrawal cutoff:** Monday, November 16, 2026
-- **Measured from:** First play day of the Offline LAN Main Event (December 16, 2026)
 
 ### Before the withdrawal cutoff
 
@@ -517,10 +515,9 @@ Each of the 8 regions has a **$1,500.00 USD** prize pool:
 
 ### Non-prize compensation
 
-- **Compensation beyond prize pool:** TBC
-- **Travel support:** TBC. Teams are responsible for their own travel unless travel support is listed under Prize Pool and Compensation.
-- **Accommodation support:** TBC. Teams are responsible for their own accommodation unless accommodation support is listed under Prize Pool and Compensation.
-- **Hardware or other support:** TBC
+- **Travel support:** ZOWIE eXTREMESLAND will cover flights & provide Visa support for 6 members as needed.
+- **Accommodation support:** ZOWIE eXTREMESLAND will cover accommodation for 6 members.
+- **Hardware or other support:** Each team will be provided with a warmup room.
 
 ---
 
@@ -528,11 +525,8 @@ Each of the 8 regions has a **$1,500.00 USD** prize pool:
 
 - **Visa region:** China
 - **Offline venue:** TBC
-- **Offline location:** TBC
 - **LAN dates:** December 16–20, 2026
 - **LAN attendance:** Required for all rosters that receive a confirmed Offline LAN Main Event slot, and for any roster competing in a published LAN Regional Qualifier stage, at that published LAN location
-- **Travel responsibility:** Teams are responsible for arranging and paying for their own travel unless travel support is listed under Prize Pool and Compensation.
-- **Accommodation responsibility:** Teams are responsible for arranging and paying for their own accommodation unless accommodation support is listed under Prize Pool and Compensation.
 
 Published LAN locations:
 
@@ -540,11 +534,11 @@ Published LAN locations:
 | --- | --- |
 | Mongolia Closed Qualifier and Finals | Mongolia |
 | Central Asia Closed Qualifier | Uzbekistan |
-| South East Asia Closed Qualifier | LAN |
+| South East Asia Closed Qualifier | LAN - SEA |
 | Japan Open Qualifier Grand Final | Japan |
 | South Korea Open Qualifier Grand Final | South Korea |
 | South Asia Closed Qualifier Upper Bracket Final, Lower Bracket Final, and Grand Final | India |
-| Offline LAN Main Event | China; venue TBC |
+| Offline LAN Main Event | China |
 
 ---
 
@@ -582,33 +576,12 @@ Prohibited conduct includes cheating, match fixing, collusion, account sharing, 
 
 ---
 
-## Registration Fee
-
-- **Open Registration fee:** TBC, announced by each Regional Tournament Operator
-- **Online Open Qualifier fee:** TBC, announced by each Regional Tournament Operator
-- **LAN participation fee:** TBC
-
-A registration or LAN participation fee is not prize compensation and does not alter the prize distribution.
-
-A LAN participation fee does not include travel or accommodation unless listed under Prize Pool and Compensation.
-
----
-
 ## Official Ruleset
 
-- ZOWIE eXTREMESLAND 2026 Rulebook, Version 1.0, dated 11/09/26
-- Public version-history URL: **TBC**
+ZOWIE eXTREMESLAND 2026 Rulebook, Version 1.0, dated 11/09/26
+- []
 
 Valve Tournament Operation Requirements:
-
 - [https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md)
 
 ---
-
-## Verifiability
-
-- This Additional Information is published on a platform that preserves version history.
-- Open Qualifier registration order and timestamps are publicly inspectable where a team cap applies.
-- The November 2, 2026 VRS snapshot used for Direct VRS Invites will be published or linked on or before the Invitation Date.
-- The December 7, 2026 VRS snapshot used for Main Event seeding will be published or linked before the Main Event Seeding Date.
-- Any updates to this Additional Information will be preserved through version history.
