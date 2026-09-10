@@ -159,8 +159,6 @@ Regional Qualifier winners play Stage 1. Direct VRS Invites join at Stage 2.
 
 ### Platform and venue
 
-- **Online platform:** TBC. Open Qualifier signups with a published team cap use a publicly auditable Google Form or an online tournament platform.
-- **Online anti-cheat:** TBC
 - **Offline venue:** TBC
 - **Visa region:** China
 
