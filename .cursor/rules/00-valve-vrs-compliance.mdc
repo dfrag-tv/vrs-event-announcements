@@ -72,7 +72,7 @@ Stop and flag the document if any of these are present:
 * Compensation, travel support, accommodation, appearance payments, revenue share, hardware, or fees are mentioned without clear disclosure.
 * LAN-qualified teams are not clearly required to attend the LAN venue during published Tournament Dates.
 
-If a hard stop condition exists, do not silently rewrite around it. Add a `Compliance Issues` section and list the exact problem.
+If a hard stop condition exists, do not silently rewrite around it. Keep unpublished facts as `TBC` in the published document. List the exact problem in the agent reply. Do not add a `Compliance Issues` section to the published Additional Information. Public-document voice is defined in `01-document-tonality.mdc`.
 
 ## Tournament classification checklist
 
@@ -385,11 +385,7 @@ For all tournaments, on Announcement Date publish:
 * Tournament Dates
 * Tournament Operator identity
 
-If the dates do not satisfy the required minimum timing, stop and flag:
-
-```md
-COMPLIANCE ISSUE: Publication timing may not satisfy Valve Tournament Operation Requirements. Confirm dates before publishing.
-```
+If the dates do not satisfy the required minimum timing, stop and flag it in the agent reply. Do not put that flag in the published document.
 
 ## Additional Information required content
 

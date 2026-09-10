@@ -101,9 +101,9 @@ Use:
 ```md
 TBC
 Not applicable
-COMPLIANCE ISSUE: [specific issue]
-COMPLIANCE CHECK REQUIRED: [specific issue]
 ```
+
+Put `COMPLIANCE ISSUE` and `COMPLIANCE CHECK REQUIRED` in the agent chat reply, not in the published document. Public-document voice is defined in `01-document-tonality.mdc`.
 
 ## Required section order
 
@@ -675,10 +675,11 @@ Avoid:
 Travel and accommodation TBC.
 ```
 
-If unknown, flag it:
+If unknown, publish `TBC` in the document and flag it in the agent reply:
 
 ```md
-COMPLIANCE ISSUE: Travel and accommodation support is not defined.
+- **Travel support:** TBC
+- **Accommodation support:** TBC
 ```
 
 ## Visa / Location
@@ -1024,7 +1025,7 @@ Use the fact once, then rely on section structure.
 
 ## Ambiguity guardrails
 
-Flag the document instead of guessing if any of these are unclear:
+Do not guess. In the published document, use `TBC` or `Not applicable`. Flag the gap in the agent reply if any of these are unclear:
 
 * whether the tournament is Ranked or Unranked
 * tournament tier
@@ -1045,13 +1046,13 @@ Flag the document instead of guessing if any of these are unclear:
 * first-come-first-served timestamp visibility
 * replacement order
 
-Use:
+In the agent reply, use:
 
 ```md
 COMPLIANCE ISSUE: [specific issue]
 ```
 
-Do not bury issues inside rewritten copy.
+Do not put that label in the published document. Do not bury issues inside rewritten player copy.
 
 Avoid:
 
@@ -1103,7 +1104,7 @@ When asked to clean up a VRS announcement:
 7. Use `Not applicable` instead of omitting required VRS fields.
 8. Keep qualification paths and LAN outcomes explicit.
 9. Keep travel, accommodation, and fee responsibility explicit.
-10. Keep the final document player-readable first, compliance-readable second.
+10. Keep the published document player-facing. Put compliance notes in the chat reply. See `01-document-tonality.mdc`.
 
 ## Required final check
 

@@ -1,0 +1,93 @@
+---
+description: Player-facing tonality for public VRS Additional Information, rulesets, and tournament notices
+alwaysApply: true
+---
+
+# Public document tonality
+
+Public documents in this repo are written for **players, teams, and captains**.
+
+They are not written for the operator, Valve reviewers, or the drafting agent.
+
+The document states the tournament facts.
+
+The chat reply is where the agent reports gaps, conflicts, and compliance checks.
+
+## Audience split
+
+| Surface | Voice | Contains |
+| --- | --- | --- |
+| Additional Information, rulesets, notices | Tournament notice to teams | Dates, slots, formats, eligibility, prizes, TBC |
+| Agent chat after an edit | Operator / compliance note | Missing fields, source conflicts, `Compliance check` |
+
+Do not put agent commentary into the published markdown.
+
+## What the document does
+
+- Tell the reader the rule.
+- Use second-person or impersonal tournament English: `Teams`, `Rosters`, `The top 8 eligible rosters`.
+- Use exact dates, slot counts, and stage names.
+- Use `TBC` or `Not applicable` when a required fact is unpublished.
+- Keep wording short enough to skim.
+
+## What the document never does
+
+- Brief the operator: `Valve requires`, `needs review`, `confirm before publishing`.
+- Narrate source work: `as printed`, `Rulebook vs Mastersheet`, `PDF extract`, `the document does not define`.
+- Label internal flags: `COMPLIANCE ISSUE`, `COMPLIANCE CHECK REQUIRED`.
+- Explain why a Valve rule exists.
+- Use marketing, hype, or defensive language.
+- Use `I`, `we found`, `this draft`, `for compliance we should`.
+
+Unknown facts stay as `TBC` in the document. Put the compliance problem in the chat reply.
+
+## Voice examples
+
+Use:
+
+```md
+- **Invitation Date:** Monday, November 2, 2026
+- **VRS rank from which invitations begin:** 1st
+- Rosters ranked 1st to 12th on Global VRS at the Invitation Date are not eligible.
+- A roster that withdraws on or after the cutoff is forfeited.
+- Teams are responsible for their own travel unless travel support is listed under Prize Pool and Compensation.
+- Registration links will be announced by each Regional Tournament Operator.
+```
+
+Avoid:
+
+```md
+COMPLIANCE ISSUE: Travel and accommodation support is not defined.
+The Rulebook does not define the forfeit procedure after the cutoff.
+Mongolia Closed Qualifier: October 18, 2026 – 22/10/25 as printed.
+Valve Tournament Operation Requirements current as of this Additional Information deadline require a minimum of 4 Direct VRS Invites.
+Do not assume travel is paid.
+This Additional Information should be checked against the Mastersheet.
+```
+
+## Missing facts
+
+In the document:
+
+```md
+- **Offline venue:** TBC
+- **Travel support:** TBC
+```
+
+In the agent reply only:
+
+```md
+Compliance check:
+- Travel support: TBC
+- Missing items: legal operator name, Main Event venue
+```
+
+Do not invent facts to improve tone.
+
+Do not leave a published sentence that talks about the drafting process.
+
+## Cross-check
+
+Structure, section order, and Valve coverage stay in `vrs-additional-information.mdc` and `00-valve-vrs-compliance.mdc`.
+
+This rule only controls who the published text is speaking to.
