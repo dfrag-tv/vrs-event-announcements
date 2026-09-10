@@ -18,7 +18,7 @@
 ### Direct VRS Invites
 
 - **Invitation Date:** August 21, 2026
-- **VRS publication date used for invites:** August 4, 2026
+- **VRS publication date used for invites:** August 3, 2026
 
 ### Online Open Qualifier
 

@@ -162,8 +162,8 @@ The tournament will operate on the following schedule:
 
 | Milestone                        | Date                                                                                   |
 | -------------------------------- | -------------------------------------------------------------------------------------- |
-| Global and Oceania announcement  | Friday, 28 August 2026                                                                 |
-| Registration opens               | Friday, 4 September 2026, 00:00 AEST (UTC+10)                                          |
+| Global and Oceania announcement  | Friday, 4 September 2026                                                               |
+| Registration opens               | Friday, 11 September 2026, 00:00 AEST (UTC+10)                                         |
 | Registration closes              | Friday, 18 September 2026, 23:55 AEST (UTC+10)                                         |
 | Open Qualifier                   | Saturday 19 September 2026, 10:00 AEST (UTC+10); Sunday 20 September 2026              |
 | Roster deadline / roster lock    | Thursday, 24 September 2026                                                            |
@@ -485,7 +485,7 @@ Where a vacancy occurs after Elimination Stage competition begins, the published
 
 Registration opens:
 
-**Friday, 4 September 2026, 00:00 AEST (UTC+10)**
+**Friday, 11 September 2026, 00:00 AEST (UTC+10)**
 
 Registration closes:
 
@@ -1134,21 +1134,15 @@ The current centrally specified distribution is:
 
 No separate third-place match is required.
 
-First-place compensation is the published Shanghai advancement. DFRAG Media Group will not independently modify the centrally specified prize structure.
+First-place compensation is the published Shanghai advancement plus Shanghai travel and accommodation support. DFRAG Media Group will not independently modify the centrally specified prize structure.
 
 ## 17.2 Travel, Accommodation and Other Compensation
 
-DFRAG Media Group does not provide additional:
+DFRAG Media Group does not provide travel, accommodation, product prizes, appearance payments, or other cash or non-cash tournament compensation for the online Oceania Local Qualifier stages.
 
-- travel allowances;
-- accommodation;
-- product prizes;
-- appearance payments; or
-- other cash or non-cash tournament compensation
+The 1st-place roster receives travel support and accommodation support for the applicable Shanghai stage, provided by eXTREMESLAND / ZOWIE. That support is awarded by final standing.
 
-for the Oceania Local Qualifier.
-
-Shanghai stage name, dates, visa region, travel support and accommodation support are TBC and will be provided by eXTREMESLAND / ZOWIE. Those terms must be published before being represented as part of the tournament award.
+Shanghai stage name, dates, and visa region are TBC and will be provided by eXTREMESLAND / ZOWIE. Those terms must be published before being represented as part of the tournament award.
 
 Unpublished or privately agreed compensation does not form part of the Oceania Local Qualifier prize or advancement structure.
 
@@ -1277,8 +1271,8 @@ Material corrections affecting qualification, elimination, seeding, prize positi
 | Wildcard Invites                 | None                                                                                                 |
 | Invitation date                  | Not Applicable                                                                                       |
 | Tournament Organizer             | DFRAG Media Group Pty Ltd                                                                            |
-| Announcement date                | 28 August 2026                                                                                       |
-| Registration period              | Opens 4 September 2026, 00:00 AEST (UTC+10); closes 18 September 2026, 23:55 AEST (UTC+10)           |
+| Announcement date                | 4 September 2026                                                                                     |
+| Registration period              | Opens 11 September 2026, 00:00 AEST (UTC+10); closes 18 September 2026, 23:55 AEST (UTC+10)          |
 | Open Qualifier                   | Starts 19 September 2026, 10:00 AEST (UTC+10); continues 20 September 2026                           |
 | Roster lock                      | 24 September 2026                                                                                    |
 | VRS publication used for seeding | September 2026 official VRS — exact date and source link to be inserted when announced               |
