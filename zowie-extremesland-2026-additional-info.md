@@ -31,7 +31,7 @@ This Additional Information covers every Regional Qualifier and the Offline LAN 
 
 ## Tournament Dates
 
-Match times: Initial information will be published via Google Sheet. Link: **TBC**.
+Match times: Initial information published via [Google Sheet](https://docs.google.com/spreadsheets/d/14tqmS7evpsNPwcFI3Ci9JlUXP5ZafJmBL2jp0ZkC-UA/edit?usp=sharing)
 
 Registration windows and links are announced by each Regional Tournament Operator.
 
