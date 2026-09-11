@@ -11,14 +11,13 @@ This Additional Information covers every Regional Qualifier and the Offline LAN 
 
 - **Tournament Operator:** eXTREMESLAND
 - **Prize-paying entity:** eXTREMESLAND
-- **ZOWIE lead contact:** [ryan.cheung@benq.com](mailto:ryan.cheung@benq.com)
-- **General contact / invites email:** TBC
+- **eXTREMESLAND Contact/Invites Email:** [hello@extremesland.com](mailto:hello@extremesland.com)
 
 ### Regional operators
 
 | Region | Operator | Contact |
 | --- | --- | --- |
-| China | Perfect World | TBC |
+| China | Perfect World | [esportsteam@pwrd.com](mailto:esportsteam@pwrd.com) |
 | Mongolia | MESA | [mkhantamir@mesa.mn](mailto:mkhantamir@mesa.mn) |
 | Oceania | DFRAG Media Group | [andrew@dfrag.tv](mailto:andrew@dfrag.tv) |
 | Central Asia | FRAG.GG | [https://t.me/fraghibot](https://t.me/fraghibot) |
@@ -94,7 +93,7 @@ The Tournament Organiser may expand a published Open Qualifier cap as needed / w
 | Japan & South Korea | 3rd Place Decider | October 24, 2026 | Online | 0 |
 | Japan & South Korea | Closed Qualifier | October 24, 2026 | Online | 1 to Main Event |
 | China | Open Qualifier #2 | October 24 – November 1, 2026 | Online | 2 to Closed Qualifier |
-| South East Asia | 4th Place Decider | November 7, 2026 | Online | 0 |
+| South East Asia | 4th Place Decider | October 24, 2026 | Online | 0 |
 | South East Asia | Closed Qualifier | November 7, 2026 | LAN | 1 to Main Event |
 | China | Closed Qualifier | November 14–15, 2026 | Online | 1 to Main Event |
 
@@ -287,7 +286,7 @@ Bahrain, Egypt, Iraq, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, Syria, United A
 | Stage | Teams | Format | Match format | Advances |
 | --- | --- | --- | --- | --- |
 | Open Qualifier #1 | First 4096 eligible teams | Single-elimination, stopping at top 6 (Quarter Final winners plus winners of 5th–8th decider matches) | Best-of-1 until qualification matches; Best-of-3 qualification matches | 6 to Closed Qualifier |
-| Open Qualifier #2 | First 256 eligible teams | Single-elimination, stopping at top 2 (Grand Final) | Best-of-1 until qualification matches; Best-of-3 qualification matches | 2 to Closed Qualifier |
+| Open Qualifier #2 | First 128 eligible teams | Single-elimination, stopping at top 2 (Grand Final) | Best-of-1 until qualification matches; Best-of-3 qualification matches | 2 to Closed Qualifier |
 | Closed Qualifier | 8 (1st–6th from Open Qualifier #1 and 1st–2nd from Open Qualifier #2) | Single-elimination with a third-place decider | Best-of-3 | 1 to Main Event Stage 1 |
 
 ### Mongolia
@@ -576,8 +575,8 @@ Prohibited conduct includes cheating, match fixing, collusion, account sharing, 
 
 ## Official Ruleset
 
-ZOWIE eXTREMESLAND 2026 Rulebook, Version 1.0, dated 11/09/26
-- []
+ZOWIE eXTREMESLAND 2026 Rulebook, Version 1.1, dated 11/09/26
+- [https://drive.google.com/file/d/1Uc3rj9gZyV5waJdc9ORdBcy-ROj9GEbG/view?usp=sharing](https://drive.google.com/file/d/1Uc3rj9gZyV5waJdc9ORdBcy-ROj9GEbG/view?usp=sharing)
 
 Valve Tournament Operation Requirements:
 - [https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md](https://github.com/ValveSoftware/counter-strike_rules_and_regs/blob/main/tournament-operation-requirements.md)
